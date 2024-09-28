@@ -24,8 +24,8 @@ fig, ax = plt.subplots()
 ax.barh(keys, values)
 
 # Adding labels and title
-ax.set_xlabel('Intent')
-ax.set_ylabel('Values')
+ax.set_xlabel('probability score')
+ax.set_ylabel('Intents')
 ax.set_title('Intents probability score')
 
 col1, col2 = st.columns([2,4])
