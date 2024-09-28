@@ -1,0 +1,4 @@
+transformers==4.45.1
+torch==2.4.1
+streamlit==1.38.0
+matplotlib==3.9.2
