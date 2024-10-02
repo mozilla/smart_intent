@@ -82,14 +82,20 @@ function toTitleCase(text) {
 }
 
 function findSubjectFromQuery(query, location) {
-    const queryLowerCase = query.toLowerCase();
-    const locationLowerCase = location.toLowerCase();
+  // If location is null, return the entire query as the subject
+  if (!location) {
+      return query;  // Return the original query if there's no detected location
+  }
 
-    const subjectWithoutLocation = queryLowerCase.replace(locationLowerCase, '').trim();
+  const queryLowerCase = query.toLowerCase();
+  const locationLowerCase = location.toLowerCase();
 
-    // Clean the subject by removing any dangling prepositions
-    return cleanSubject(toTitleCase(subjectWithoutLocation));
+  const subjectWithoutLocation = queryLowerCase.replace(locationLowerCase, '').trim();
+
+  // Clean the subject by removing any dangling prepositions
+  return cleanSubject(toTitleCase(subjectWithoutLocation));
 }
+
 
 function cleanSubject(subject) {
     const prepositions = ['in', 'at', 'on', 'for', 'to'];
