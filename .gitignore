@@ -164,6 +164,7 @@ cython_debug/
 
 # data 
 data/full_marco_sessions_ann_split.train.tsv
+data/internal
 
 # model files
 notebooks/distilbert-base-uncased-lora-intent-classification-v2/
