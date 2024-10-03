@@ -156,7 +156,23 @@ class MLSuggest {
     // Initialize engines (if needed for warm start)
     async initialize() {
         console.log("Initializing ML models...");
+        const optionsForIntent = {
+            taskName: "text-classification",
+            modelId: "chidamnat2002/intent_classifier",
+            modelRevision: "main",
+            quantization: "q8"
+        };
+
+        const optionsForNER = {
+            taskName: "token-classification",
+            modelId: "Xenova/bert-base-NER",
+            modelRevision: "main",
+            quantization: "q8"
+        };
+
         // Preload models here if necessary
+        await this.#initializeMLModel(optionsForIntent);
+        await this.#initializeMLModel(optionsForNER);
     }
 }
 
