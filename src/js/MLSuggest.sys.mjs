@@ -31,7 +31,7 @@ class MLSuggest {
     async #findIntent(query) {
         const optionsForIntent = {
             taskName: "text-classification",
-            modelId: "chidamnat2002/intent_classifier",
+            modelId: "mozilla/intent_classifier",
             modelRevision: "main",
             quantization: "q8"
         };
@@ -47,7 +47,7 @@ class MLSuggest {
     async #findNER(query) {
         const optionsForNER = {
             taskName: "token-classification",
-            modelId: "Xenova/bert-base-NER",
+            modelId: "Mozilla/distilbert-NER-LoRA",
             modelRevision: "main",
             quantization: "q8"
         };
@@ -76,13 +76,6 @@ class MLSuggest {
         return locResult.length > 0 ? locResult.join(' ') : null;
     }
 
-    // Internal helper function
-    #toTitleCase(text) {
-        return text.toLowerCase().split(' ').map(word =>
-            word.charAt(0).toUpperCase() + word.slice(1)
-        ).join(' ');
-    }
-
     #findSubjectFromQuery(query, location) {
       // If location is null, return the entire query as the subject
       if (!location) {
@@ -92,7 +85,7 @@ class MLSuggest {
       const queryLowerCase = query.toLowerCase();
       const locationLowerCase = location.toLowerCase();
       const subjectWithoutLocation = queryLowerCase.replace(locationLowerCase, '').trim();
-      return this.#cleanSubject(this.#toTitleCase(subjectWithoutLocation));
+      return this.#cleanSubject(subjectWithoutLocation);
     }
 
     #cleanSubject(subject) {
@@ -121,7 +114,7 @@ class MLSuggest {
         try {
             const [intentRes, nerResult] = await Promise.all([
                 this.#findIntent(query),
-                this.#findNER(this.#toTitleCase(query))
+                this.#findNER(query)
             ]);
 
             const locationResVal = await this.#combineLocations(nerResult, NER_THRESHOLD);
@@ -158,14 +151,14 @@ class MLSuggest {
         console.log("Initializing ML models...");
         const optionsForIntent = {
             taskName: "text-classification",
-            modelId: "chidamnat2002/intent_classifier",
+            modelId: "mozilla/intent_classifier",
             modelRevision: "main",
             quantization: "q8"
         };
 
         const optionsForNER = {
             taskName: "token-classification",
-            modelId: "Xenova/bert-base-NER",
+            modelId: "Mozilla/distilbert-NER-LoRA",
             modelRevision: "main",
             quantization: "q8"
         };
