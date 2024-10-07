@@ -10,3 +10,6 @@ plotly==5.24.1
 datasets==3.0.1
 evaluate==0.4.3
 peft==0.13.0
+
+## onnx 
+onnxruntime==1.19.2
