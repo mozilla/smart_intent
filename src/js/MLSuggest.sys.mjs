@@ -1,6 +1,14 @@
 class MLSuggest {
     #modelEngines = {};
 
+    // Private constructor to prevent instantiation from outside
+    constructor(){
+        if (MLSuggest.instance) {
+            return MLSuggest.instance;
+        }
+        MLSuggest.instance = this;
+    }
+
     // Internal function to initialize the ML model (private)
     async #initializeMLModel(options) {
         const engine_id = `${options.taskName}-${options.modelId}`;
@@ -112,13 +120,16 @@ class MLSuggest {
         const NER_THRESHOLD = 0.5;
 
         try {
+            // Trim the query to remove leading/trailing whitespace
+            const trimmedQuery = query.trim();
+            
             const [intentRes, nerResult] = await Promise.all([
-                this.#findIntent(query),
-                this.#findNER(query)
+                this.#findIntent(trimmedQuery),
+                this.#findNER(trimmedQuery)
             ]);
 
             const locationResVal = await this.#combineLocations(nerResult, NER_THRESHOLD);
-            const subjectRes = this.#findSubjectFromQuery(query, locationResVal);
+            const subjectRes = this.#findSubjectFromQuery(trimmedQuery, locationResVal);
 
             const finalRes = {
                 intent: intentRes,
@@ -169,5 +180,6 @@ class MLSuggest {
     }
 }
 
-// Export the class
-export default MLSuggest;
+// Export the singleton instance
+const mlSuggestInstance = new MLSuggest();
+export default mlSuggestInstance;
