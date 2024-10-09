@@ -14,10 +14,9 @@ class IntentClassifier:
                     7: 'unknown'}
         self.label2id = {label:id for id,label in self.id2label.items()}
 
-        self.tokenizer = AutoTokenizer.from_pretrained("chidamnat2002/intent_classifier")
-        self.intent_model = AutoModelForSequenceClassification.from_pretrained('chidamnat2002/intent_classifier',
+        self.tokenizer = AutoTokenizer.from_pretrained("Mozilla/intent_classifier")
+        self.intent_model = AutoModelForSequenceClassification.from_pretrained('Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier',
                                                                         num_labels=8,
-                                                                        torch_dtype=torch.bfloat16,
                                                                         id2label=self.id2label,
                                                                         label2id=self.label2id)
 
