@@ -14,7 +14,7 @@ class IntentClassifier:
                     7: 'unknown'}
         self.label2id = {label:id for id,label in self.id2label.items()}
 
-        self.tokenizer = AutoTokenizer.from_pretrained("Mozilla/intent_classifier")
+        self.tokenizer = AutoTokenizer.from_pretrained("Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier")
         self.intent_model = AutoModelForSequenceClassification.from_pretrained('Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier',
                                                                         num_labels=8,
                                                                         id2label=self.id2label,
