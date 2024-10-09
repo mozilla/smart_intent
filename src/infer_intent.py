@@ -20,7 +20,10 @@ class IntentClassifier:
         self.tokenizer = AutoTokenizer.from_pretrained("Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier")
 
         model_url = "https://huggingface.co/Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier/resolve/main/onnx/model_quantized.onnx"
-        model_path = "models/mobilebert-uncased-finetuned-LoRA-intent-classifier_model_quantized.onnx"
+        model_dir_path = "models"
+        model_path = f"{model_dir_path}/mobilebert-uncased-finetuned-LoRA-intent-classifier_model_quantized.onnx"
+        if not os.path.exists(model_dir_path):
+            os.makedirs(model_dir_path)
         if not os.path.exists(model_path):
             print("Downloading ONNX model...")
             response = requests.get(model_url)
