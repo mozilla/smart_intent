@@ -3,95 +3,95 @@
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
 
 /**
- *
+ * MLSuggest helps with ML based suggestions around intents and location. 
  */
-class MLSuggest {
+
+const lazyModules = {};
+
+ChromeUtils.defineESModuleGetters(lazyModules, {
+  createEngine: "chrome://global/content/ml/EngineProcess.sys.mjs",
+});
+
+/**  
+ * These INTENT_OPTIONS and NER_OPTIONS will go to remote setting server and depends
+ * on https://bugzilla.mozilla.org/show_bug.cgi?id=1923553 
+  */
+const INTENT_OPTIONS = {
+  taskName: "text-classification",
+  modelId: "mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier",
+  modelRevision: "main",
+  dtype: "q8",
+};
+
+const NER_OPTIONS = {
+  taskName: "token-classification",
+  modelId: "mozilla/distilbert-NER-LoRA",
+  modelRevision: "main",
+  dtype: "q8",
+};
+
+const NER_THRESHOLD = 0.5;
+
+const PREPOSITIONS = ["in", "at", "on", "for", "to", "near"];
+
+class _MLSuggest {
   #modelEngines = {};
 
-  // Private constructor to prevent instantiation from outside
-  constructor() {
-    if (MLSuggest.instance) {
-      return MLSuggest.instance;
-    }
-    MLSuggest.instance = this;
-  }
-
-  // Internal function to initialize the ML model (private)
   async #initializeMLModel(options) {
     const engine_id = `${options.taskName}-${options.modelId}`;
 
-    // If engine was cached previously
+    // uses cache if engine was used
     if (this.#modelEngines[engine_id]) {
       return this.#modelEngines[engine_id];
     }
 
-    // If engine was not cached, initialize the engine
-    const { createEngine } = ChromeUtils.importESModule(
-      "chrome://global/content/ml/EngineProcess.sys.mjs"
-    );
-
     options.engineId = engine_id;
-    options.numThreads = 4;
-    try {
-      const engine = await createEngine(options);
-      this.#modelEngines[engine_id] = engine; // Cache the engine
+    const engine = await lazyModules.createEngine(options);
+    // Cache the engine
+    this.#modelEngines[engine_id] = engine; 
       return engine;
-    } catch (error) {
-      console.error("Error creating engine:", error);
-      throw error;
-    }
   }
 
-  // Internal function to find intent
   async #findIntent(query) {
-    const optionsForIntent = {
-      taskName: "text-classification",
-      modelId: "mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier",
-      modelRevision: "main",
-      quantization: "q8",
-    };
+    const engineIntentClassifier = this.#modelEngines[`${INTENT_OPTIONS.taskName}-${INTENT_OPTIONS.modelId}`];
+    
+    if (!engineIntentClassifier) {
+      console.error("Intent classifier model not initialized.");
+      return null;
+    }
 
-    const engineIntentClassifier = await this.#initializeMLModel(
-      optionsForIntent
-    );
     const request = { args: [query], options: {} };
     const res = await engineIntentClassifier.run(request);
-
-    return res[0].label; // Return the first label from the result
+    // Return the first label from the result  
+    return res[0].label; 
   }
 
-  // Internal function to find named entities
   async #findNER(query) {
-    const optionsForNER = {
-      taskName: "token-classification",
-      modelId: "mozilla/distilbert-NER-LoRA",
-      modelRevision: "main",
-      quantization: "q8",
-    };
+    const engineNER = this.#modelEngines[`${NER_OPTIONS.taskName}-${NER_OPTIONS.modelId}`];
 
-    const engineNER = await this.#initializeMLModel(optionsForNER);
+    if (!engineNER) {
+      console.error("NER model not initialized.");
+      return null;
+    }
+
     const request = { args: [query], options: {} };
-    const res = await engineNER.run(request);
-
-    return res;
+    return engineNER.run(request);
   }
 
-  // Internal helper function to combine locations
   async #combineLocations(nerResult, nerThreshold) {
     let locResult = [];
 
-    nerResult.forEach(res => {
-      if (
-        (res.entity === "B-LOC" || res.entity === "I-LOC") &&
-        res.score > nerThreshold
-      ) {
+    for (let i=0; i < nerResult.length; i++) {
+      const res = nerResult[i];
+      if ((res.entity === "B-LOC" || res.entity === "I-LOC") && res.score > nerThreshold) {
         if (res.word.startsWith("##") && locResult.length) {
-          locResult[locResult.length - 1] += res.word.slice(2); // Append to last word
+          // Append subword to last word
+          locResult[locResult.length - 1] += res.word.slice(2); 
         } else {
           locResult.push(res.word);
         }
       }
-    });
+    }
 
     return locResult.length ? locResult.join(" ") : null;
   }
@@ -102,23 +102,20 @@ class MLSuggest {
       return query;
     }
 
-    const queryLowerCase = query.toLowerCase();
-    const locationLowerCase = location.toLowerCase();
-    const subjectWithoutLocation = queryLowerCase
-      .replace(locationLowerCase, "")
+    const subjectWithoutLocation = query
+      .replace(location, "")
       .trim();
     return this.#cleanSubject(subjectWithoutLocation);
   }
 
   #cleanSubject(subject) {
-    const prepositions = ["in", "at", "on", "for", "to"];
-    const words = subject.split(" ");
-    if (prepositions.includes(words[words.length - 1].toLowerCase())) {
-      words.pop(); // Remove trailing preposition
+    let end = PREPOSITIONS.find(p => subject === p || subject.endsWith(" " + p));
+    if (end) {
+      subject = subject.substring(0, subject.length - end.length).trimEnd();
     }
-    return words.join(" ").trim();
+    return subject;
   }
-
+  
   #sumObjectsByKey(...objs) {
     return objs.reduce((a, b) => {
       for (let k in b) {
@@ -130,43 +127,46 @@ class MLSuggest {
 
   // Make ML-based suggestions
   async makeMLSuggestions(query) {
-    const NER_THRESHOLD = 0.5;
-
-    try {
-      // Trim the query to remove leading/trailing whitespace
-      const trimmedQuery = query.trim();
-
-      const [intentRes, nerResult] = await Promise.all([
-        this.#findIntent(trimmedQuery),
-        this.#findNER(trimmedQuery),
-      ]);
-
-      const locationResVal = await this.#combineLocations(
-        nerResult,
-        NER_THRESHOLD
-      );
-      const subjectRes = this.#findSubjectFromQuery(
-        trimmedQuery,
-        locationResVal
-      );
-
-      const finalRes = {
-        intent: intentRes,
-        location: locationResVal,
-        subject: subjectRes,
-      };
-
-      finalRes.metrics = this.#sumObjectsByKey(
-        nerResult.metrics,
-        nerResult.metrics
-      );
-
-      // console.log("Final result:", finalRes);
-      return finalRes;
-    } catch (error) {
-      console.error("Error in processing:", error);
+    // Return null if models are not initialized before
+    if (!this.#modelEngines[`${INTENT_OPTIONS.taskName}-${INTENT_OPTIONS.modelId}`] || 
+        !this.#modelEngines[`${NER_OPTIONS.taskName}-${NER_OPTIONS.modelId}`]) {
+      console.error("Models not initialized. Please call initialize() first.");
       return null;
     }
+
+    let intentRes, nerResult;
+    try {
+      [intentRes, nerResult] = await Promise.all([
+        this.#findIntent(query),
+        this.#findNER(query),
+      ]);
+    } catch (error) {
+      console.error("Error in model inference:", error);
+      return null;
+    }
+    
+
+    const locationResVal = await this.#combineLocations(
+      nerResult,
+      NER_THRESHOLD
+    );
+    const subjectRes = this.#findSubjectFromQuery(
+      query,
+      locationResVal
+    );
+
+    const finalRes = {
+      intent: intentRes,
+      location: locationResVal,
+      subject: subjectRes,
+    };
+
+    finalRes.metrics = this.#sumObjectsByKey(
+      nerResult.metrics,
+      nerResult.metrics
+    );
+
+    return finalRes;
   }
 
   // Shutdown engines
@@ -178,30 +178,18 @@ class MLSuggest {
         }
       })
     );
+    // Clear the model engines after shutdown
+    this.#modelEngines = {};
   }
 
-  // Initialize engines (if needed for warm start)
+  // Initialize engines
   async initialize() {
-    const optionsForIntent = {
-      taskName: "text-classification",
-      modelId: "mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier",
-      modelRevision: "main",
-      quantization: "q8",
-    };
-
-    const optionsForNER = {
-      taskName: "token-classification",
-      modelId: "mozilla/distilbert-NER-LoRA",
-      modelRevision: "main",
-      quantization: "q8",
-    };
-
-    // Preload models here if necessary
-    await this.#initializeMLModel(optionsForIntent);
-    await this.#initializeMLModel(optionsForNER);
+    await Promise.all([
+      this.#initializeMLModel(INTENT_OPTIONS),
+      this.#initializeMLModel(NER_OPTIONS),
+    ]);
   }
 }
 
 // Export the singleton instance
-const mlSuggestInstance = new MLSuggest();
-export default mlSuggestInstance;
+export var MLSuggest = new _MLSuggest();
