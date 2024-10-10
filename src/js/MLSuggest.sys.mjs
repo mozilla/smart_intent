@@ -32,8 +32,13 @@ const NER_OPTIONS = {
 
 const NER_THRESHOLD = 0.5;
 
+// List of prepositions used in subject cleaning.
 const PREPOSITIONS = ["in", "at", "on", "for", "to", "near"];
 
+/**
+ * Class for handling ML-based suggestions using intent and NER models.
+ * @class
+ */
 class _MLSuggest {
   #modelEngines = {};
 
@@ -49,9 +54,14 @@ class _MLSuggest {
     const engine = await lazyModules.createEngine(options);
     // Cache the engine
     this.#modelEngines[engine_id] = engine; 
-      return engine;
+    return engine;
   }
 
+  /**
+   * Finds the intent of the query using the intent classification model.
+   * @param {string} query - The user's input query.
+   * @returns {Promise<string|null>} The predicted intent label or null if the model is not initialized.
+   */
   async #findIntent(query) {
     const engineIntentClassifier = this.#modelEngines[`${INTENT_OPTIONS.taskName}-${INTENT_OPTIONS.modelId}`];
     
@@ -66,6 +76,11 @@ class _MLSuggest {
     return res[0].label; 
   }
 
+  /**
+   * Finds named entities in the query using the NER model.
+   * @param {string} query - The user's input query.
+   * @returns {Promise<Object[]|null>} The NER results or null if the model is not initialized.
+   */
   async #findNER(query) {
     const engineNER = this.#modelEngines[`${NER_OPTIONS.taskName}-${NER_OPTIONS.modelId}`];
 
@@ -78,6 +93,12 @@ class _MLSuggest {
     return engineNER.run(request);
   }
 
+  /**
+   * Combines location tokens detected by NER into a single string.
+   * @param {Object[]} nerResult - The NER results.
+   * @param {number} nerThreshold - The confidence threshold for including entities.
+   * @returns {string|null} The combined location or null if no location is found.
+   */
   async #combineLocations(nerResult, nerThreshold) {
     let locResult = [];
 
@@ -125,10 +146,15 @@ class _MLSuggest {
     }, {});
   }
 
-  // Make ML-based suggestions
+  /**
+   * Generates ML-based suggestions by finding intent, detecting entities, and combining locations.
+   * @param {string} query - The user's input query.
+   * @returns {Promise<Object|null>} The suggestion result including intent, location, and subject, or null if an error occurs.
+   */
   async makeMLSuggestions(query) {
     // Return null if models are not initialized before
-    if (!this.#modelEngines[`${INTENT_OPTIONS.taskName}-${INTENT_OPTIONS.modelId}`] || 
+    if (!this.#modelEngines ||
+        !this.#modelEngines[`${INTENT_OPTIONS.taskName}-${INTENT_OPTIONS.modelId}`] || 
         !this.#modelEngines[`${NER_OPTIONS.taskName}-${NER_OPTIONS.modelId}`]) {
       console.error("Models not initialized. Please call initialize() first.");
       return null;
@@ -169,7 +195,10 @@ class _MLSuggest {
     return finalRes;
   }
 
-  // Shutdown engines
+  /**
+   * Shuts down all initialized engines.
+   * @returns {Promise<void>}
+   */
   async shutdown() {
     await Promise.all(
       Object.values(this.#modelEngines).map(async engine => {
@@ -182,7 +211,10 @@ class _MLSuggest {
     this.#modelEngines = {};
   }
 
-  // Initialize engines
+  /**
+   * Initializes the intent and NER models.
+   * @returns {Promise<void>}
+   */
   async initialize() {
     await Promise.all([
       this.#initializeMLModel(INTENT_OPTIONS),
