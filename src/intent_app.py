@@ -1,6 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 from infer_intent import IntentClassifier
+from infer_location import LocationFinder
 import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide")
@@ -11,11 +12,21 @@ def get_intent_classifier():
     cls = IntentClassifier()
     return cls
 
+@st.cache_resource
+def get_location_finder():
+    ner = LocationFinder()
+    return ner
+
 cls = get_intent_classifier()
 query = st.text_input("Enter a query", value="What is the weather today")
+query = query.lower()
 pred_result, proba_result = cls.find_intent(query)
 
-st.markdown(f"prediction = :green[{pred_result}]")
+ner = get_location_finder()
+location = ner.find_location(query)
+
+st.markdown(f"Intent = :green[{pred_result}]")
+st.markdown(f"Location = :green[{location}]")
 keys = list(proba_result.keys())
 values = list(proba_result.values())
 
