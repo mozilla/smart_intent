@@ -6,8 +6,8 @@ import os
 
 class LocationFinder:
     def __init__(self):
-        self.tokenizer = AutoTokenizer.from_pretrained("Mozilla/distilbert-uncased-NER-LoRA")
-        model_url = "https://huggingface.co/Mozilla/distilbert-uncased-NER-LoRA/resolve/main/onnx/model_quantized.onnx"
+        self.tokenizer = AutoTokenizer.from_pretrained("chidamnat2002/distilbert-uncased-NER-LoRA")
+        model_url = "https://huggingface.co/chidamnat2002/distilbert-uncased-NER-LoRA/resolve/main/onnx/model_quantized.onnx"
         model_dir_path = "models"
         model_path = f"{model_dir_path}/distilbert-uncased-NER-LoRA"
         if not os.path.exists(model_dir_path):
@@ -44,62 +44,72 @@ class LocationFinder:
         # Define the threshold for NER probability
         threshold = 0.6
         
+        # Define the label map for city, state, organization, citystate
         label_map = {
             0: "O",        # Outside any named entity
             1: "B-PER",    # Beginning of a person entity
             2: "I-PER",    # Inside a person entity
             3: "B-ORG",    # Beginning of an organization entity
             4: "I-ORG",    # Inside an organization entity
-            5: "B-LOC",    # Beginning of a location entity
-            6: "I-LOC",    # Inside a location entity
-            7: "B-MISC",   # Beginning of a miscellaneous entity
-            8: "I-MISC"    # Inside a miscellaneous entity
+            5: "B-CITY",   # Beginning of a city entity
+            6: "I-CITY",   # Inside a city entity
+            7: "B-STATE",  # Beginning of a state entity
+            8: "I-STATE",  # Inside a state entity
+            9: "B-CITYSTATE",   # Beginning of a city_state entity
+           10: "I-CITYSTATE",   # Inside a city_state entity
         }
         
         tokens = self.tokenizer.convert_ids_to_tokens(inputs['input_ids'][0])
 
-        # List to hold the detected location terms
-        location_entities = []
-        current_location = []
+        # List to hold the detected entities (city, state, organization, citystate)
+        city_entities = []
+        state_entities = []
+        org_entities = []
+        city_state_entities = []
 
-        # Loop through each token and its predicted label and probability
+        city_entities = []
+        state_entities = []
+        city_state_entities = []
+        org_entities = []
         for i, (token, predicted_id, prob) in enumerate(zip(tokens, predicted_ids[0], predicted_probs[0])):
-            label = label_map[predicted_id]
-
-            # Ignore special tokens like [CLS], [SEP]
-            if token in ["[CLS]", "[SEP]", "[PAD]"]:
-                continue
-        
-            # Only consider tokens with probability above the threshold
             if prob > threshold:
-                # If the token is a part of a location entity (B-LOC or I-LOC)
-                if label in ["B-LOC", "I-LOC"]:
-                    if label == "B-LOC":
-                        # If we encounter a B-LOC, we may need to store the previous location
-                        if current_location:
-                            location_entities.append(" ".join(current_location).replace("##", ""))
-                        # Start a new location entity
-                        current_location = [token]
-                    elif label == "I-LOC" and current_location:
-                        # Continue appending to the current location entity
-                        current_location.append(token)
+                if token in ["[CLS]", "[SEP]", "[PAD]"]:
+                    continue
                 else:
-                    # If we encounter a non-location entity, store the current location and reset
-                    if current_location:
-                        location_entities.append(" ".join(current_location).replace("##", ""))
-                        current_location = []
+                    if label_map[predicted_id] in ["B-CITY", "I-CITY"]:
+                        city_entities.append(token.replace("##", ""))
+                    elif label_map[predicted_id] in ["B-STATE", "I-STATE"]:
+                        state_entities.append(token.replace("##", ""))
+                    elif label_map[predicted_id] in ["B-CITYSTATE", "I-CITYSTATE"]:
+                        city_state_entities.append(token.replace("##", ""))
+                    elif label_map[predicted_id] in ["B-ORG", "I-ORG"]:
+                        org_entities.append(token.replace("##", ""))
         
-        # Append the last location entity if it exists
-        if current_location:
-            location_entities.append(" ".join(current_location).replace("##", ""))
+        city_state_res = "".join(cs_entity.replace(",", ", ") for cs_entity in city_state_entities) if city_state_entities else None
+        if city_entities:
+            city_res = " ".join(city_entities)
+        elif city_state_res:
+            city_res = city_state_res.split(", ")[0]
+        else:
+            city_res = None
 
-        # Return the detected location terms
-        return location_entities[0] if location_entities != [] else None
+        if state_entities:
+            state_res = " ".join(state_entities)
+        elif city_state_res and len(city_state_res) > 0:
+            state_res = city_state_res.split(", ")[-1]
+        else:
+            state_res = None
 
+        org_res = " ".join(org_entities) if org_entities else None
+        
+        # Return the detected entities
+        return {
+            'city': city_res,
+            'state': state_res,
+        }
 
 if __name__ == '__main__':
-    query = "weather in seattle"
+    query = "weather in san francisco, ca"
     loc_finder = LocationFinder()
-    location = loc_finder.find_location(query)
-    print(f"query = {query} => {location}")
-
+    entities = loc_finder.find_location(query)
+    print(f"query = {query} => {entities}")

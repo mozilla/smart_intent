@@ -46,7 +46,7 @@ class IntentClassifier:
 
         # Run the ONNX model
         logits = self.ort_session.run(None, onnx_inputs)[0]
-
+        
         # Get the prediction
         prediction = np.argmax(logits, axis=1)[0]
         probabilities = np.exp(logits) / np.sum(np.exp(logits), axis=1, keepdims=True)
