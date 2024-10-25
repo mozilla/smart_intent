@@ -6,8 +6,8 @@ import os
 
 class LocationFinder:
     def __init__(self):
-        self.tokenizer = AutoTokenizer.from_pretrained("chidamnat2002/distilbert-uncased-NER-LoRA")
-        model_url = "https://huggingface.co/chidamnat2002/distilbert-uncased-NER-LoRA/resolve/main/onnx/model_quantized.onnx"
+        self.tokenizer = AutoTokenizer.from_pretrained("Mozilla/distilbert-uncased-NER-LoRA")
+        model_url = "https://huggingface.co/Mozilla/distilbert-uncased-NER-LoRA/resolve/main/onnx/model_quantized.onnx"
         model_dir_path = "models"
         model_path = f"{model_dir_path}/distilbert-uncased-NER-LoRA"
         if not os.path.exists(model_dir_path):
