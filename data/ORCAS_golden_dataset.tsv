@@ -1,0 +1,1001 @@
+query	url	label_manual	target
+best reads	http://thegreatestbooks.org/	Abstain	information_intent
+tamerind	https://en.wikipedia.org/wiki/Tamarind	Factual	information_intent
+show mi ip	http://showip.net/	Instrumental	navigation_intent
+do carpenter ants eat wood	https://doyourownpestcontrol.com/carp.htm	Factual	information_intent
+rheumatoid arthritis in children	https://www.webmd.com/rheumatoid-arthritis/understanding-juvenile-rheumatoid-arthritis-basics	Abstain	information_intent
+flight regulations	https://www.united.com/CMS/en-US/travel/Pages/BaggageCarry-On.aspx	Abstain	information_intent
+sports swimming	https://en.wikipedia.org/wiki/Swimming_(sport)	Factual	information_intent
+tacoma wheelbase	https://en.wikipedia.org/wiki/Toyota_Tacoma	Factual	information_intent
+cooking boneless chicken breasts	https://www.thespruce.com/how-to-cook-boneless-skinless-chicken-breasts-479540	Instrumental	information_intent
+how much are medicare premiums for 2018	https://www.medicare.gov/your-medicare-costs/costs-at-a-glance/costs-at-glance.html	Factual	information_intent
+does quizlet cost money	https://www.g2crowd.com/products/quizlet/reviews	Factual	information_intent
+outlamder	https://en.wikipedia.org/wiki/Outlander_(TV_series)	Factual	unknown
+turbotax.cp,	https://turbotax.intuit.com/	Navigational	navigation_intent
+custom gifts	https://www.personalcreations.com/	Abstain	purchase_intent
+cariboo coffee	https://shop.cariboucoffee.com/asp/shop/index.asp	Navigational	yelp_intent
+is richard gere dead	https://en.wikipedia.org/wiki/Richard_Gere	Factual	information_intent
+idverify.irs.gov refund	https://www.irs.gov/	Navigational	navigation_intent
+arctanhx	https://www.rapidtables.com/math/trigonometry/arctan.html	Factual	information_intent
+10+4	https://en.wikipedia.org/wiki/Ten-code	Factual	information_intent
+c# save settings	https://msdn.microsoft.com/en-us/library/aa730869(v=vs.80).aspx	Factual	information_intent
+cdczika	https://www.cdc.gov/zika/about/index.html	Navigational	navigation_intent
+what is lead time	http://www.dictionary.com/browse/lead-time	Factual	information_intent
+direct debits	http://www.directdebit.co.uk/	Navigational	navigation_intent
+muscolare	https://en.wikipedia.org/wiki/Muscle	Factual	information_intent
+place in spain	https://www.britannica.com/place/Spain	Factual	information_intent
+celebrities dead or alive website	http://www.deadoraliveinfo.com/	Navigational	information_intent
+apple phone replacement	https://support.apple.com/iphone/repair/service	Factual	navigation_intent
+weather vancouver march	https://www.theweathernetwork.com/ca/weather/british-columbia/vancouver	Factual	weather_intent
+almond butter	http://www.fitday.com/fitness-articles/nutrition/healthy-eating/almond-butter-vs-peanut-butter.html	Abstain	yelp_intent
+www,craiglist	https://bellingham.craigslist.org/	Navigational	navigation_intent
+force and motion video	http://idahoptv.org/sciencetrek/topics/force_and_motion/facts.cfm	Abstain	information_intent
+what is physical development in childcare	https://study.com/academy/lesson/what-is-child-development-definition-theories-stages.html	Factual	information_intent
+best crossbow for deer hunting	http://www.crossbowcritic.com/best-compound-bow-reviews-beginner-hunting-bows/	Abstain	purchase_intent
+can i order prescription eyeglasses online	https://www.lenscrafters.com/lc-us/eyeglasses	Transactional	purchase_intent
+slo county jail	http://www.slocounty.ca.gov/	Navigational	information_intent
+post traumatic epilepsy	https://en.wikipedia.org/wiki/Post-traumatic_epilepsy	Factual	information_intent
+famous black explorers	http://totallyhistory.com/biography/famous-explorers/	Abstain	information_intent
+health benefits of beet juice	http://www.stylecraze.com/articles/best-benefits-of-beetroot-juice-for-skin-hair-and-health/	Abstain	information_intent
+ss-5	https://www.e-forms.us/social-security-cards/	Abstain	navigation_intent
+paycvor	https://www.paycor.com/	Navigational	navigation_intent
+zeus family tree	https://en.wikipedia.org/wiki/Zeus	Factual	information_intent
+gc12 battery	https://www.batteriesplus.com/Battery/Golf-Cart	Factual	purchase_intent
+background sound effects free download	http://www.orangefreesounds.com/category/music/background-music/	Transactional	navigation_intent
+mars retrograde motion	https://en.wikipedia.org/wiki/Apparent_retrograde_motion	Factual	information_intent
+oberto	https://en.wikipedia.org/wiki/Oberto_Sausage_Company	Factual	information_intent
+dell support assistant repair	http://www.shouldiremoveit.com/Dell-Support-Center-7650-program.aspx	Factual	navigation_intent
+aquitaine	https://en.wikipedia.org/wiki/Aquitaine	Factual	information_intent
+marines seal	https://www.diffen.com/difference/Marines_vs_Navy_SEALs	Abstain	information_intent
+what does the pharynx do	https://www.britannica.com/science/pharynx	Factual	information_intent
+irish alphabet	http://www.omniglot.com/writing/irish.htm	Factual	information_intent
+test mic windows 10	https://www.onlinemictest.com/	Instrumental	navigation_intent
+retention meaning	http://www.thefreedictionary.com/retention	Factual	information_intent
+gooogle login	https://myaccount.google.com/intro/security	Navigational	navigation_intent
+excel merge data	https://support.office.com/en-us/article/Combine-text-from-two-or-more-cells-into-one-cell-81ba0946-ce78-42ed-b3c3-21340eb164a6	Instrumental	navigation_intent
+pioneer woman brisket recipe	http://thepioneerwoman.com/cooking/brisket_baby/	Factual	information_intent
+flowers for algernon daniel keyes	https://www.cliffsnotes.com/literature/f/flowers-for-algernon/daniel-keyes-biography	Factual	information_intent
+bank of eastern oregon	https://www.easternbank.com/	Navigational	navigation_intent
+indeed job	https://www.indeed.com/hire	Navigational	navigation_intent
+phising scam	https://en.wikipedia.org/wiki/Phishing	Factual	information_intent
+clemson tigers news	http://www.espn.com/college-football/team/_/id/228/clemson-tigers	Abstain	information_intent
+how indira gandhi died	https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi	Factual	information_intent
+cbs sports network live stream	https://www.cbs.com/all-access/	Abstain	navigation_intent
+sensitivity calculation	https://www.medcalc.org/calc/diagnostic_test.php	Abstain	information_intent
+tangled characters names	https://en.wikipedia.org/wiki/Tangled	Factual	information_intent
+fallout new vegas ultimate edition	http://fallout.wikia.com/wiki/Fallout:_New_Vegas	Factual	purchase_intent
+rescue knots	https://www.netknots.com/rope_knots	Abstain	information_intent
+padora music	https://play.google.com/store/apps/details?id=com.pandora.android&hl=en	Transactional	navigation_intent
+community bank westfield ny	https://www.communitybankna.com/	Navigational	navigation_intent
+how to measure 7 8 cup	https://www.thespruce.com/how-to-measure-481257	Instrumental	information_intent
+hands turn purple bluish color	http://www.ourhealth.com/conditions/cardiovascular-disease/purple-blue-skin-color	Abstain	information_intent
+definition of activation energy	https://www.britannica.com/science/activation-energy	Factual	information_intent
+launch tech usa	http://launchtechusa.com/	Navigational	navigation_intent
+new jersey corvette dealer largest	https://kerbeck.com/	Abstain	purchase_intent
+salt intake	https://www.heartfoundation.org.au/healthy-eating/food-and-nutrition/salt	Abstain	information_intent
+liver spots on back	http://www.mayoclinic.org/diseases-conditions/age-spots/symptoms-causes/syc-20355859	Abstain	information_intent
+dfas help desk	https://www.pay.gov/public/form/start/60658196	Abstain	navigation_intent
+a340-200	https://en.wikipedia.org/wiki/Airbus_A340	Factual	information_intent
+anthem blue cross number	https://www13.anthem.com/cp/web/sisc/	Factual	navigation_intent
+atorvastain	https://www.drugs.com/atorvastatin.html	Factual	information_intent
+did romeo and juliet get married	http://robertspage.com/romeo.html	Factual	information_intent
+meaning of exception	https://www.thefreedictionary.com/exception	Factual	information_intent
+car rental abroad	https://www.gov.uk/driving-abroad	Abstain	travel_intent
+nadaguidelines	http://www.nadaguides.com/	Navigational	information_intent
+vizio tv remote app	https://www.vizio.com/smartcast-app	Transactional	navigation_intent
+mint green hex	http://www.99colors.net/name/mint-green	Abstain	information_intent
+https://support.hpe.com	https://www.support.hp.com/	Navigational	navigation_intent
+airline abbreviation codes	https://en.wikipedia.org/wiki/Airline_codes	Factual	information_intent
+chesapeake bay bridge tunnel construction	http://www.pilotonline.com/app/media/content/pilotonline/2014/04/marvel/marvel.html	Abstain	information_intent
+duration calculator between two dates	http://www.easysurf.cc/tspan.htm	Transactional	information_intent
+accuweather monthly forecast	https://www.accuweather.com/en/au/melbourne/26216/weather-forecast/26216	Navigational	weather_intent
+download crome free	https://chrome-64-bit.en.softonic.com/download	Transactional	navigation_intent
+zip codes by address	https://www.zip-codes.com/state/mn.asp	Factual	information_intent
+black vault website	http://www.theblackvault.com/documentarchive/cia-mkultra-collection/	Navigational	navigation_intent
+driver license office near me	https://www.dmv.org/ca-california/dmv-office-finder.php	Abstain	navigation_intent
+phosphate conversion coating	https://www.pfonline.com/articles/phosphate-conversion-coatings	Factual	information_intent
+cannot start microsoft outlook 365	https://www.ablebits.com/office-addins-blog/2013/12/06/cannot-start-microsoft-outlook-solutions/	Instrumental	navigation_intent
+the benefits of cinnamon	http://www.organicauthority.com/health/11-health-benefits-of-cinnamon.html	Abstain	information_intent
+united states inflation rate 2018	https://www.statbureau.org/en/united-states/inflation	Factual	information_intent
+free algebra word problem solver	https://www.mathway.com/	Transactional	navigation_intent
+best startup companies	https://www.inc.com/oscar-raymundo/most-valuable-startups-in-the-world.html	Abstain	information_intent
+elasticity coefficient	https://www.kbmanage.com/concept/coefficient-of-elasticity	Factual	information_intent
+what are signs of pneumonia in adults	http://symptomstreatment.org/symptoms-of-walking-pneumonia-in-adults/	Factual	information_intent
+gmail uc davis	https://www.ucdavis.edu/	Navigational	navigation_intent
+about rose	https://en.wikipedia.org/wiki/Rose	Abstain	information_intent
+indiana members credit union login	https://www.macu<.org/	Navigational	navigation_intent
+minnesota inmates	https://coms.doc.state.mn.us/PublicViewer/	Abstain	information_intent
+nursing license lookup	http://www.op.nysed.gov/prof/nurse/	Abstain	information_intent
+netflix.com my account	https://www.netflix.com/?locale=en-US	Navigational	navigation_intent
+why is my cricut cutting through vinyl	https://blog.signwarehouse.com/basic-guide-to-cutting-vinyl-with-a-cricut-craft-robo-or-cameo/	Factual	information_intent
+whale watching east coast	http://www.whalewatching.com/	Abstain	travel_intent
+pocker online	https://www.replaypoker.com/	Transactional	navigation_intent
+sdtax	https://iwr.sdtreastax.com/	Abstain	information_intent
+knight rider tv show	https://www.nbc.com/knight-rider-classic	Factual	information_intent
+air canada plane	https://www.aircanada.com/ca/en/aco/home.html	Navigational	travel_intent
+ffafsa	https://fafsa.ed.gov/	Navigational	navigation_intent
+how to install sharkbite	http://www.sharkbite.com/how-to/sharkbite-push-fit-fittings-how-to-install-pex-tubing-copper-tubing-and-cpvc-tubing/	Instrumental	information_intent
+funny google street view images	https://www.hackread.com/funny-creepy-strange-google-street-view-images/	Transactional	information_intent
+sage name meaning	http://www.thinkbabynames.com/meaning/1/Sage	Factual	information_intent
+disabled iphone connect to itunes not working	https://discussions.apple.com/thread/4887966?start=0&tstart=0	Abstain	navigation_intent
+can i cancel car insurance anytime	https://www.confused.com/car-insurance/guides/how-to-cancel-your-car-insurance	Factual	information_intent
+national weather radar live doppler	https://www.accuweather.com/en/us/national/weather-radar	Factual	weather_intent
+solitaire game cards	http://www.gamesgames.com/games/card-solitaire	Abstain	navigation_intent
+conjunctions list	https://en.wikipedia.org/wiki/Conjunction_(grammar)	Factual	information_intent
+download outlook for win 10	https://products.office.com/en-US/outlook/email-and-calendar-software-microsoft-outlook	Transactional	navigation_intent
+perseverations	https://en.wikipedia.org/wiki/Perseveration	Factual	information_intent
+edit pdf size	https://acrobatusers.com/tutorials/how-to-resize-pages-in-a-pdf-file	Instrumental	navigation_intent
+one drive singin	https://onedrive.live.com/about/en-gb/	Navigational	navigation_intent
+alabaster stone	https://en.wikipedia.org/wiki/Alabaster	Factual	information_intent
+ibuprofen pregnancy	https://www.theguardian.com/society/2011/sep/06/ibuprofen-warning-to-pregnant-women	Abstain	information_intent
+kitcc	http://www.kitco.com/	Navigational	navigation_intent
+kitchen remodel cost	https://www.bhg.com/kitchen/remodeling/planning/cost-of-kitchen-remodeling/	Factual	yelp_intent
+how many people died in the civil war	http://www.bbc.com/news/magazine-17604991	Factual	information_intent
+what is the most unhealthy food in the world	http://healthyeating.sfgate.com/list-unhealthy-foods-world-10261.html	Factual	information_intent
+anticathexis	https://en.wikipedia.org/wiki/Cathexis	Factual	information_intent
+morningstar moat	http://www.morningstar.com/invglossary/economic_moat.aspx	Navigational	information_intent
+drinking alkaline water benefits	https://www.livestrong.com/article/498701-what-are-the-benefits-of-drinking-alkaline-water/	Abstain	information_intent
+nutrients in pomegranate	https://www.nutrition-and-you.com/pomegranate.html	Abstain	information_intent
+issues in the us today	https://www.isidewith.com/polls	Abstain	information_intent
+quicken loans arena	https://en.wikipedia.org/wiki/Quicken_Loans_Arena	Factual	information_intent
+idle for python	https://docs.python.org/2/library/idle.html	Abstain	navigation_intent
+eel skin	https://en.wikipedia.org/wiki/Eel	Factual	information_intent
+what does rosacea look like	https://www.webmd.com/skin-problems-and-treatments/understanding-rosacea-basics	Factual	information_intent
+i need my desktop back	https://answers.microsoft.com/en-us/windows/forum/windows_xp-desktop/help-to-bring-my-icons-back-on-the-screen/9d474729-aa0e-48f1-bdb4-db09eda79166	Abstain	unknown
+terre haute weather forecast	https://www.theweathernetwork.com/us/weather/indiana/terre-haute	Factual	weather_intent
+asthma medications	https://www.nhlbi.nih.gov/health/health-topics/topics/asthma/treatment	Abstain	information_intent
+ozark season 3	https://en.wikipedia.org/wiki/Ozark_(TV_series)	Factual	information_intent
+chilie	http://mjskitchen.com/chile-vs-chili/	Abstain	unknown
+mr hans	https://www.wackbag.com/threads/the-infamous-mr-hands-video.83371/	Abstain	unknown
+green valley casino henderson nv	https://greenvalleyranch.sclv.com/	Abstain	navigation_intent
+evisa egypt	https://www.gov.uk/foreign-travel-advice/egypt/entry-requirements	Factual	travel_intent
+octopus symbolism	https://www.quora.com/What-does-an-octopus-tattoo-symbolize	Abstain	information_intent
+cricinfo scores	http://www.cricinfoscores.com/live-cricket-score/	Navigational	navigation_intent
+high neutrophils low lymphocytes	https://www.healthtap.com/topics/high-neutrophils-and-low-lymphocytes	Abstain	information_intent
+thin ribbon rack builder	https://www.ultrathin.com/	Abstain	navigation_intent
+what is this ip	https://www.iplocation.net/ip-address	Factual	unknown
+window loader	https://www.facebook.com/windows7loader	Transactional	navigation_intent
+cooking a prime rib roast	https://www.thekitchenmagpie.com/how-to-cook-a-prime-rib-roast/	Instrumental	information_intent
+https://web-mech01.mail.mil/owa	https://www.disa.mil/enterprise-services/applications/dod-enterprise-email	Navigational	navigation_intent
+meaning of nouns	https://en.wikipedia.org/wiki/Noun	Factual	information_intent
+exit tickets template	https://www.pinterest.com/hcarpenter3/exit-tickets/	Abstain	information_intent
+how many bags of concrete for 1 yard	https://www.quikrete.com/calculator/main.asp	Factual	information_intent
+rmb and cny	https://en.wikipedia.org/wiki/Renminbi	Abstain	unknown
+big brother 2018	http://www.dailymail.co.uk/tvshowbiz/celebrity_big_brother/index.html	Factual	information_intent
+carteret county public library	http://carteret.cpclib.org/cart/index.htm	Navigational	navigation_intent
+steve mcqueen morgue photo	http://elpasotimes.typepad.com/morgue/2013/11/steve-mcqueen-dies-in-juarez.html	Factual	information_intent
+toothpaste for gum disease	http://www.dailymail.co.uk/health/article-1241900/Five-best--gum-disease-treatments.html	Abstain	information_intent
+ectum	https://en.wikipedia.org/wiki/Rectum	Factual	unknown
+good sam enterprises	http://www.campingworldgoodsamjobs.com/marcus-lemonis/	Abstain	information_intent
+soptfy	https://www.spotify.com/	Navigational	navigation_intent
+2018 ford taurus sho	http://www.roadandtrack.com/car-culture/news/a25497/this-is-what-a-550-hp-ford-taurus-sho-looks-like/	Factual	purchase_intent
+eye optic nerve	http://www.mayoclinic.org/diseases-conditions/optic-neuritis/symptoms-causes/syc-20354953	Abstain	information_intent
+44142	https://www.gasbuddy.com/	Factual	unknown
+geez word	https://www.thefreedictionary.com/geez	Factual	information_intent
+personal fall arrest system osha	https://en.wikipedia.org/wiki/Fall_arrest	Abstain	information_intent
+paypal.com/prepaidlogin	https://www.paypal-prepaid.com/	Navigational	navigation_intent
+highclere castle history	https://en.wikipedia.org/wiki/Highclere_Castle	Abstain	information_intent
+barbie matel	http://barbie.mattel.com/shop	Navigational	purchase_intent
+moniker definition	http://www.dictionary.com/browse/moniker	Factual	information_intent
+kekegenkai	http://naruto.wikia.com/wiki/Kekkei_Genkai	Factual	information_intent
+toledo city school district	http://www.tps.org/	Navigational	navigation_intent
+texas rangers disbanded	https://en.wikipedia.org/wiki/Texas_Ranger_Division	Factual	information_intent
+volkswagen credit payoff phone number	http://www.vw.com/contact/	Factual	navigation_intent
+what are the levels of organization of the human body	http://utahscience.oremjr.alpine.k12.ut.us/sciber00/7th/cells/sciber/levelorg.htm	Factual	information_intent
+aids sign	https://medlineplus.gov/hivaids.html	Abstain	information_intent
+deers.gov	https://www.tricare.mil/deers/	Navigational	unknown
+mrsa recurrence	https://www.medscape.com/viewarticle/756817	Abstain	information_intent
+oticon opn 1	https://www.buyhear.com/products/pair-oticon-opn	Factual	unknown
+pdf add	https://support.office.com/en-us/article/Add-a-PDF-to-your-Office-file-74819342-8F00-4AB4-BCBE-0F3DF15AB0DC	Instrumental	navigation_intent
+implantation bleeding	http://implantationspotting.net/implantation-bleeding-top-5-signs-indicating-early-pregnancy/	Abstain	information_intent
+la fitness	https://www.lafitness.com/Pages/PersonalTrainingGeneral.aspx	Navigational	yelp_intent
+northern safety & industrial	https://www.northernsafety.com/safety/safety-products	Navigational	navigation_intent
+top paid footballers	https://www.footy-boots.com/worlds-top-ten-highest-paid-footballers/	Abstain	information_intent
+new york real id	https://dmv.ny.gov/	Navigational	information_intent
+b12	https://www.drugs.com/health-guide/vitamin-b12-deficiency.html	Factual	information_intent
+ford hybrid	https://www.edmunds.com/ford/escape-hybrid/	Factual	information_intent
+nocturnal	https://en.wikipedia.org/wiki/Nocturnality	Factual	information_intent
+how often do ball pythons eat	http://www.reptileknowledge.com/news/how-often-to-feed-a-ball-python/	Factual	information_intent
+ssamsung	http://promo.samsungpromotions.com/	Abstain	navigation_intent
+uat sign off	https://www.techopedia.com/definition/3887/user-acceptance-testing-uat	Abstain	information_intent
+rescue bridge	http://www.hardeecounty.net/	Abstain	information_intent
+mrcp	https://en.wikipedia.org/wiki/Membership_of_the_Royal_College_of_Physicians	Factual	information_intent
+how to change a catalytic converter	https://www.wikihow.com/Replace-a-Catalytic-Converter	Instrumental	information_intent
+bare metal stent	http://emedicine.medscape.com/article/2009987-overview	Abstain	information_intent
+how to convert excel to csv file	https://www.ablebits.com/office-addins-blog/2014/04/24/convert-excel-csv/	Instrumental	information_intent
+mexico's population 2018	http://countrymeters.info/en/Mexico/	Factual	information_intent
+the monster mash	https://en.wikipedia.org/wiki/The_Original_Monster_Mash	Factual	information_intent
+semifowler	https://en.wikipedia.org/wiki/Semi-Fowler%27s_position	Factual	information_intent
+parthena	http://www.thinkbabynames.com/meaning/0/Parthena	Factual	information_intent
+blue cross blue shield individual plans	https://www.floridablue.com/	Abstain	navigation_intent
+former wimbledon champions	https://en.wikipedia.org/wiki/List_of_Wimbledon_Open_Era_champions	Factual	information_intent
+siren wisconsin	https://en.wikipedia.org/wiki/Siren,_Wisconsin	Factual	information_intent
+baked chicken drumsticks	http://www.cooks.com/recipe/ih9cn9og/oven-baked-drumsticks.html	Factual	information_intent
+definition of rv	https://en.wikipedia.org/wiki/Recreational_vehicle	Factual	information_intent
+rpm	https://en.wikipedia.org/wiki/RPM_International	Factual	information_intent
+new	http://www.manchestertwp.com/	Abstain	unknown
+places to stay near the grand canyon	https://www.expedia.com/Grand-Canyon-Hotels.d6140738.Travel-Guide-Hotels	Abstain	travel_intent
+google dublin	https://www.google.com/contact/	Navigational	navigation_intent
+sql getdate format	http://www.sql-server-helper.com/tips/date-formats.aspx	Factual	information_intent
+dissolving plaque on teeth	http://www.healthtipsportal.com/secret-techniques-to-remove-tartar-plaque-and-heal-teeth-cavities-at-home-naturally/	Instrumental	information_intent
+what is christian character	http://www.discipleshiptools.org/apps/articles/?articleid=37081&columnid=4166	Factual	information_intent
+columbus zoo and aquarium ohio	https://columbuszoo.org/	Navigational	navigation_intent
+quitiapine'	https://en.wikipedia.org/wiki/Quetiapine	Factual	information_intent
+notary rules	http://www.michigan.gov/sos/0,4670,7-127-1638_8736-85780--,00.html	Abstain	information_intent
+is metformin dangerous	https://www.healthline.com/health/diabetes/metformin-side-effects	Factual	information_intent
+procurement meaning in english	http://www.businessdictionary.com/definition/procurement.html	Factual	information_intent
+dcm	http://file.org/extension/dcm	Factual	unknown
+low grade glioma	https://en.wikipedia.org/wiki/Glioma	Factual	navigation_intent
+solar eclipse 2019 usa where	https://www.space.com/33784-solar-eclipse-guide.html	Factual	information_intent
+best vacations on a budget	https://www.oyster.com/articles/44575-the-12-best-bang-for-your-buck-all-inclusives-ever/	Abstain	travel_intent
+dave and busters tulsa	http://www.daveandbusters.com/	Navigational	navigation_intent
+masters grading	https://www.postgrad.com/advice/masters_programs/msc_degree_classification/	Abstain	information_intent
+bake a pork chop	https://www.bhg.com/recipes/how-to/cooking-basics/how-to-bake-pork-chops/	Instrumental	information_intent
+access query date	https://support.office.com/en-us/article/Examples-of-using-dates-as-criteria-in-Access-queries-AEA83B3B-46EB-43DD-8689-5FC961F21762	Transactional	information_intent
+47 chromosomes	https://ghr.nlm.nih.gov/condition/48xxyy-syndrome	Factual	information_intent
+empire fire and marine insurance	https://www.zurichna.com/	Abstain	navigation_intent
+festival in florida	https://www.findfestival.com/florida/	Abstain	information_intent
+who proved the world was round	https://en.wikipedia.org/wiki/Spherical_Earth	Factual	information_intent
+apps to get free internet	https://products.office.com/en-US/office-online/documents-spreadsheets-presentations-office-online	Transactional	information_intent
+pains in stomach	http://www.nhs.uk/conditions/gastritis/Pages/Introduction.aspx	Abstain	information_intent
+reimage repair scam windows 10	https://malwaretips.com/blogs/remove-reimage-repair-ads/	Instrumental	navigation_intent
+how does alcohol affect the body	https://niaaa.nih.gov/alcohol-health/alcohols-effects-body	Factual	information_intent
+ups tv	http://uptv.com/	Transactional	navigation_intent
+fiat 500 pop reviews	https://cars.usnews.com/cars-trucks/fiat/500	Factual	information_intent
+220 c to fahrenheit oven	http://www.onlineconversion.com/cooking_gasmark.htm	Factual	information_intent
+what is a cnm in medical field	http://www.midwife.org/The-Credential-CNM-and-CM	Factual	information_intent
+astroes	https://www.mlb.com/astros	Abstain	information_intent
+standard ethnicity list	https://en.wikipedia.org/wiki/Lists_of_ethnic_groups	Factual	information_intent
+common weeds identification	http://www.walterreeves.com/lawn-care/weeds-identification-with-pictures/	Abstain	information_intent
+i make mistakes	https://www.forbes.com/sites/amyanderson/2013/04/17/good-employees-make-mistakes-great-leaders-allow-them-to/	Abstain	unknown
+vibrio symptoms	https://en.wikipedia.org/wiki/Vibrio_vulnificus	Factual	information_intent
+ciprodex savings	https://www.singlecare.com/prescription/ciprodex	Abstain	navigation_intent
+trachea definition	https://www.thefreedictionary.com/trachea	Factual	information_intent
+nina dobrev instagram	https://twitter.com/ninadobrev/	Abstain	navigation_intent
+pho delivery	https://www.doordash.com/	Abstain	unknown
+who sang it	http://www.askdeb.com/music/who-sang-that-song/	Factual	unknown
+new cell phones coming out	https://www.att.com/shop/wireless/devices/cellphones.html	Abstain	purchase_intent
+google account opening	https://myaccount.google.com/intro?hl=en	Navigational	navigation_intent
+america got talent auditions	http://www.americasgottalentauditions.com/	Navigational	navigation_intent
+rocks and soils	https://www.qld.gov.au/environment/land/soil/soil-explained/forms	Abstain	information_intent
+paint brush types	https://www.art-is-fun.com/artist-paint-brushes/	Factual	information_intent
+microsoft hd audio driver windows 10 download	https://www.drivereasy.com/knowledge/fix-realtek-high-definition-audio-driver-issue-for-windows-10/	Transactional	information_intent
+charities.org	https://www.charitywatch.org/	Navigational	navigation_intent
+lever	http://www.dictionary.com/browse/lever	Factual	information_intent
+ako login]	https://login.us.army.mil/	Navigational	navigation_intent
+us dept of health and human services	https://en.wikipedia.org/wiki/United_States_Department_of_Health_and_Human_Services	Factual	information_intent
+carport kits do it yourself	http://www.backroadhome.net/garages-kits.html	Abstain	information_intent
+high point university news	https://www.usnews.com/best-colleges/high-point-university-2933	Abstain	information_intent
+synonyms of enhance	http://www.thesaurus.com/browse/enhance	Factual	information_intent
+trump is bad	http://www.slate.com/articles/news_and_politics/cover_story/2016/07/donald_trump_is_unfit_to_be_president_here_are_141_reasons_why.html	Abstain	unknown
+ncap crash test	https://www.nhtsa.gov/ratings	Abstain	information_intent
+ohio city income tax rates	https://www.thebalance.com/cities-that-levy-income-taxes-3193246	Abstain	information_intent
+healthiest cottage cheese	https://www.organicfacts.net/health-benefits/animal-product/health-benefits-of-cottage-cheese.html	Abstain	information_intent
+uses of dry ice	http://dryiceinfo.com/other.htm	Abstain	information_intent
+j	https://www.jnj.com/	Abstain	unknown
+how much is a roku account	https://www.rokuguide.com/articles/roku-channel-fees-explained	Factual	information_intent
+most expensive house in the world	https://www.alux.com/most-expensive-houses-world/	Abstain	information_intent
+ww email.com	https://www.google.com/gmail/about/	Navigational	navigation_intent
+chest cold	https://www.top10homeremedies.com/home-remedies/home-remedies-chest-congestion.html	Abstain	information_intent
+who owns guadalcanal today	https://en.wikipedia.org/wiki/Guadalcanal	Factual	navigation_intent
+transformers	https://en.wikipedia.org/wiki/Transformers_universes	Factual	information_intent
+multiply by decimals	https://www.mathsisfun.com/multiplying-decimals.html	Instrumental	information_intent
+chinese communist revolution 1949	http://www.marxist.com/chinese-revolution-1949-one.htm	Factual	information_intent
+history of the model t	http://www.history.com/topics/model-t	Abstain	information_intent
+no till food plot seed	http://wildlifeseedblend.com/no-till-food-plot-seed.html	Abstain	unknown
+export itunes library	https://support.apple.com/en-us/HT201625	Instrumental	navigation_intent
+lotto usa results	https://www.usamega.com/	Navigational	navigation_intent
+requirements for a passport	https://www.usa.gov/passport	Abstain	information_intent
+merciless	http://www.dictionary.com/browse/merciless	Factual	information_intent
+how much cost to build a house	https://www.byoh.com/costtobuildahouse.htm	Factual	information_intent
+msnb.com	http://www.msnbc.com/rachel-maddow-show	Navigational	navigation_intent
+system mechanic download bought already	http://www.iolo.com/	Transactional	unknown
+change display to two monitors	http://smallbusiness.chron.com/make-two-monitors-show-different-things-70605.html	Instrumental	information_intent
+superhero definition	https://www.merriam-webster.com/dictionary/superhero	Factual	information_intent
+gallahue mental health services	https://www.ecommunity.com/services/mental-behavioral-health	Abstain	navigation_intent
+who owns the federal reserve?	http://www.factcheck.org/2008/03/federal-reserve-bank-ownership/	Factual	information_intent
+fluid in hip joint	http://www.sportnetdoc.com/tendonitis-at-the-ischiatic-bone/fluid-accumulation-in-the-hip-joint	Abstain	information_intent
+ascvd risk calculatro	http://www.cvriskcalculator.com/	Transactional	information_intent
+ssdi versus ssi	https://www.disabilitysecrets.com/page5-13.html	Abstain	information_intent
+kombucha benefits	http://www.foodrenegade.com/kombucha-health-benefits/	Abstain	information_intent
+dvla log book change of address	https://www.gov.uk/sold-bought-vehicle	Abstain	navigation_intent
+media creator	http://www.softpedia.com/get/System/Boot-Manager-Disk/Windows-Installation-Media-Creation-Tool.shtml	Abstain	unknown
+cuurency convertor	https://www.oanda.com/currency/converter/	Transactional	navigation_intent
+karate kid 3 cast	https://en.wikipedia.org/wiki/The_Karate_Kid,_Part_III	Factual	information_intent
+10 day weather la	https://weather.com/weather/tenday/l/Los+Angeles+CA+USCA0638:1:US	Factual	weather_intent
+transfer number plate	https://www.gov.uk/personalised-vehicle-registration-numbers/transferring-a-registration-number	Instrumental	information_intent
+what are giblets	http://www.wisegeek.org/what-are-giblets.htm	Factual	information_intent
+how to answer how are you	http://www.cnn.com/2009/LIVING/worklife/03/04/cb.answering.tough.interview.questions/index.html	Instrumental	information_intent
+shuterstock	https://premier.shutterstock.com/	Navigational	navigation_intent
+outlook notifications	https://www.outlook-tips.net/tips/windows-10-and-outlooks-new-email-notifications/	Abstain	information_intent
+spe blood test	https://www.webmd.com/a-to-z-guides/serum-protein-electrophoresis-spe	Factual	information_intent
+pandora the goddess	http://www.theoi.com/Heroine/Pandora.html	Factual	information_intent
+cymbalta side effects in elderly	https://www.drugs.com/pro/cymbalta.html	Factual	information_intent
+article on healthy eating	https://www.helpguide.org/articles/healthy-eating/healthy-eating.htm	Abstain	information_intent
+phase moon	https://www.timeanddate.com/moon/phases/	Factual	information_intent
+sensory disorders	http://www.ascentchs.com/developmental/sensory-processing/symptoms-signs-effects/	Abstain	information_intent
+winco grocery store near me	https://www.wincofoods.com/	Navigational	navigation_intent
+net calculator uk	http://www.netsalarycalculator.co.uk/	Transactional	information_intent
+chinese first name	https://www.travelchinaguide.com/essential/chinese-name.htm	Abstain	unknown
+great golf	https://www.greatwolf.com/	Navigational	unknown
+44269 dortmund	https://en.wikipedia.org/wiki/Dortmund	Factual	information_intent
+induce bowel movement quickly	http://www.newhealthadvisor.com/How-to-Make-Yourself-Poop-Fast.html	Instrumental	information_intent
+www.saccounty.org	http://www.saccounty.net/	Navigational	navigation_intent
+nursing assistant certification	https://cnaclassesnearyou.com/tennessee-cna-requirements-state-approved-cna-training-programs/	Abstain	information_intent
+etsy coupon code	https://www.groupon.com/coupons	Factual	purchase_intent
+lease definition	http://www.thefreedictionary.com/lease	Factual	information_intent
+home building kits and prices	https://www.bobvila.com/slideshow/assembly-required-15-diy-kit-homes-44417	Abstain	purchase_intent
+rochester carburetors for sale	https://www.carburetorexchange.com/docs/rochestercarburetors.php	Abstain	purchase_intent
+dachshund meaning	https://www.merriam-webster.com/dictionary/dachshund	Factual	information_intent
+meaning of yellow	https://www.colormatters.com/the-meanings-of-colors/yellow	Factual	information_intent
+hidan naruto	http://naruto.wikia.com/wiki/Hidan	Factual	information_intent
+netflix member sign	https://www.netflix.com/title/70242311	Navigational	navigation_intent
+uranus ring	https://en.wikipedia.org/wiki/Rings_of_Uranus	Factual	information_intent
+applyatwalmart.com/jobs	https://careers.walmart.com/stores-clubs/walmart-store-jobs	Navigational	navigation_intent
+how to find my microsoft product key	https://www.howtogeek.com/206329/how-to-find-your-lost-windows-or-office-product-keys/	Instrumental	information_intent
+yakult probiotic drink side effects	https://www.alexfergus.com/blog/11-reasons-to-avoid-yakult-and-other-probiotic-drinks	Factual	information_intent
+relative atomic mass definition	https://www.thoughtco.com/definition-of-atomic-mass-weight-604375	Factual	information_intent
+congestion charging zone	https://tfl.gov.uk/modes/driving/congestion-charge/congestion-charge-zone	Abstain	information_intent
+names of muses	http://www.greekmyths-greekmythology.com/nine-muses-in-greek-mythology/	Factual	information_intent
+venomous snakes australia	https://sites.google.com/site/venomousdangerous/snakes/australia-s-most-venomous-snakes	Abstain	information_intent
+novelas in english	http://www.spanishcentral.com/translate/novela	Abstain	translation_intent
+hhn	https://en.wikipedia.org/wiki/Frankfurt-Hahn_Airport	Factual	unknown
+watts middle school	https://www.centerville.k12.oh.us/	Abstain	navigation_intent
+pip payment amounts	https://www.gov.uk/pip/overview	Factual	information_intent
+san francisco marriott marquis union square	http://www.marriott.com/hotels/travel/sfodt-san-francisco-marriott-marquis/	Navigational	navigation_intent
+florida office of insurance regulation	https://www.myfloridacfo.com/Division/Agents/Licensure/	Abstain	navigation_intent
+amortixation	http://www.amortization-calc.com/	Abstain	navigation_intent
+us bank routing number arizona	https://www.usbank.com/bank-accounts/checking-accounts/checking-customer-resources/aba-routing-number.html	Factual	navigation_intent
+cpi for 2019	https://tradingeconomics.com/united-states/consumer-price-index-cpi	Factual	information_intent
+lung drainage	https://www.healthline.com/health/pleural-effusion	Abstain	information_intent
+what's on in derbyshire tomorrow	https://www.tripadvisor.co.uk/Attractions-g186248-Activities-Derbyshire_England.html	Factual	travel_intent
+channel 9 weather	http://www.wftv.com/weather	Factual	weather_intent
+mt vernon ky	https://www.facebook.com/places/Things-to-do-in-Mount-Vernon-Kentucky/103127623061376/	Abstain	unknown
+governor simcoe	https://en.wikipedia.org/wiki/John_Graves_Simcoe	Factual	information_intent
+numbers spreadsheet download for pc	https://www.apple.com/numbers/	Transactional	navigation_intent
+history drama	https://en.wikipedia.org/wiki/Drama	Abstain	unknown
+andy warhol parents	https://en.wikipedia.org/wiki/Andy_Warhol	Factual	information_intent
+order domino's online	https://www.dominos.com/en/	Transactional	navigation_intent
+caucausian	https://en.wikipedia.org/wiki/Caucasian_race	Factual	information_intent
+sbceo	http://sbceo.org/	Navigational	navigation_intent
+abbreviations list	https://www.50states.com/abbreviations.htm	Abstain	information_intent
+enhanced drivers license florida	http://www.flhsmv.gov/html/dlnew.html	Abstain	information_intent
+puerto penasco	http://mexico-rockypoint.com/	Abstain	unknown
+ucc3 form	https://www.gsccca.org/file/ucc-forms	Factual	navigation_intent
+icd 10 code renal insufficiency	http://www.icd10data.com/ICD10CM/Codes/N00-N99/N17-N19/N18-/N18.9	Factual	information_intent
+the great gatsby movie	https://www.moviefone.com/movie/the-great-gatsby/10059239/main/	Factual	information_intent
+how long do you bake cod	https://www.wikihow.com/Bake-Cod	Factual	information_intent
+351 transaction	https://www.law.cornell.edu/uscode/text/26/351	Factual	unknown
+what is discipline mean	https://dictionary.cambridge.org/dictionary/english/discipline	Factual	information_intent
+lose weight with water	https://www.healthline.com/nutrition/drinking-water-helps-with-weight-loss	Instrumental	information_intent
+5 layers of soil	http://www.enchantedlearning.com/geology/soil/	Factual	information_intent
+mac& cheese	http://allrecipes.com/recipes/509/main-dish/pasta/macaroni-and-cheese/	Factual	information_intent
+setting up a sep ira	https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-seps	Instrumental	information_intent
+breast tenderness in older women	https://www.womenshealthnetwork.com/breasthealth/causes-of-breast-pain.aspx	Abstain	information_intent
+patellofemoral osteoarthritis knee	https://www.hss.edu/conditions_patellofemoral-arthritis-in-the-knee-overview.asp	Abstain	information_intent
+necleolus	https://www.thefreedictionary.com/nucleolus	Factual	information_intent
+weather and climate change	https://www.nasa.gov/mission_pages/noaa-n/climate/climate_weather.html	Abstain	information_intent
+how much are truffles	https://en.wikipedia.org/wiki/Truffle	Factual	information_intent
+microsoft live xbox	https://www.xbox.com/en-US/live	Navigational	navigation_intent
+michael jackson's kids	https://www.quora.com/Why-did-Michael-Jacksons-skin-turn-white	Factual	information_intent
+punctuality in the workplace	http://buzzcheryl.blogspot.com/2011/01/7-benefits-of-punctuality.html	Abstain	unknown
+6 months pregnant	http://www.parents.com/pregnancy/week-by-week/24/	Factual	unknown
+bartending certification	https://servercertificationcorp.com/bartending.html	Abstain	information_intent
+finance crisis	https://en.wikipedia.org/wiki/Financial_crisis	Factual	information_intent
+wisconsin sales and use tax	http://www.tax-rates.org/wisconsin/sales-tax	Abstain	information_intent
+infant temperament	http://www.temperament.com/	Abstain	information_intent
+edit program free	https://filmora.wondershare.com/video-editor/free-video-editing-software-windows.html	Transactional	navigation_intent
+#NAME?	https://en.wikipedia.org/wiki/WWE_Network	Navigational	unknown
+richard ramirez victims pictures	https://en.wikipedia.org/wiki/Richard_Ramirez	Factual	information_intent
+thickening of uterine lining	https://www.leaf.tv/articles/home-remedy-to-thicken-endometrial-lining/	Abstain	information_intent
+dia and company	https://www.dia.com/who-we-are	Navigational	navigation_intent
+how to get something manufactured	https://www.shopify.com/blog/13975985-how-to-find-a-manufacturer-or-supplier-for-your-product-idea	Instrumental	information_intent
+how do wheel locks work	http://www.wisegeek.org/what-are-wheel-locks.htm	Instrumental	information_intent
+letter end	https://www.thebalance.com/how-to-end-a-letter-2062308	Abstain	unknown
+how long to cook pork loin	http://startcooking.com/how-to-cook-a-pork-roast	Factual	information_intent
+how to cook beef roasting joint	http://www.macbeths.com/recipes-guides/cooking-guides/roasting-beef-guidance/	Instrumental	information_intent
+the persian gulf war	https://en.wikipedia.org/wiki/Gulf_War	Factual	information_intent
+america facts for kids	http://www.sciencekids.co.nz/sciencefacts/countries/unitedstates.html	Factual	information_intent
+final fantasy xi	http://finalfantasy.wikia.com/wiki/Final_Fantasy_XIV	Navigational	navigation_intent
+http://www.walmart/careers.com	https://careers.walmart.com/stores-clubs/walmart-store-jobs	Navigational	navigation_intent
+latest bill maher	https://www.youtube.com/user/RealTime	Abstain	navigation_intent
+bus canada	http://www.cic.gc.ca/english/newcomers/after-transportation.asp	Abstain	navigation_intent
+wnep school delays and closings	http://wnep.com/weather/school-closing/	Factual	information_intent
+krotan	http://www.foxnews.com/health/2013/12/04/kratom-latest-legal-plant-based-high.html	Abstain	unknown
+facts about volcanos	https://en.wikipedia.org/wiki/Volcano	Factual	information_intent
+speedtyping.com	https://www.speedtypingonline.com/typing-test	Navigational	navigation_intent
+united club san francisco	https://loungereview.com/lounges/united-club-sfo-international/	Abstain	navigation_intent
+first admendment	https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution	Factual	information_intent
+healthy meals to cook	http://www.myrecipes.com/healthy-recipes	Factual	information_intent
+1mymountain.com	http://www.1mymountain.com/	Navigational	navigation_intent
+mid land	https://midlandusa.com/	Navigational	navigation_intent
+dd 441	http://www.dss.mil/isp/fac_clear/fac_clear_check.html	Abstain	unknown
+fort pickett zip code	https://en.wikipedia.org/wiki/Fort_Pickett	Factual	information_intent
+highwayman	https://en.wikipedia.org/wiki/Highwayman_(The_Highwaymen_album)	Factual	information_intent
+louisville in	https://en.wikipedia.org/wiki/Louisville,_Kentucky	Factual	information_intent
+plus size clothing canada online	https://www.maurices.com/	Transactional	purchase_intent
+ds-160 appointment	http://www.ustraveldocs.com/in/in-niv-appointmentschedule.asp	Factual	navigation_intent
+format sd card to fat32 windows 10	https://miapple.me/windows-10-format-external-hard-drives-fat32/	Factual	navigation_intent
+uzbekistan population	https://en.wikipedia.org/wiki/Uzbekistan	Factual	information_intent
+currency converters	https://finance.yahoo.com/currency-converter/	Transactional	navigation_intent
+virtual hairstyler	http://www.taaz.com/virtual-makeover	Abstain	yelp_intent
+anemia	https://beta.nhs.uk/conditions/iron-deficiency-anaemia/	Abstain	information_intent
+what does an automotive engineer do	https://www.fisita.com/yfia/careers/what-does-an-automotive-engineer-do	Factual	information_intent
+msu president	https://en.wikipedia.org/wiki/Lou_Anna_Simon	Factual	information_intent
+www.imap.com	http://whatismyipaddress.com/imap	Navigational	navigation_intent
+fedex pars	http://papscheck.com/	Abstain	navigation_intent
+recommendation letters for employment	http://essaysmith.com/index.php/referenceletters	Abstain	information_intent
+daily forex rates	https://www.dailyfx.com/eur-usd	Abstain	information_intent
+petro truck stops	https://www.ta-petro.com/	Abstain	information_intent
+high rate cds 6%	https://www.depositaccounts.com/cd/	Abstain	information_intent
+skpye download	http://download.cnet.com/skype/windows/	Transactional	navigation_intent
+bactrim ds 800-160	https://www.drugs.com/sfx/bactrim-side-effects.html	Factual	information_intent
+best marine sealant	http://www.boatus.com/boattech/casey/sealant.asp	Abstain	information_intent
+police academy in florida	http://www.laketech.org/ips/law-enforcement	Abstain	navigation_intent
+hip roof calculator	https://www.roofingcalc.com/	Transactional	navigation_intent
+pensacola fl forecast	https://www.theweathernetwork.com/us/weather/florida/pensacola	Factual	weather_intent
+free account	https://azure.microsoft.com/en-us/free/	Transactional	unknown
+winsted mn	https://en.wikipedia.org/wiki/Winsted,_Minnesota	Factual	information_intent
+how to find domains of functions	https://www.symbolab.com/solver/function-domain-calculator	Instrumental	information_intent
+bradley il	https://en.wikipedia.org/wiki/Bradley,_Illinois	Factual	unknown
+sync your windows phone and pc with your microsoft account	http://www.thewindowsclub.com/sync-windows-8-1-pc-settings	Instrumental	information_intent
+square foot converter	https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php	Transactional	navigation_intent
+new apple phone coming out	https://www.lifewire.com/when-does-new-iphone-come-out-1999740	Factual	information_intent
+dog passing blood from rectum	http://www.pethealthandcare.com/dog-health/dog-anus-bleeding.html	Abstain	information_intent
+9 digit zip code	https://www.zip-codes.com/zip-plus-4-database.asp	Factual	unknown
+the divergent series: allegiant cast	http://www.imdb.com/title/tt3410834/	Factual	information_intent
+can you get gout in your ankle	http://gouteducation.org/patient/what-is-gout/gout-symptoms-stages/	Factual	information_intent
+association of writers & writing programs	https://www.awpwriter.org/	Abstain	information_intent
+birth certificate	https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records-Obtaining-Certified-Copies-of-Birth--Death-Records.aspx	Abstain	unknown
+rock climbing richmond	https://www.peakexperiences.com/	Abstain	navigation_intent
+amc forum 30 john r	https://www.amctheatres.com/movie-theatres/detroit/amc-john-r-15	Factual	navigation_intent
+post.org	https://www.gapost.org/	Navigational	navigation_intent
+what is the jurassic period	http://www.ucmp.berkeley.edu/mesozoic/jurassic/jurassic.php	Factual	information_intent
+series lost	https://en.wikipedia.org/wiki/Lost_(TV_series)	Factual	unknown
+what is illegal immigration	http://www.politifact.com/truth-o-meter/statements/2016/sep/01/donald-trump/donald-trump-says-illegal-immigration-costs-113-bi/	Factual	information_intent
+how long is human dna	https://www.researchgate.net/post/What_is_the_average_length_of_DNA_molecules_in_human_cells	Factual	information_intent
+channel 5 news atlanta	http://www.cbs46.com/	Abstain	navigation_intent
+nature vs nurture experiments	https://www.livescience.com/47288-twin-study-importance-of-genetics.html	Abstain	information_intent
+1 hotels new york	https://www.1hotels.com/central-park	Navigational	yelp_intent
+iphone nfc pairing	https://finance.yahoo.com/news/what-is-nfc-and-why-does-it-matter-for-the-iphone-6-96456683964.html	Abstain	information_intent
+blue cross blue shield illinois	http://www.bcbsil.com/member/payment-options	Navigational	navigation_intent
+ageonline	http://www.theage.com.au/	Navigational	navigation_intent
+ga. football	http://www.espn.com/college-football/team/_/id/61/georgia-bulldogs	Abstain	navigation_intent
+medicaid mississippi	https://medicaid.ms.gov/providers/	Navigational	navigation_intent
+vegetarian biryani	http://www.manjulaskitchen.com/vegetable-biryani/	Factual	yelp_intent
+josephbanks	https://www.josbank.com/	Navigational	navigation_intent
+difference between organic and non organic	https://www.theguardian.com/environment/2014/jul/11/organic-food-more-antioxidants-study	Abstain	information_intent
+spine problems scoliosis	https://www.spine-health.com/conditions/scoliosis/scoliosis-what-you-need-know	Abstain	information_intent
+reforms	https://en.wikipedia.org/wiki/Reform	Factual	unknown
+tikal national park	https://en.wikipedia.org/wiki/Tikal	Factual	information_intent
+dsl reports	http://www.dslreports.com/speedtest	Navigational	navigation_intent
+easy panna cotta recipe	https://www.laylita.com/recipes/panna-cotta-recipe/	Factual	information_intent
+irs logon	https://www.irs.gov/	Navigational	navigation_intent
+store coffee	https://www.thespruce.com/how-to-store-coffee-765325	Instrumental	information_intent
+wolwerin	https://en.wikipedia.org/wiki/Wolverine	Factual	information_intent
+ett medical	https://patient.info/doctor/exercise-tolerance-testing-pro	Abstain	unknown
+how to make a baked potato in the oven	https://www.thekitchn.com/how-to-bake-a-potato-three-easy-methods-157073	Instrumental	information_intent
+usbank fargo	https://www.usbank.com/index.html	Navigational	navigation_intent
+mla format maker	http://www.citationmachine.net/	Abstain	navigation_intent
+snymets	https://www.sny.tv/mets/news	Abstain	navigation_intent
+california magazine capacity	https://oag.ca.gov/firearms/pubfaqs	Abstain	unknown
+what is respiratory	http://www.bbc.co.uk/schools/gcsebitesize/science/add_edexcel/organism_energy/respirationrev1.shtml	Factual	information_intent
+cimzia indications	https://www.drugs.com/pro/cimzia.html	Factual	information_intent
+is elder scrolls online good	https://www.reddit.com/r/elderscrollsonline/	Factual	information_intent
+acreage square feet	https://www.checkyourmath.com/convert/area/feet_acres.php	Abstain	information_intent
+usbankk	https://locations.usbank.com/search.html	Abstain	navigation_intent
+front desk assistant job description	https://resources.workable.com/front-desk-representative-job-description	Factual	information_intent
+ms patches	http://windowsupdate.microsoft.com/	Abstain	unknown
+holiday inn express cleveland ohio	https://www.ihg.com/holidayinnexpress/hotels/us/en/cleveland/cleoh/hoteldetail	Factual	navigation_intent
+how big is 40 acres	https://answers.yahoo.com/question/index?qid=20060815133804AAzWhZO	Factual	information_intent
+pain in the left side of stomach	http://www.quickanddirtytips.com/health-fitness/mens-health/when-to-worry-about-abdominal-pain	Abstain	information_intent
+kubota .com	https://www.kubotausa.com/tractors	Navigational	navigation_intent
+perks for work	https://www.perksatwork.com/	Navigational	information_intent
+african chimpanzee	http://www.outtoafrica.nl/animals/engchimpanzee.html	Factual	information_intent
+digestion of fat	https://www.verywell.com/fat-structure-and-functions-2506533	Abstain	information_intent
+holidays throughout the year	http://www.holidayinsights.com/everyday.htm	Abstain	information_intent
+interset rates	https://ig.ft.com/sites/when-rates-rise/	Abstain	information_intent
+university of wasington	http://www.washington.edu/	Navigational	navigation_intent
+weather bug	https://www.accuweather.com/en/us/alabama/weather-radar	Factual	weather_intent
+deped cebu province memo	http://deped.gov.ph/	Navigational	navigation_intent
+weld county sheriff	https://www.weldgov.com/	Abstain	information_intent
+mafic rocks	http://www.dictionary.com/browse/mafic	Factual	information_intent
+are mb or kb bigger	https://www.quora.com/What-file-size-is-bigger-MB-or-KB	Factual	information_intent
+high protein foods list uk	https://www.bbcgoodfood.com/howto/guide/best-sources-protein	Abstain	information_intent
+gdp increase	https://tradingeconomics.com/united-states/gdp-growth	Abstain	information_intent
+usda zones for planting	https://en.wikipedia.org/wiki/USDA_plant_hardiness_zone	Factual	information_intent
+bengals	http://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals	Abstain	unknown
+www.bdo online banking	https://www.bdo.com.ph/personal	Transactional	navigation_intent
+washington house of representatives	https://en.wikipedia.org/wiki/Washington_House_of_Representatives	Factual	information_intent
+bogdanoff twins	https://en.wikipedia.org/wiki/Bogdanov_affair	Factual	information_intent
+how tall is betty white	http://abcnews.go.com/Entertainment/93-year-betty-white-reveals-biggest-regret/story?id=29954939	Factual	information_intent
+www.albertsons.com weekly ad	http://www1.albertsons.com/ShopStores/tools/store-locator.page	Navigational	navigation_intent
+how to remove price stickers	http://www.howtocleanstuff.net/how-to-remove-sticker-residue/	Instrumental	information_intent
+understanding blood test results	http://www.nhs.uk/Conditions/Blood-tests/Pages/What-it-is-used-for.aspx	Instrumental	information_intent
+nist time server	https://www.nist.gov/pml/time-and-frequency-division	Abstain	navigation_intent
+george washingtons life	https://en.wikipedia.org/wiki/George_Washington	Factual	information_intent
+worst looking cars	https://www.edmunds.com/car-reviews/features/100-ugliest-cars-of-all-time.html	Abstain	information_intent
+canards meaning	https://www.merriam-webster.com/dictionary/canard	Factual	information_intent
+zebrz	https://www.britannica.com/animal/zebra	Factual	unknown
+10 things to do in toronto	https://www.tripadvisor.com/Attractions-g155019-Activities-Toronto_Ontario.html	Abstain	information_intent
+the weather	https://www.youtube.com/watch?v=rD6FRDd9Hew	Abstain	weather_intent
+free radio code	http://www.nairaland.com/616468/unlock-car-stereo-free-here	Factual	information_intent
+medicare.fcso/fee schedule	http://medicare.fcso.com/	Navigational	navigation_intent
+track my phone for free	https://play.google.com/store/apps/details?id=com.fsp.android.phonetracker&hl=en	Transactional	navigation_intent
+in vitro diagnosis	https://www.alliedmarketresearch.com/ivd-in-vitro-diagnostics-market	Abstain	information_intent
+dacia automobile	https://en.wikipedia.org/wiki/Automobile_Dacia	Factual	information_intent
+home building cost per square foot	https://www.thumbtack.com/p/home-building-cost-by-sqft	Factual	yelp_intent
+north carolina retirement system	https://orbit.myncretirement.com/Common/PublicCreateEstimate	Abstain	navigation_intent
+dry mouth causes nhs	http://www.explain-health.com/salty-taste-mouth.html	Abstain	information_intent
+q-see view download	https://q-see.com/	Transactional	navigation_intent
+fencing history	https://www.olympic.org/fencing-equipment-and-history	Abstain	information_intent
+penguins eat	https://www.thespruce.com/what-do-penguins-eat-386597	Factual	information_intent
+will ferrell imdb	http://www.imdb.com/name/nm0002071/	Factual	information_intent
+toggle button in excel	http://smallbusiness.chron.com/add-button-microsoft-excel-worksheet-40830.html	Instrumental	information_intent
+telephone alphabet code	https://en.wikipedia.org/wiki/NATO_phonetic_alphabet	Factual	information_intent
+city of conover	https://en.wikipedia.org/wiki/Conover,_North_Carolina	Factual	information_intent
+largest commercial airplane	https://en.wikipedia.org/wiki/Airbus_A380	Factual	information_intent
+symptoms of uti men	https://www.healthline.com/health/mens-health/uti-in-men	Abstain	information_intent
+weather madrid spain	https://www.timeanddate.com/weather/spain/madrid/ext	Factual	weather_intent
+proglitazone	https://www.drugs.com/cdi/pioglitazone.html	Factual	information_intent
+back leg muscle	https://www.fitnessmagazine.com/workout/thighs/exercises/leg-muscles-anatomy/	Abstain	information_intent
+health insurance plans	https://healthsourceri.com/	Abstain	yelp_intent
+skype contact number	https://www.skype.com/en/features/online-number/	Factual	information_intent
+www.straighttalk.com account	https://www.straighttalk.com/wps/portal/home/	Navigational	navigation_intent
+top 10 google searches 2018	https://trends.google.com/trends/topcharts	Abstain	information_intent
+popular types of music	http://time.com/59863/most-popular-music-in-america-map/	Abstain	information_intent
+delta dental ppo high coverage	https://www.deltadental.com/	Navigational	navigation_intent
+upper motor neuron vs lower motor neuron	http://medchrome.com/basic-science/anatomy/lesions-of-upper-motor-neurons-and-lower-motor-neurons/	Abstain	information_intent
+windows control panel	http://www.howto-connect.com/open-control-panel-on-windows-10-instant/	Abstain	information_intent
+samsclubcredit.com	https://www.samsclub.com/sams/pagedetails/content.jsp?pageName=credit	Navigational	navigation_intent
+flux core vs mig welding	https://www.millerwelds.com/resources/article-library/flux-cored-welding-the-basics-for-mild-steel	Abstain	information_intent
+google financ	https://www.google.co.uk/finance	Navigational	navigation_intent
+plant pollination	https://study.com/academy/lesson/what-is-pollination-in-plants-definition-types-quiz.html	Abstain	information_intent
+post high school education	http://www.answers.com/Q/What_does_post_high_school_mean	Factual	information_intent
+is the sun the biggest star	https://en.wikipedia.org/wiki/List_of_largest_known_stars	Factual	information_intent
+www.ticketmaster.com	https://www.ticketmaster.com/	Navigational	navigation_intent
+top 10 tennis players of all time	http://www.espn.com/espn/feature/story/_/id/16371992/tennis-top-20-all	Abstain	information_intent
+what is bronchitis?	https://www.medicinenet.com/bronchitis_acute/article.htm	Factual	information_intent
+carolingian renaissance	http://www.heeve.com/middle-ages-history/carolingian-renaissance.html	Factual	information_intent
+ncb online	https://quickpay.net/	Transactional	navigation_intent
+calhoun schools calhoun ga	http://www.calhounschools.org/	Navigational	navigation_intent
+angry birds wikipedia	https://en.wikipedia.org/wiki/Angry_Birds	Navigational	information_intent
+noun university	https://en.wikipedia.org/wiki/Noun	Abstain	navigation_intent
+rue recipe	https://www.thespruce.com/making-gravy-with-a-roux-1809220	Factual	information_intent
+queen size bedspreads on sale	https://www.bedbathandbeyond.com/store/category/bedding/bedding/bedspreads/12014/	Abstain	purchase_intent
+food with magnesium rich foods	https://www.dietitians.ca/Your-Health/Nutrition-A-Z/Minerals/Food-Sources-of-Magnesium.aspx	Abstain	information_intent
+chase card services	https://creditcards.chase.com/credit-cards/home	Navigational	navigation_intent
+distance from atlanta to savannah	http://www.timeanddate.com/worldclock/distances.html?n=623	Factual	information_intent
+cancun to playa del carmen	https://happyshuttlecancun.com/shuttle-service-from-cancun-to-playa-del-carmen	Abstain	information_intent
+version control	http://oss-watch.ac.uk/resources/versioncontrol	Abstain	information_intent
+types of manufacturing companies	https://www.slideshare.net/mhsgeography/types-of-manufacturing-industry-presentation	Abstain	information_intent
+what foods contain carbs	https://www.livestrong.com/article/254028-list-of-food-containing-carbohydrates/	Factual	information_intent
+forex mcx	https://www.mcxindia.com/	Navigational	navigation_intent
+death index search	https://www.myheritage.com/research/collection-10002/us-social-security-death-index-ssdi	Abstain	unknown
+cialis daily dose	https://www.rxlist.com/cialis-drug.htm	Abstain	information_intent
+ryzen memory	https://www.techpowerup.com/231585/amd-ryzen-infinity-fabric-ticks-at-memory-speed	Abstain	information_intent
+alpecin caffeine shampoo side effects	https://experthealthreviews.com/caffeine-shampoos-review	Factual	information_intent
+small oranges cuties	https://www.eatlikenoone.com/what-is-the-difference-between-cuties-halos.htm	Abstain	information_intent
+benefits of breast milk	https://www.fitpregnancy.com/baby/breastfeeding/20-breastfeeding-benefits-mom-baby	Abstain	information_intent
+verizon update towers	https://www.verizonwireless.com/support/preferred-roaming-list-update-faqs/	Abstain	navigation_intent
+power point veiwer	https://products.office.com/en-us/powerpoint	Transactional	navigation_intent
+high school equivalent	http://www.cde.ca.gov/ta/tg/gd/	Abstain	unknown
+sql order descending	https://www.w3schools.com/SQL/sql_orderby.asp	Factual	information_intent
+nurse aide registry massachusetts	http://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/nurse-aides/	Abstain	navigation_intent
+gordo's	http://www.spanishdict.com/translate/gordo	Abstain	yelp_intent
+gum tree australia	https://www.thespruce.com/twelve-species-of-gum-trees-3269664	Abstain	information_intent
+track fedex smartpost	https://www.packagetrackr.com/track/fedex-smart-post	Instrumental	navigation_intent
+how much are solar panels	https://www.wholesalesolar.com/solar-information/solar-cost	Factual	information_intent
+sikh surnames	http://tekeli.li/onomastikon/India/Sikh/Surnames.html	Abstain	information_intent
+sears stores near me	http://www.sears.com/stores.html	Navigational	navigation_intent
+aa milne	https://en.wikipedia.org/wiki/A._A._Milne	Factual	information_intent
+apply for a dbs	https://www.gov.uk/government/publications/dbs-application-forms-guide-for-applicants	Instrumental	navigation_intent
+nc sales tax	https://www.taxjar.com/states/north-carolina-sales-tax-online/	Navigational	navigation_intent
+ups calculator for shipping	https://wwwapps.ups.com/ctc/request?loc=en_US	Transactional	navigation_intent
+inflammatory foods	http://www.care2.com/greenliving/top-12-foods-that-cause-inflammation.html	Abstain	information_intent
+macs 609	https://www.epa.gov/mvac/section-609-technician-training-and-certification-programs	Factual	information_intent
+minecraft earth codes	https://code.org/minecraft	Factual	navigation_intent
+why wont chrome open	http://productforums.google.com/d/topic/chrome/Pp1ISxS-TkE	Factual	information_intent
+buffer recipe	http://microscopy.berkeley.edu/Resources/instruction/buffers.html	Factual	information_intent
+sweet potato diet	http://www.sparkpeople.com/blog/blog.asp?post=how_sweet_potatoes_led_to_my_90pound_weight_loss	Abstain	information_intent
+popular baby names	https://nameberry.com/	Abstain	information_intent
+ninda	https://en.wikipedia.org/wiki/Ninja	Factual	unknown
+what to do when your eyes hurt	https://www.webmd.com/eye-health/eye-pain-causes-symptoms-diagnosis-treatment	Factual	information_intent
+what is pneumonia	http://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204	Factual	information_intent
+princess di	http://www.instyle.com/celebrity/princess-dianas-most-iconic-style-moments	Abstain	information_intent
+ethylene glycol coolant color	https://www.hemmings.com/blog/2014/08/01/tech-101-the-colors-of-antifreeze/	Abstain	information_intent
+difference between language and dialect	http://www.differencebetween.com/difference-between-language-and-vs-dialect/	Abstain	information_intent
+transporteur dpd	https://www.dpd.com/tracking	Navigational	navigation_intent
+cyclooxygenase	https://www.bhf.org.uk/heart-matters-magazine/medical/drug-cabinet/aspirin	Abstain	information_intent
+dmv nj gov	https://www.dmv.org/nj-new-jersey/license-plates.php	Navigational	navigation_intent
+at&t star codes for phones	https://www.att.com/esupport/article.html#!/wireless/KM1051624	Factual	navigation_intent
+quetzalcoatl god	https://en.wikipedia.org/wiki/Quetzalcoatl	Factual	information_intent
+vue tv	https://www.playstation.com/en-us/network/vue/roku/	Abstain	navigation_intent
+kentucky finance cabinet	https://finance.ky.gov/services/eprocurement/Pages/default.aspx	Navigational	information_intent
+tor project download windows	https://www.torproject.org/download/download-easy.html.en	Transactional	navigation_intent
+edby	http://www.sdhc.k12.fl.us/	Abstain	unknown
+mcgovern hyundai brockton	http://www.mcgovernhyundai.com/	Navigational	navigation_intent
+how much is internet with xfinity	https://www.xfinity.com/learn/internet-service	Factual	information_intent
+myr	http://www.xe.com/currency/myr-malaysian-ringgit	Factual	information_intent
+analysis phase of sdlc	https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx	Abstain	information_intent
+iacra login	https://iacra.faa.gov/iacra/	Navigational	navigation_intent
+ventral spinal cord	https://en.wikipedia.org/wiki/Spinal_cord	Factual	information_intent
+world health organisation breastfeeding uk	https://www.unicef.org/nutrition/index_24824.html	Abstain	information_intent
+toronto blue jays jacket	https://www.mlb.com/bluejays	Abstain	purchase_intent
+office of medicaid inspector general	https://oig.hhs.gov/	Navigational	navigation_intent
+pharaonic egypt	https://en.wikipedia.org/wiki/History_of_Ancient_Egypt	Abstain	information_intent
+projector screen	https://www.cnet.com/how-to/the-big-picture-projection-screen-basics/	Abstain	unknown
+calhoun	https://en.wikipedia.org/wiki/Calhoun,_Georgia	Factual	information_intent
+hoise	http://www.whois.net/	Navigational	unknown
+best bridesmaid dresses online	https://www.theknot.com/fashion/bridesmaid-dresses	Transactional	purchase_intent
+lufthansa slogan	https://en.wikipedia.org/wiki/Lufthansa	Abstain	information_intent
+homogenization	https://www.thefreedictionary.com/homogenization	Factual	information_intent
+ropivacaine vs bupivacaine	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106379/	Abstain	information_intent
+sample recommendation letters	https://www.e-education.psu.edu/writingrecommendationlettersonline/node/141	Abstain	information_intent
+ppo	https://www.ehealthinsurance.com/health-plans/ppo	Abstain	unknown
+external display	https://help.ubuntu.com/stable/ubuntu-help/display-dual-monitors.html	Abstain	unknown
+amsterdam tulip season	http://www.rearviewmirror.tv/holland-tulip-festival/	Abstain	information_intent
+spectrum internet upload speeds	https://www.spectrum.com/internet.html	Abstain	information_intent
+fuzzy bears	https://en.wikipedia.org/wiki/Fozzie_Bear	Factual	information_intent
+usb-a	http://www.belkin.com/us/p/P-F2CU029/	Abstain	information_intent
+oven temp for pork tenderloin	https://cooking.stackexchange.com/questions/10464/what-temperature-to-cook-a-pork-tenderloin-at	Abstain	information_intent
+amazon telephone number customer service	https://techboomers.com/t/amazon-customer-service	Factual	navigation_intent
+four forces of nature	http://www.quirkyscience.com/four-fundamental-forces/	Abstain	information_intent
+atcts account registration	http://atc.us.army.mil/	Navigational	navigation_intent
+bipolar condition	https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml	Factual	information_intent
+when was the thermometer invented	https://www.thoughtco.com/the-history-of-the-thermometer-1992525	Factual	information_intent
+www.netspend.com/activate visa	https://www.netspend.com/	Navigational	navigation_intent
+the sausage maker	https://www.sausagemaker.com/sausage-casings-s/1922.htm	Abstain	purchase_intent
+weather for pittsburgh, pa	https://www.accuweather.com/en/us/pittsburgh-pa/15219/weather-forecast/1310	Factual	weather_intent
+how to care for a newborn boy	https://www.parents.com/baby/care/newborn/newborn-worries-not-to-worry-about1/	Instrumental	information_intent
+signs and symptoms of lupus	https://www.healthline.com/health/lupus/early-signs	Abstain	information_intent
+best outdoor flowering plants	https://www.sunset.com/garden/flowers-plants/best-perennials-fall-planting	Abstain	information_intent
+la mesa california	https://www.mapquest.com/us/ca/la-mesa-282040052	Abstain	information_intent
+valium pills	https://en.wikipedia.org/wiki/Diazepam	Factual	information_intent
+ewealthmanager login	https://www.genworth.com/	Navigational	navigation_intent
+ige serum	https://labtestsonline.org/understanding/analytes/total-ige/tab/test	Abstain	information_intent
+ramen coleslaw	http://startcooking.com/ramen-noodle-crunchy-coleslaw	Factual	yelp_intent
+calculate mpg	http://mistupid.com/automotive/mpg.htm	Instrumental	information_intent
+allegheny county assistance office pa	http://dhs.pa.gov/citizens/healthcaremedicalassistance/index.htm	Abstain	navigation_intent
+the wembley	https://en.wikipedia.org/wiki/Wembley_Stadium	Factual	information_intent
+md mva	http://www.mva.maryland.gov/locations/montgomerycounty.htm	Navigational	navigation_intent
+my local congressman	https://www.house.gov/representatives/find-your-representative	Abstain	information_intent
+what is the maximum number of rows in excel	https://superuser.com/questions/366468/what-is-the-maximum-allowed-rows-in-a-microsoft-excel-xls-or-xlsx	Factual	information_intent
+sterling federal credit union	https://sufcu.org/	Navigational	navigation_intent
+google backup for android phone	https://support.google.com/nexus/answer/2819582?hl=en	Instrumental	information_intent
+nramemberservices.org	https://home.nra.org/	Navigational	navigation_intent
+bulb invented by	https://www.quora.com/Who-invented-the-light-bulb	Factual	information_intent
+events in nh today	http://www.nhmagazine.com/Calendar/	Abstain	information_intent
+macfree	https://www.mcafee.com/	Navigational	navigation_intent
+ebitda definition formula	https://www.businessnewsdaily.com/4461-ebitda-formula-definition.html	Factual	information_intent
+prague temperatures by month	http://www.prague.climatemps.com/	Factual	weather_intent
+byte order	http://myrepono.com/faq/4	Abstain	information_intent
+lithuanian language	http://www.lituanus.org/1982_1/82_1_01.htm	Factual	information_intent
+balsalazide disodium 750mg	https://www.medicinenet.com/balsalazide_disodium/article.htm	Factual	information_intent
+colonialism in nigeria	https://en.wikipedia.org/wiki/History_of_Nigeria	Abstain	information_intent
+crafting guide gw2	https://wiki.guildwars2.com/wiki/Crafting	Factual	information_intent
+james v reyes	http://wikipicky.com/tv-celebrity/laura-ingraham-married-husband-divorce-salary-and-net-worth.html	Abstain	unknown
+quicken interest rates	https://www.quickenloans.com/mortgage-rates	Navigational	navigation_intent
+what is cold brew coffee	https://www.chowhound.com/recipes/basic-cold-brewed-coffee-30487	Factual	information_intent
+gym membership	https://www.anytimefitness.com.au/why-anytime/	Abstain	unknown
+how do you sell a car	https://www.moneyadviceservice.org.uk/en/articles/how-to-sell-your-car-privately	Instrumental	information_intent
+dark spots on tongue	https://www.wowremedies.com/black-spots-on-tongue-causes-and-treatment/	Abstain	information_intent
+2know	http://right2know.timesfreepress.com/	Navigational	navigation_intent
+weather history by date	https://www.wunderground.com/history/	Abstain	information_intent
+recipe for zucchini and squash	http://www.myrecipes.com/recipe/sauted-squash-zucchini	Factual	information_intent
+recommended 401k contributions by age	https://www.moneyunder30.com/how-much-should-you-contribute-to-your-401k	Factual	information_intent
+how to update my sgli online	http://www.benefits.va.gov/insurance/sgli.asp	Instrumental	information_intent
+pc support scam	https://www.lifewire.com/i-just-fell-for-a-pc-support-scam-now-what-2487799	Abstain	unknown
+html style tag	https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style	Abstain	information_intent
+ncstate fair	http://ncstatefair.org/	Navigational	navigation_intent
+can jews eat shrimp	http://www.jewfaq.org/kashrut.htm	Factual	information_intent
+amaric	https://en.wikipedia.org/wiki/Amharic_language	Factual	unknown
+st pauline	https://en.wikipedia.org/wiki/Pauline_Christianity	Factual	information_intent
+brale	https://en.wikipedia.org/wiki/Braille	Factual	unknown
+vrbo.com	https://www.vrbo.com/	Navigational	navigation_intent
+apply for costco membership	https://www.costco.com/join-costco.html	Instrumental	navigation_intent
+currency for cuba	http://www.visitcuba.com/travel-guide/travel-tips/	Abstain	information_intent
+best rain gutters	https://www.hometips.com/buying-guides/rain-gutters.html	Abstain	yelp_intent
+outlook set up	https://support.office.com/en-us/article/Set-up-email-in-the-Outlook-for-Android-app-886db551-8dfa-4fd5-b835-f8e532091872	Instrumental	information_intent
+history of trolls	https://en.wikipedia.org/wiki/Troll	Abstain	unknown
+histrionic personality disorder examples	https://en.wikipedia.org/wiki/Histrionic_personality_disorder	Factual	information_intent
+2016 vw gti	https://www.caranddriver.com/volkswagen/golf-gti	Factual	information_intent
+what mobile phone is best for me	https://www.tomsguide.com/us/best-smartphones,review-2223.html	Factual	purchase_intent
+transmembrane potential	https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-membrane-potential	Abstain	information_intent
+surgery for detached retina	https://www.medicinenet.com/retinal_detachment/article.htm	Abstain	information_intent
+interpreting blood test results	http://alternativehealth.co.nz/cancer/tests/interpret.htm	Instrumental	information_intent
+severe abdominal pain	https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/abdominal-pain-in-adults	Abstain	unknown
+medical information bureau	https://www.annualmedicalreport.com/howto-request-medical-report/the-medical-information-bureau-inc-mib/	Abstain	navigation_intent
+finance companies for bad credit	http://www.bankrate.com/finance/credit/low-credit-score-borrowers-get-mortgage.aspx	Abstain	information_intent
+parts of the scalp	https://en.wikipedia.org/wiki/Scalp	Factual	information_intent
+softwood tree	https://www.gardeningknowhow.com/ornamental/trees/tgen/softwood-tree-information.htm	Abstain	information_intent
+tricare young adult program	http://www.military.com/benefits/tricare/tricare-young-adult-tya-program.html	Abstain	information_intent
+nsips new link	http://www.public.navy.mil/BUPERS-NPC/organization/npc/IM/corporatessystems/Pages/nsips.aspx	Abstain	navigation_intent
+ny state wcb	http://www.wcb.ny.gov/content/main/Contact.jsp	Navigational	navigation_intent
+fit-dna test	https://www.cancer.org/cancer/colon-rectal-cancer/detection-diagnosis-staging/screening-tests-used.html	Abstain	information_intent
+the ups store.com	https://www.theupsstore.com/store-services	Navigational	navigation_intent
+the founder of google	https://en.wikipedia.org/wiki/History_of_Google	Factual	information_intent
+england and united kingdom	https://www.thoughtco.com/united-kingdom-great-britain-and-england-1435711	Abstain	information_intent
+oee performance calculation	https://www.leanproduction.com/oee.html	Abstain	information_intent
+venous thromboembolism	https://www.cdc.gov/ncbddd/dvt/facts.html	Factual	information_intent
+cone shapes	https://en.wikipedia.org/wiki/Cone	Factual	information_intent
+demerara sugar	http://bakingbites.com/2008/01/what-are-demerara-turbinado-and-muscovado-sugars/	Abstain	information_intent
+rassmussen presidential apporval	https://www.rasmussenreports.com/public_content/politics/obama_administration/daily_presidential_tracking_poll	Navigational	navigation_intent
+exchange definition	https://www.investopedia.com/terms/e/exchange.asp	Factual	information_intent
+westjet world elite mastercard login	http://www.rbcroyalbank.com/credit-cards/travel-credit-cards/westjet-world-elite-mastercard.html	Navigational	navigation_intent
+illinois lottery official site	https://www.lotterypost.com/game/49/results	Navigational	navigation_intent
+wellsfargo/activatecard.com	https://www.wellsfargo.com/goals-banking-made-easy/activate-debit-card/	Navigational	navigation_intent
+myhbo	https://play.hbogo.com/	Navigational	navigation_intent
+water safety tips	http://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/water-safety	Abstain	information_intent
+saudiaramco.com	http://www.saudiaramco.com/en/home.html	Navigational	navigation_intent
+meningitis fever	http://health.facty.com/conditions/meningitis/10-signs-of-meningitis/	Abstain	information_intent
+when did usa join ww2	http://www.answers.com/Q/Why_did_the_US_become_involved_in_World_War_2	Factual	information_intent
+why does google chrome go to bing	https://answers.yahoo.com/question/index?qid=20121118125348AAtMCpA	Factual	information_intent
+texasfarmbureau.com	http://texasfarmbureau.org/membership/member-benefits/	Navigational	navigation_intent
+sharepointonline.com	https://products.office.com/en-us/SharePoint/compare-sharepoint-plans	Navigational	navigation_intent
+ranier	https://www.nps.gov/mora/index.htm	Abstain	unknown
+who blood pressure chart	http://www.bloodpressureuk.org/BloodPressureandyou/Thebasics/Bloodpressurechart	Factual	information_intent
+substitute greek yogurt for sour cream	https://www.thekitchn.com/heres-how-to-substitute-yogurt-for-sour-cream-tips-from-the-kitchn-219130	Abstain	information_intent
+uk boy bands	https://www.thoughtco.com/top-boy-bands-of-all-time-3243917	Abstain	information_intent
+the boss baby 2017	http://www.imdb.com/title/tt3874544/	Factual	information_intent
+good professional skills	https://www.livecareer.com/quintessential/job-skills-values	Abstain	information_intent
+alan alda	http://www.imdb.com/name/nm0000257/	Factual	information_intent
+iron maiden albums	https://en.wikipedia.org/wiki/Iron_Maiden	Factual	information_intent
+damsels in distress	https://en.wikipedia.org/wiki/Damsel_in_distress	Factual	information_intent
+genocide rwanda	http://www.history.com/topics/rwandan-genocide	Abstain	information_intent
+california non resident tax form	https://ttlc.intuit.com/questions/1901271-how-do-i-file-a-nonresident-state-return	Instrumental	navigation_intent
+what is the abbreviation for for example	https://brians.wsu.edu/2016/05/25/e-g-i-e/	Factual	information_intent
+how to treat mites on chickens	https://www.mypetchicken.com/backyard-chickens/chicken-help/What-are-the-signs-of-mites-or-lice-and-how-do-I-H79.aspx	Instrumental	information_intent
+text to speech	http://www.naturalreaders.com/	Abstain	unknown
+poseidon story	https://en.wikipedia.org/wiki/Poseidon	Factual	information_intent
+alphabetical list of american artists	http://www.artcyclopedia.com/artists/AZ.html	Abstain	information_intent
+active transport and passive transport	https://www.thoughtco.com/active-and-passive-transport-603886	Abstain	information_intent
+magnesium taurate supplements	https://labdoor.com/rankings/magnesium	Abstain	purchase_intent
+margot robbie actress	http://www.imdb.com/name/nm3053338/	Factual	information_intent
+adp kimpton vantage	https://adpvantage.adp.com/public/index.htm	Navigational	navigation_intent
+is rice a grain	https://www.choosemyplate.gov/grains	Factual	information_intent
+cross curricular lessons	https://www.edutopia.org/blog/cross-curricular-teaching-deeper-learning-ben-johnson	Abstain	information_intent
+symptoms of high bun	http://www.kidneyfailureweb.com/creatinine/431.html	Abstain	information_intent
+fifa world cup women 2019	http://www.fifa.com/womensworldcup/index.html	Navigational	navigation_intent
+gutters installed	https://www.fixr.com/costs/install-gutters	Factual	yelp_intent
+md medical license lookup	https://www.health.ny.gov/professionals/doctors/conduct/license_lookup.htm	Abstain	information_intent
+first bank	http://www.bankatfirst.com/content/first-financial-bank/home.html	Abstain	navigation_intent
+match in excel	https://exceljet.net/excel-functions/excel-match-function	Factual	information_intent
+nfl schedule today on tv	http://www.nfl.com/network/schedule	Navigational	navigation_intent
+salah wikipedia	https://en.wikipedia.org/wiki/Salah	Navigational	information_intent
+animated engines	http://www.animatedengines.com/diesel.html	Navigational	navigation_intent
+cherokee reservations	http://www.cherokee.org/	Abstain	information_intent
+ucl thumb	https://www.verywell.com/gamekeepers-thumb-2548605	Abstain	information_intent
+excel qm 5.2	http://wps.prenhall.com/bp_taylor_introms_11/220/56508/14466195.cw/content/	Factual	navigation_intent
+reference a book	http://www.neilstoolbox.com/bibliography-creator/reference-book.htm	Instrumental	information_intent
+allstate uber claims	https://www.allstate.com/claims/report-claim.aspx	Navigational	navigation_intent
+dla stores web	http://www.dla.mil/	Navigational	navigation_intent
+applied kinesiology	http://www.skepdic.com/akinesiology.html	Factual	information_intent
+examples of hydrophobic molecules	https://www.thoughtco.com/definition-of-hydrophobic-605228	Factual	information_intent
+f1 result today	https://www.formula1.com/	Navigational	navigation_intent
+bpa	https://bpaal.com/	Navigational	unknown
+word to pdf converter online free	https://www.wordtopdf.com/	Transactional	navigation_intent
+dinovite for dogs	http://www.dinovite.com/all-products/dinovite-for-dogs/	Navigational	purchase_intent
+valentine's day meaning and definition	https://en.wikipedia.org/wiki/Valentine%27s_Day	Factual	information_intent
+racism for kids	https://www.merriam-webster.com/dictionary/racism	Factual	information_intent
+airbed uk	https://www.airbnb.co.uk/	Abstain	purchase_intent
+emirates seat pitch	https://www.seatguru.com/airlines/Emirates_Airlines/information.php	Abstain	information_intent
+directv	https://www.att.com/directv/experience.html	Abstain	navigation_intent
+top high schools in the us	https://www.usnews.com/education/best-high-schools	Abstain	information_intent
+epa fuel mileage ratings	http://www.fueleconomy.gov/feg/Find.do?action=sbsSelect	Abstain	information_intent
+what is m.a. degree	http://education.seattlepi.com/ba-ma-phd-mean-degrees-1378.html	Factual	information_intent
+french revolution of 1789	https://en.wikipedia.org/wiki/French_Revolution	Factual	information_intent
+stages of grif	https://psychcentral.com/lib/the-5-stages-of-loss-and-grief/	Abstain	information_intent
+capricorn birth stone	https://www.keen.com/articles/astrology/birthstones-by-zodiac-sign	Abstain	information_intent
+is death penalty effective	http://oadp.org/facts/13-reasons	Factual	information_intent
+airline tracking flights	http://flightaware.com/	Abstain	navigation_intent
+tri county electric celina tn	http://www.tcemc.org/	Navigational	navigation_intent
+price chopper rewards	https://www.mypricechopper.com/shop-save/save/chopper-shopper-rewards	Navigational	navigation_intent
+sheree real housewives of atlanta	https://en.wikipedia.org/wiki/The_Real_Housewives_of_Atlanta	Factual	information_intent
+calculate attrition	https://www.ngdata.com/what-is-attrition-rate/	Instrumental	information_intent
+corgis	http://www.dogbreedinfo.com/pembrokecorgi.htm	Abstain	information_intent
+suicide prevention program	https://www.samhsa.gov/suicide-prevention	Abstain	navigation_intent
+j&j benefits login	https://www.jnj.com/employees	Navigational	navigation_intent
+how to make name badges	http://www.brighthub.com/multimedia/publishing/articles/125428.aspx	Instrumental	information_intent
+who is travis barker	https://en.wikipedia.org/wiki/Travis_Barker	Factual	information_intent
+1st president	https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States	Factual	information_intent
+what are subatomic particles made of	https://www.britannica.com/science/subatomic-particle	Factual	information_intent
+ancient chinese herbal medicine	https://nccih.nih.gov/health/whatiscam/chinesemed.htm	Abstain	information_intent
+apa in text citation for 4 authors	http://research.moreheadstate.edu/c.php?g=107001&p=695202	Factual	information_intent
+boiled eggs in oven muffin tin	https://www.familyfreshmeals.com/2012/11/how-to-make-perfect-hard-boiled-eggs-in-the-oven.html	Instrumental	information_intent
+update dbs online	https://www.gov.uk/dbs-update-service	Transactional	navigation_intent
+speedctest	https://www.speedtest.net/	Navigational	navigation_intent
+how seo works	https://moz.com/beginners-guide-to-seo/how-search-engines-operate	Factual	information_intent
+navigate	https://www.merriam-webster.com/dictionary/navigate	Abstain	unknown
+hunter thompson	https://en.wikipedia.org/wiki/Hunter_S._Thompson	Factual	information_intent
+surrealism paintings	https://www.artsy.net/article/artsy-editorial-what-is-surrealism	Abstain	information_intent
+edit access	https://support.office.com/en-us/article/Modify-edit-or-change-a-report-2837AEA7-0EE5-4C81-9F0F-5CF324C2C3BD	Instrumental	unknown
+echanesia	https://www.drugs.com/mtm/echinacea.html	Factual	information_intent
+wakemed web	https://www.wakemed.org/	Navigational	navigation_intent
+guinness harp	https://www.guinness.com/	Abstain	information_intent
+andromeda	http://www.bbc.co.uk/science/space/universe/key_places/andromeda_galaxy	Abstain	information_intent
+sage publishers	https://uk.sagepub.com/en-gb/eur/home	Navigational	navigation_intent
+natural gas meter	https://en.wikipedia.org/wiki/Gas_meter	Factual	information_intent
+national priorities	https://www.nationalpriorities.org/budget-basics/federal-budget-101/	Navigational	navigation_intent
+stuxnet wiki	https://en.wikipedia.org/wiki/Stuxnet	Factual	information_intent
+construed in a sentence	http://www.yourdictionary.com/construe	Factual	information_intent
+what does the lion symbolize	https://www.linkedin.com/pulse/20140706050123-176052476-the-lion-symbolizes-strength-courage-and-leadership	Factual	information_intent
+orthopedic spine specialist	https://en.wikipedia.org/wiki/Orthopedic_surgery	Abstain	yelp_intent
+tomgreen	https://en.wikipedia.org/wiki/Tom_Green	Factual	information_intent
+the history of tv	https://www.thoughtco.com/the-invention-of-television-1992531	Abstain	information_intent
+cities in oaxaca mexico	https://www.citypopulation.de/Mexico-Oaxaca.html	Abstain	information_intent
+kidney ultrasound preparation	https://www.cedars-sinai.edu/Patients/Programs-and-Services/Imaging-Center/For-Patients/Exams-by-Procedure/Ultrasound/Renal-Ultrasound.aspx	Abstain	information_intent
+therapy dog certification requirements	https://www.vetinfo.com/requirements-for-therapy-pet-certification.html	Abstain	information_intent
+tender package	https://www.designingbuildings.co.uk/wiki/Typical_tender_process_for_construction_projects	Abstain	unknown
+wi license lookup	https://app.wi.gov/LicenseVerification	Navigational	navigation_intent
+aarp travel	https://www.expedia-aarp.com/Cars	Abstain	travel_intent
+employers compensation insurance	https://www.employers.com/	Abstain	information_intent
+series top online	https://www.rottentomatoes.com/top-tv/	Abstain	information_intent
+ip codes lookup	https://tools.usps.com/go/ZipLookupAction!input.action	Factual	information_intent
+hpd credit union	https://www.hpcu.coop/	Navigational	navigation_intent
+3:30 central time	https://greenwichmeantime.com/to/cst/to-est/	Factual	information_intent
+orange theory gift cards	https://www.orangetheoryfitness.com/memberships	Abstain	purchase_intent
+contractor lookup california	http://www.cslb.ca.gov/About_Us/Contact_CSLB.aspx	Abstain	navigation_intent
+print ruler actual size	https://printable-ruler.net/	Factual	information_intent
+cat scan with contrast	http://www.mayoclinic.org/tests-procedures/ct-scan/about/pac-20393675	Factual	information_intent
+group activities for adults	http://www.wilderdom.com/games/PsychologicalExercises.html	Abstain	information_intent
+what is a carbon copy email	https://www.howtogeek.com/128028/htg-explains-whats-the-difference-between-cc-and-bcc-when-sending-an-email/	Factual	information_intent
+futures stock	http://money.cnn.com/data/premarket/	Abstain	navigation_intent
+parkland high school pa	https://en.wikipedia.org/wiki/Parkland_High_School_(Pennsylvania)	Factual	information_intent
+foxwoods sign in	http://www.foxwoods.com/default.aspx	Navigational	navigation_intent
+table numbers and stands	https://weddingshop.theknot.com/reception/table-planning-accessories/wedding-table-number-holders	Abstain	unknown
+internet explorer 17	https://en.wikipedia.org/wiki/Internet_Explorer_11	Factual	navigation_intent
+flysouthwest.com	https://www.southwest.com/flight/flight-status-select.html	Navigational	navigation_intent
+what is texas time zone	https://www.timetemperature.com/tzus/current_time_in_texas.shtml	Factual	information_intent
+define pons	https://en.pons.com/translate	Abstain	unknown
+scottish female names	http://www.20000-names.com/female_scottish_names.htm	Abstain	information_intent
+floridablue	https://www.floridablue.com/providers/tools-resources/provider-manual	Abstain	navigation_intent
+who is dennis rodman	https://en.wikipedia.org/wiki/Dennis_Rodman	Factual	information_intent
+home depot return policy 2019	https://www.homedepot.ca/en/home/customer-support/return-policy.html	Abstain	navigation_intent
+hundredweight	https://en.wikipedia.org/wiki/Stone_(unit)	Abstain	information_intent
+e,g,	https://www.grammarly.com/blog/know-your-latin-i-e-vs-e-g/	Factual	information_intent
+balsamic vinegar dressing recipe	http://allrecipes.com/recipe/14158/balsamic-vinaigrette/	Factual	information_intent
+java random number generator	https://www.thoughtco.com/how-to-generate-random-numbers-2034206	Instrumental	information_intent
+exp;orer	http://download.cnet.com/Internet-Explorer/3000-2356_4-10013275.html	Transactional	navigation_intent
+where did the etruscans originate	http://www.sjsu.edu/faculty/watkins/etruscans.htm	Factual	information_intent
+a spondylosis	https://www.spondylitis.org/Ankylosing-Spondylitis	Abstain	information_intent
+1/4 sheet cake feeds how many	https://answers.yahoo.com/question/index?qid=20110327095737AAiaPad	Factual	information_intent
+best shampoo and conditioner for hair growth	https://hairlossable.com/	Abstain	information_intent
+causative definition	https://www.merriam-webster.com/dictionary/causative	Factual	information_intent
+rail meaning	https://www.merriam-webster.com/dictionary/rail	Factual	information_intent
+american revolutionary war dates	http://www.ushistory.org/declaration/revwartimeline.html	Abstain	information_intent
+las vegas airport	http://airport-lasvegas.com/	Navigational	navigation_intent
+pdf to word convertoer	https://www.pdftoword.com/	Navigational	navigation_intent
+cheap flight reservations	https://www.expedia.com/Flights	Abstain	travel_intent
+winco cda	https://www.wincofoods.com/	Navigational	navigation_intent
+organic clay	https://en.wikipedia.org/wiki/Clay	Abstain	information_intent
+bank key meaning	https://archive.sap.com/discussions/thread/1664723	Factual	information_intent
+stpre	https://store.google.com/	Navigational	unknown
+solar screen	http://lonestarsolarscreens.com/	Abstain	unknown
+exempt vs non-exempt employees	https://www.monster.com/career-advice/article/whats-the-difference-between-exempt	Factual	information_intent
+www.carespot.com	https://www.carespot.com/	Navigational	navigation_intent
+barack obama article	https://www.nytimes.com/topic/person/barack-obama	Abstain	information_intent
+juvenile life without parole	https://en.wikipedia.org/wiki/Life_imprisonment_in_the_United_States	Abstain	information_intent
+xampp4	https://www.apachefriends.org/	Navigational	navigation_intent
+dell sales number	https://www.800-numbers.net/dell/	Factual	navigation_intent
+www.dhr.alabama.gov child support	http://dhr.alabama.gov/services/Child_Support_Services/CS_Order_Establishment.aspx	Navigational	navigation_intent
+kermit frog	https://en.wikipedia.org/wiki/Kermit_the_Frog	Factual	information_intent
+women in black movie release for 2018	https://en.wikipedia.org/wiki/The_Woman_in_Black_(2012_film)	Factual	information_intent
+agb whatsapp	https://www.whatsapp.com/download/	Navigational	unknown
+magic chef microwave problems	https://www.consumeraffairs.com/homeowners/magic_chef.html	Abstain	information_intent
+zero down lease offers	https://www.edmunds.com/car-leasing/monthly-199-lease-deals.html	Transactional	information_intent
+www.banggood.com	https://dealspotr.com/banggood	Navigational	navigation_intent
+iec amendment online	http://ieport.com/dgft/iec-code-number.htm	Abstain	navigation_intent
+motley crue discography	https://www.motley.com/	Navigational	navigation_intent
+psychology graduate jobs	https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/psychology	Abstain	unknown
+what does loaded question mean	https://en.wikipedia.org/wiki/Loaded_question	Factual	information_intent
+matcha tea benefits dr oz	https://wellnessmama.com/37430/matcha-green-tea-benefits/	Abstain	information_intent
+sldcada navy login	https://www.reference.com/technology/log-v23-sldcada-website-48a5a2835548478f	Navigational	navigation_intent
+routing and switching	http://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html	Abstain	information_intent
+water based polyurethane	http://theflooringgirl.com/featured/oil-vs-water-based-polyurethane-which-is-bes-for-refinishing-hardwood-floors.html	Abstain	information_intent
+pregnancy trimesters	https://www.verywell.com/the-three-trimesters-of-pregnancy-2760089	Abstain	information_intent
+feline stomach cancer	https://www.vetinfo.com/feline-stomach-cancer.html	Abstain	information_intent
+bechets	http://www.nhs.uk/Conditions/Behcets-disease/Pages/introduction.aspx	Abstain	information_intent
+full body physical examination procedure	https://en.wikipedia.org/wiki/Physical_examination	Factual	information_intent
+federal salaries database	http://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/	Navigational	navigation_intent
+todays baseball scores	https://www.mlb.com/yankees	Factual	information_intent
+fees for service	https://en.wikipedia.org/wiki/Fee-for-service	Factual	information_intent
+ao smith boilers	https://www.hotwater.com/	Abstain	navigation_intent
+drawing board for computer	https://www.wacom.com/en-us/discover/draw	Abstain	purchase_intent
+nagual definition	https://en.wikipedia.org/wiki/Nagual	Factual	information_intent
+ira limits 2018 over 50	https://thefinancebuff.com/401k-403b-ira-contribution-limits.html	Factual	information_intent
+what is a healthy total cholesterol level	https://www.healthline.com/health/high-cholesterol/levels-by-age	Factual	information_intent
+denton texas weather	http://forecast.weather.gov/MapClick.php?site=FWD&textField1=33.2142&textField2=-97.1309	Factual	weather_intent
+array size c	http://www.cplusplus.com/reference/array/array/size/	Factual	information_intent
+adt pulse login	https://www.adtpulse.com/	Navigational	navigation_intent
+a-scan biometry	http://emedicine.medscape.com/article/1228447-overview	Abstain	information_intent
+humana company	https://en.wikipedia.org/wiki/Humana	Factual	information_intent
+is tuna keto friendly	http://www.free-workout-plans-for-busy-people.com/keto-food.html	Factual	information_intent
+what does gop mean in american politics	https://www.quora.com/What-do-the-terms-Republican-and-Democrat-mean	Factual	information_intent
+quotes on art	http://www.incredibleart.org/lessons/middle/quotes.htm	Abstain	information_intent
+wifi cable	https://www.walmart.com/c/kp/modem-routers	Abstain	purchase_intent
+best ultrasonic dog repellent devices	https://www.thespruce.com/use-dog-repellents-2132575	Abstain	purchase_intent
+how to apply for british passport	https://www.gov.uk/apply-renew-passport	Instrumental	information_intent
+food sensitivity test reviews	https://sciencebasedmedicine.org/igg-food-intolerance-tests-what-does-the-science-say/	Abstain	information_intent
+12 lakhs	https://en.wikipedia.org/wiki/Lakh	Factual	unknown
+miami dade building department forms	http://www.miamidade.gov/permits/forms-checklists.asp	Navigational	navigation_intent
+alarax	https://www.drugs.com/atarax.html	Factual	information_intent
+delete outlook mail	http://www.intowindows.com/how-to-close-delete-outlook-com-account/	Instrumental	information_intent
+providence	http://www.providence.org/default	Navigational	navigation_intent
+eurogolf	http://www.europeantour.com/	Abstain	navigation_intent
+computer science jobs	https://en.wikipedia.org/wiki/Computer_science	Abstain	navigation_intent
+nobel peace prize winners list	https://www.theguardian.com/news/datablog/2011/oct/07/nobel-peace-prize-winners-list-2011	Abstain	information_intent
+google classtoo	https://support.google.com/edu/classroom/answer/6072460?co=GENIE.Platform%3DDesktop&hl=en	Abstain	navigation_intent
+lululemon coupons	https://shop.lululemon.com/	Abstain	purchase_intent
+www.chaseamazon.com	https://www.chase.com/online/digital/online-bill-pay.html	Navigational	navigation_intent
+neutral stimulus	https://study.com/academy/lesson/neutral-stimulus-definition-examples-quiz.html	Abstain	information_intent
+register for sat	https://collegereadiness.collegeboard.org/sat/register	Instrumental	navigation_intent
+voting locations by zip code	https://teamrv-mvp.sos.texas.gov/MVP/mvp.do	Factual	information_intent
+tax code l	https://www.gov.uk/tax-codes/letters-in-your-tax-code-what-they-mean	Factual	information_intent
+www.colonialpenn.com life insurance	https://colonialpenn.com/	Navigational	navigation_intent
+how many americans served in ww1	https://en.wikipedia.org/wiki/United_States_in_World_War_I	Factual	information_intent
+honor mi	https://www.tripadvisor.com/Tourism-g42315-Honor_Benzie_County_Michigan-Vacations.html	Abstain	unknown
+tai air	http://www.thaiairways.com/en/Terms_condition/baggage_policy.page	Navigational	navigation_intent
+bose earbuds bluetooth	https://www.bose.com/en_us/products/headphones/wireless_headphones.html	Abstain	information_intent
+utv weather forecast	https://www.metoffice.gov.uk/public/weather/forecast	Factual	weather_intent
+what is the best prescription diet pill	https://www.dietspotlight.com/prescription-weight-loss/	Factual	information_intent
+camber caster toe explained	http://yospeed.com/wheel-alignment-explained-camber-caster-toe/	Abstain	information_intent
+costco en ligne franÃ§ais	https://www.costco.ca/	Navigational	navigation_intent
+level of aggregation	http://www.investopedia.com/terms/a/aggregation.asp	Abstain	information_intent
+aura colors	http://thiaoouba.com/see_aura_color.htm	Abstain	information_intent
+xbox live account login	https://account.live.com/ResetPassword.aspx	Navigational	navigation_intent
+www.politico.com	http://www.politico.com/	Navigational	navigation_intent
+blackwater reptile	http://www.backwaterreptiles.com/snakes/snakes-for-sale.html	Transactional	information_intent
+www.vonage.co.uk login	https://support.vonage.com/contactus	Navigational	navigation_intent
+california real estate license application	http://www.dre.ca.gov/Examinees/ApplySalesperson.html	Navigational	navigation_intent
+haskell quicksort	https://wiki.haskell.org/Introduction	Abstain	information_intent
+ancient greek clothes	https://www.ancient.eu/article/20/ancient-greek-clothing/	Abstain	information_intent
+wakeforestbaptist	http://www.wakehealth.edu/Job-Openings/	Abstain	navigation_intent
+duplicate word page	https://groups.google.com/d/topic/microsoft.public.word.pagelayout/enijLmROB6w	Instrumental	unknown
+kinds of music	https://en.wikipedia.org/wiki/List_of_popular_music_genres	Abstain	information_intent
+plymouth roadster	https://en.wikipedia.org/wiki/Plymouth_Prowler	Factual	information_intent
+the showman movie	http://www.imdb.com/title/tt1485796/	Factual	information_intent
+yahoo! fantasy sports	https://football.fantasysports.yahoo.com/	Navigational	navigation_intent
+country code united states	https://www.countrycode.org/usa	Factual	information_intent
+fllotto	http://www.floridalottery.com/winningNumbers.do	Navigational	navigation_intent
+www,wellsfargocom	https://www.wellsfargo.com/	Navigational	navigation_intent
+crock pot sirloin tip roast	http://mamaldiane.com/sirloin-tip-roast-in-the-slow-cooker/	Instrumental	information_intent
+discover pay online	https://www.doxo.com/info/discover	Transactional	navigation_intent
+lackland afb county	https://en.wikipedia.org/wiki/Lackland_Air_Force_Base	Factual	information_intent
+democratic party chairman	https://www.democrats.org/	Abstain	information_intent
+atalectasis	https://www.healthline.com/health/atelectasis	Factual	information_intent
+mercy general hospital	http://www.dignityhealthcareers.org/careers/Facilities/MercyGeneralHospital/Careers/index.htm	Abstain	navigation_intent
+best surgery for acid reflux	https://www.healthline.com/health/gerd/surgery	Abstain	information_intent
+poison ivy actress	http://www.dailymail.co.uk/tvshowbiz/article-3655480/Poison-Ivy-portrayed-actress-14-years-older-new-series-Batman-spin-Gotham.html	Abstain	information_intent
+connecticut elections	http://www.courant.com/politics/elections/	Abstain	information_intent
+queen sheet sets	https://www.overstock.com/Bedding-Bath/Sheets/Queen,/size,/4549/cat.html	Abstain	purchase_intent
+pixma mg3600 wireless setup without disc	https://www.canon.co.uk/support/consumer_products/pixma_printer_wireless_connection_setup/	Instrumental	information_intent
+pah compounds	https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbon	Factual	information_intent
+avg internet	https://www.avg.com/en-us/free-antivirus-download	Abstain	navigation_intent
+usaa san antonio	https://www.usaa.com/inet/ent_logon/Logon	Abstain	navigation_intent
+www.antennasearch.com	http://www.antennasearch.com/	Navigational	navigation_intent
+what is spinal meningitis	https://www.webmd.com/children/understanding-meningitis-basics	Factual	information_intent
+ebs flexible spending account	https://www.lifetimebenefitsolutions.com/	Abstain	information_intent
+volt drop calculator	http://www.rapidtables.com/calc/wire/voltage-drop-calculator.htm	Transactional	information_intent
+my ring account	https://ring.com/	Navigational	navigation_intent
+delusion of jealousy	http://www.freethoughtlebanon.net/2012/10/pathological-jealousy-its-symptoms-and-definition/	Abstain	information_intent
+residual volume	https://www.merriam-webster.com/medical/residual%20volume	Factual	information_intent
+windows 10 turn off screen lock	http://www.howto-connect.com/disable-or-turn-off-windows-10-lock-screen/	Instrumental	navigation_intent
+samples of contracts	https://www.printablecontracts.com/	Abstain	unknown
+b12 vitamin food	http://www.health.com/nutrition/vitamin-b12-foods	Abstain	information_intent
+news sport football	http://www.skysports.com/football	Abstain	information_intent
+alveoli structure and function	http://www.curoservice.com/parents_visitors/lungs_circulation/structure_alveoli.php	Abstain	information_intent
+starwars disneyland	https://disneyparks.disney.go.com/blog/2017/02/star-wars-themed-lands-at-disney-parks-set-to-open-in-2019/	Abstain	navigation_intent
+what router should i buy	https://www.digitaltrends.com/computing/wireless-router-buying-guide/	Factual	information_intent
+ncdps forms	https://www.ncdps.gov/	Navigational	navigation_intent
+how much oxycodone is safe	https://www.webmd.com/pain-management/features/oxycontin-pain-relief-vs-abuse	Factual	information_intent
+micro anti-snoring device	http://www.fundairing.com/	Abstain	unknown
+cvs market	https://www.marketwatch.com/investing/stock/cvs	Abstain	unknown
+riverside county ca property tax search	http://riversidetaxinfo.com/	Navigational	navigation_intent
+bank of america abuse reporting	https://www.bankofamerica.com/privacy/online-mobile-banking-privacy/online-banking-security.go	Navigational	navigation_intent
+electricity facts	https://en.wikipedia.org/wiki/Electricity	Factual	information_intent
+hit ledger	http://www.imdb.com/name/nm0005132/	Factual	information_intent
+first health insurance reviews	https://www.consumeraffairs.com/insurance/health.html	Abstain	information_intent
+luxury suv rental	https://www.hertz.com/rentacar/misc/index.jsp?targetPage=cadillac_escalade.jsp	Abstain	yelp_intent
+sam's club synchrony sign in	https://www.samsclub.com/sams/pagedetails/content.jsp?pageName=credit	Navigational	navigation_intent
+sylane	https://en.wikipedia.org/wiki/Silane	Abstain	unknown
