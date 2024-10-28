@@ -32,7 +32,7 @@ class LocationFinder:
             'input_ids': inputs['input_ids'].astype(np.int64),
             'attention_mask': inputs['attention_mask'].astype(np.int64),
         }
-        
+
         # Run inference with the ONNX model
         outputs = self.ort_session.run(None, input_feed)
         logits = outputs[0]  # Assuming the model output is logits
@@ -44,7 +44,7 @@ class LocationFinder:
         # Define the threshold for NER probability
         threshold = 0.6
         
-        # Define the label map for city, state, organization, citystate
+        # Define the label map for city, state, citystate, etc.
         label_map = {
             0: "O",        # Outside any named entity
             1: "B-PER",    # Beginning of a person entity
@@ -56,57 +56,54 @@ class LocationFinder:
             7: "B-STATE",  # Beginning of a state entity
             8: "I-STATE",  # Inside a state entity
             9: "B-CITYSTATE",   # Beginning of a city_state entity
-           10: "I-CITYSTATE",   # Inside a city_state entity
+        10: "I-CITYSTATE",   # Inside a city_state entity
         }
         
         tokens = self.tokenizer.convert_ids_to_tokens(inputs['input_ids'][0])
 
-        # List to hold the detected entities (city, state, organization, citystate)
-        city_entities = []
-        state_entities = []
-        org_entities = []
-        city_state_entities = []
-
+        # Initialize lists to hold detected entities
         city_entities = []
         state_entities = []
         city_state_entities = []
-        org_entities = []
-        for i, (token, predicted_id, prob) in enumerate(zip(tokens, predicted_ids[0], predicted_probs[0])):
+        
+        for token, predicted_id, prob in zip(tokens, predicted_ids[0], predicted_probs[0]):
             if prob > threshold:
                 if token in ["[CLS]", "[SEP]", "[PAD]"]:
                     continue
-                else:
-                    if label_map[predicted_id] in ["B-CITY", "I-CITY"]:
-                        city_entities.append(token.replace("##", ""))
-                    elif label_map[predicted_id] in ["B-STATE", "I-STATE"]:
-                        state_entities.append(token.replace("##", ""))
-                    elif label_map[predicted_id] in ["B-CITYSTATE", "I-CITYSTATE"]:
-                        city_state_entities.append(token.replace("##", ""))
-                    elif label_map[predicted_id] in ["B-ORG", "I-ORG"]:
-                        org_entities.append(token.replace("##", ""))
-        
-        city_state_res = "".join(cs_entity.replace(",", ", ") for cs_entity in city_state_entities) if city_state_entities else None
-        if city_entities:
-            city_res = " ".join(city_entities)
-        elif city_state_res:
-            city_res = city_state_res.split(", ")[0]
-        else:
-            city_res = None
+                if label_map[predicted_id] in ["B-CITY", "I-CITY"]:
+                    # Handle the case of continuation tokens (like "##" in subwords)
+                    if token.startswith("##") and city_entities:
+                        city_entities[-1] += token[2:]  # Remove "##" and append to the last token
+                    else:
+                        city_entities.append(token)
+                elif label_map[predicted_id] in ["B-STATE", "I-STATE"]:
+                    if token.startswith("##") and state_entities:
+                        state_entities[-1] += token[2:]
+                    else:
+                        state_entities.append(token)
+                elif label_map[predicted_id] in ["B-CITYSTATE", "I-CITYSTATE"]:
+                    if token.startswith("##") and city_state_entities:
+                        city_state_entities[-1] += token[2:]
+                    else:
+                        city_state_entities.append(token)
 
-        if state_entities:
-            state_res = " ".join(state_entities)
-        elif city_state_res and len(city_state_res) > 0:
-            state_res = city_state_res.split(", ")[-1]
+        # Combine city_state entities and split into city and state if necessary
+        if city_state_entities:
+            city_state_str = " ".join(city_state_entities)
+            city_state_split = city_state_str.split(",")  # Split on comma to separate city and state
+            city_res = city_state_split[0].strip() if city_state_split[0] else None
+            state_res = city_state_split[1].strip() if len(city_state_split) > 1 else None
         else:
-            state_res = None
+            # If no city_state entities, use detected city and state entities separately
+            city_res = " ".join(city_entities).strip() if city_entities else None
+            state_res = " ".join(state_entities).strip() if state_entities else None
 
-        org_res = " ".join(org_entities) if org_entities else None
-        
-        # Return the detected entities
+        # Return the detected city and state as separate components
         return {
             'city': city_res,
-            'state': state_res,
+            'state': state_res
         }
+
 
 if __name__ == '__main__':
     query = "weather in san francisco, ca"
