@@ -1,0 +1,6002 @@
+[
+  {
+    "query": "train stations near detroit",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "voter registration in wa",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "wa"
+  },
+  {
+    "query": "weather report for los angeles, california",
+    "intent": "weather_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "city hall in boston",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "bike rentals in baltimore, maryland",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "maryland"
+  },
+  {
+    "query": "san antonio, tx subway map",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "train stations near cincinnati",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": null
+  },
+  {
+    "query": "current weather in san antonio",
+    "intent": "weather_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "is it raining in nashville, tennessee",
+    "intent": "weather_intent",
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "query": "orlando, fl real estate trends",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "fl"
+  },
+  {
+    "query": "minnesota high school rankings",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "upcoming concerts in tampa, fl",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "homes for rent in new york, new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "tx dmv locations",
+    "intent": "yelp_intent",
+    "city": "d",
+    "state": null
+  },
+  {
+    "query": "colleges near detroit, mi",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "find schools in ma",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ma"
+  },
+  {
+    "query": "dallas, tx subway map",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "tx"
+  },
+  {
+    "query": "georgia high school rankings",
+    "intent": "information_intent",
+    "city": null,
+    "state": "georgia"
+  },
+  {
+    "query": "colleges near los angeles, ca",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "pool cleaning services in st. louis, missouri",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "missouri"
+  },
+  {
+    "query": "city hall in tampa",
+    "intent": "weather_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "ca dmv locations",
+    "intent": "yelp_intent",
+    "city": "d",
+    "state": null
+  },
+  {
+    "query": "upcoming concerts in houston, tx",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "events in charlotte this weekend",
+    "intent": "information_intent",
+    "city": "charlotte",
+    "state": null
+  },
+  {
+    "query": "private schools in cincinnati, ohio",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "ohio"
+  },
+  {
+    "query": "detroit, mi real estate trends",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "portland public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "urgent care near nashville, tn",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "vacation spots in tennessee",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "tennessee"
+  },
+  {
+    "query": "cleveland, oh locksmith services",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "train stations near las vegas",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "food festivals in cincinnati, ohio",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "ohio"
+  },
+  {
+    "query": "detroit, mi public schools",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "humidity levels in san antonio",
+    "intent": "information_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "government offices in chicago, illinois",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "illinois"
+  },
+  {
+    "query": "austin, tx travel guide",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "pa licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pa"
+  },
+  {
+    "query": "san antonio vaccination centers",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "temperature in boston, ma",
+    "intent": "weather_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "las vegas, nv public schools",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "car rentals in chicago, illinois",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "illinois"
+  },
+  {
+    "query": "dallas marathon registration",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "average home price in charlotte",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": null
+  },
+  {
+    "query": "chicago marathon registration",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": null
+  },
+  {
+    "query": "urgent care near san jose, ca",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "ca"
+  },
+  {
+    "query": "where is the courthouse in cleveland, ohio",
+    "intent": "information_intent",
+    "city": "cleveland",
+    "state": "ohio"
+  },
+  {
+    "query": "upcoming concerts in philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "best roofing companies in pittsburgh, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "san diego weather radar",
+    "intent": "weather_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "baltimore, md public schools",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "car rentals in new york, new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "public transportation in philadelphia, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "colleges near miami, fl",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "atlanta, ga locksmith services",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "ga"
+  },
+  {
+    "query": "best time to visit houston, texas",
+    "intent": "travel_intent",
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "query": "private schools in denver, colorado",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "is it raining in austin, texas",
+    "intent": "weather_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "ca licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ca"
+  },
+  {
+    "query": "current weather in los angeles",
+    "intent": "weather_intent",
+    "city": "los angeles",
+    "state": null
+  },
+  {
+    "query": "covid-19 testing in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "hvac repair in detroit",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "where is the courthouse in denver, colorado",
+    "intent": "information_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "portland parking information",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": null
+  },
+  {
+    "query": "directions to san antonio, tx",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "best time to visit philadelphia, pennsylvania",
+    "intent": "travel_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "city hall in san antonio",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "california housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "miami, fl public schools",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "tampa marathon registration",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "temperature in cleveland, oh",
+    "intent": "weather_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "plumbing services in cincinnati, ohio",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "ohio"
+  },
+  {
+    "query": "events in cincinnati this weekend",
+    "intent": "information_intent",
+    "city": "cincinnati",
+    "state": null
+  },
+  {
+    "query": "events in tampa this weekend",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "florida high school rankings",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "florida"
+  },
+  {
+    "query": "chicago, il subway map",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "how far is los angeles from ca",
+    "intent": "information_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "covid-19 testing in philadelphia, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "pool cleaning services in pittsburgh, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "bike rentals in philadelphia, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "food festivals in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "colleges near las vegas, nv",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "food festivals in seattle, washington",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "real estate agents in boston, ma",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "seattle public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "is it raining in dallas, texas",
+    "intent": "weather_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "austin, tx real estate trends",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "flights to new york, ny",
+    "intent": "travel_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "boston parking information",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "car rentals in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "pool cleaning services in atlanta, georgia",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "urgent care near cincinnati, oh",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "directions to cleveland, oh",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "music events in seattle, wa",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "wa"
+  },
+  {
+    "query": "temperature in new york, ny",
+    "intent": "weather_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "average home price in new york",
+    "intent": "purchase_intent",
+    "city": null,
+    "state": "new york"
+  },
+  {
+    "query": "cheapest hotels in portland",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": null
+  },
+  {
+    "query": "mortgage rates in florida",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "florida"
+  },
+  {
+    "query": "temperature in san jose, ca",
+    "intent": "weather_intent",
+    "city": "san jose",
+    "state": "ca"
+  },
+  {
+    "query": "new york, ny subway map",
+    "intent": "information_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "best roofing companies in nashville, tennessee",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "query": "find schools in co",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "co"
+  },
+  {
+    "query": "san diego public library hours",
+    "intent": "navigation_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "boston weather forecast",
+    "intent": "weather_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "train stations near philadelphia",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "weather report for dallas, texas",
+    "intent": "weather_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "massachusetts housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "massachusetts"
+  },
+  {
+    "query": "humidity levels in tampa",
+    "intent": "information_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "current weather in seattle",
+    "intent": "weather_intent",
+    "city": "seattle",
+    "state": null
+  },
+  {
+    "query": "city hall in portland",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": null
+  },
+  {
+    "query": "humidity levels in orlando",
+    "intent": "information_intent",
+    "city": "orlando",
+    "state": null
+  },
+  {
+    "query": "voter registration in tx",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "tx"
+  },
+  {
+    "query": "property for sale in tampa, fl",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "san francisco airport information",
+    "intent": "navigation_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "find schools in az",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "az"
+  },
+  {
+    "query": "average home price in las vegas",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "houston public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "denver public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "humidity levels in st. louis",
+    "intent": "information_intent",
+    "city": "st . louis",
+    "state": null
+  },
+  {
+    "query": "best time to visit san antonio, texas",
+    "intent": "travel_intent",
+    "city": "san antonio",
+    "state": "texas"
+  },
+  {
+    "query": "how far is detroit from mi",
+    "intent": "information_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "weather update for pittsburgh, pa",
+    "intent": "weather_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "weather update for st. louis, mo",
+    "intent": "navigation_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "covid-19 testing in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "chicago weather radar",
+    "intent": "weather_intent",
+    "city": "chicago",
+    "state": null
+  },
+  {
+    "query": "philadelphia, pa locksmith services",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "plumbing services in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "hvac repair in dallas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "temperature in san diego, ca",
+    "intent": "weather_intent",
+    "city": "san diego",
+    "state": "ca"
+  },
+  {
+    "query": "los angeles vaccination centers",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": null
+  },
+  {
+    "query": "best time to visit pittsburgh, pennsylvania",
+    "intent": "travel_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "bus schedule in st. louis, mo",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "mortgage rates in california",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "best roofing companies in tampa, florida",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "urgent care near charlotte, nc",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "theater performances in illinois",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "illinois"
+  },
+  {
+    "query": "top universities in pittsburgh, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "pharmacies in charlotte",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": null
+  },
+  {
+    "query": "bike rentals in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "cleveland real estate market",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": null
+  },
+  {
+    "query": "things to do in houston, tx",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "electricians in orlando",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": null
+  },
+  {
+    "query": "find schools in mi",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "mi"
+  },
+  {
+    "query": "cheapest hotels in dallas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "tourist attractions in tampa, fl",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "upcoming concerts in san diego, ca",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "ca"
+  },
+  {
+    "query": "upcoming concerts in new york, ny",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "las vegas airport information",
+    "intent": "navigation_intent",
+    "city": "las",
+    "state": null
+  },
+  {
+    "query": "bus schedule in portland, or",
+    "intent": "weather_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "cleveland marathon registration",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": null
+  },
+  {
+    "query": "cheapest hotels in phoenix",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": null
+  },
+  {
+    "query": "comedy shows in denver, co",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "pharmacies in philadelphia",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "is it raining in miami, florida",
+    "intent": "weather_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "hospitals in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "directions to portland, or",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "comedy shows in san francisco, ca",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "seattle airport information",
+    "intent": "navigation_intent",
+    "city": "seattle",
+    "state": null
+  },
+  {
+    "query": "minnesota housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "minnesota"
+  },
+  {
+    "query": "tourist attractions in portland, or",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "humidity levels in minneapolis",
+    "intent": "information_intent",
+    "city": "minneapolis",
+    "state": null
+  },
+  {
+    "query": "pennsylvania housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pennsylvania"
+  },
+  {
+    "query": "electricians in philadelphia",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "best roofing companies in charlotte, north carolina",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "plumbing services in charlotte, north carolina",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "where is the courthouse in portland, oregon",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "oregon"
+  },
+  {
+    "query": "city hall in st. louis",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": null
+  },
+  {
+    "query": "nashville public library hours",
+    "intent": "information_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "find cleaning services near cincinnati, oh",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "san antonio, tx real estate trends",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "pharmacies in pittsburgh",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "real estate agents in charlotte, nc",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "san diego sports events",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "where is the courthouse in minneapolis, minnesota",
+    "intent": "information_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "pharmacies in baltimore",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "best roofing companies in st. louis, missouri",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "missouri"
+  },
+  {
+    "query": "humidity levels in houston",
+    "intent": "information_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "fl licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "fl"
+  },
+  {
+    "query": "flights to austin, tx",
+    "intent": "travel_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "seattle, wa public schools",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "wa"
+  },
+  {
+    "query": "where is the courthouse in seattle, washington",
+    "intent": "information_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "how far is portland from or",
+    "intent": "information_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "where is the courthouse in houston, texas",
+    "intent": "information_intent",
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "query": "plumbing services in san jose, california",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "bike rentals in los angeles, california",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "detroit airport information",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "tax offices in san francisco",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": null
+  },
+  {
+    "query": "austin, tx locksmith services",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "city hall in baltimore",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "real estate agents in houston, tx",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "find cleaning services near pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "average home price in pittsburgh",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "taxi services in houston, texas",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "query": "houston sports events",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "plumbing services in minneapolis, minnesota",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "real estate agents in pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "mental health services in north carolina",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "north carolina"
+  },
+  {
+    "query": "food festivals in tampa, florida",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "things to do in philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "electricians in charlotte",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": null
+  },
+  {
+    "query": "things to do in san diego, ca",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "ca"
+  },
+  {
+    "query": "top universities in portland, oregon",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "oregon"
+  },
+  {
+    "query": "baltimore airport information",
+    "intent": "information_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "voter registration in ga",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "ga"
+  },
+  {
+    "query": "covid-19 testing in san jose, california",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "real estate agents in philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "ma licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ma"
+  },
+  {
+    "query": "cincinnati, oh travel guide",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "flights to houston, tx",
+    "intent": "travel_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "hvac repair in pittsburgh",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "tax offices in phoenix",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": null
+  },
+  {
+    "query": "atlanta, ga public schools",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "ga"
+  },
+  {
+    "query": "tampa real estate market",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "san francisco public library hours",
+    "intent": "navigation_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "mortgage rates in california",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "st. louis, mo travel guide",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "los angeles, ca real estate trends",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "phoenix, az public schools",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "az"
+  },
+  {
+    "query": "las vegas weather radar",
+    "intent": "weather_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "events in phoenix this weekend",
+    "intent": "information_intent",
+    "city": "phoenix",
+    "state": null
+  },
+  {
+    "query": "voter registration in pa",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pa"
+  },
+  {
+    "query": "cincinnati vaccination centers",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": null
+  },
+  {
+    "query": "electricians in detroit",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "hvac repair in new york",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "new york"
+  },
+  {
+    "query": "tourist attractions in pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "doctors in nashville, tn",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "taxi services in nashville, tennessee",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "query": "cleveland airport information",
+    "intent": "information_intent",
+    "city": "cleveland",
+    "state": null
+  },
+  {
+    "query": "homes for rent in san francisco, california",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "california"
+  },
+  {
+    "query": "top universities in orlando, florida",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "query": "government offices in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "houston, tx subway map",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "voter registration in fl",
+    "intent": "information_intent",
+    "city": null,
+    "state": "fl"
+  },
+  {
+    "query": "city hall in philadelphia",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "events in atlanta this weekend",
+    "intent": "information_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "car rentals in atlanta, georgia",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "tourist attractions in orlando, fl",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "fl"
+  },
+  {
+    "query": "public transportation in denver, colorado",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "best time to visit new york, new york",
+    "intent": "travel_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "pharmacies in miami",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": null
+  },
+  {
+    "query": "weather report for philadelphia, pennsylvania",
+    "intent": "weather_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "current weather in las vegas",
+    "intent": "weather_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "weather update for las vegas, nv",
+    "intent": "navigation_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "new york weather forecast",
+    "intent": "weather_intent",
+    "city": "new york",
+    "state": null
+  },
+  {
+    "query": "pharmacies in chicago",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": null
+  },
+  {
+    "query": "urgent care near new york, ny",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "average home price in austin",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": null
+  },
+  {
+    "query": "plumbing services in portland, oregon",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "oregon"
+  },
+  {
+    "query": "mental health services in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "bus schedule in austin, tx",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "cincinnati weather forecast",
+    "intent": "weather_intent",
+    "city": "cincinnati",
+    "state": null
+  },
+  {
+    "query": "theater performances in north carolina",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "north carolina"
+  },
+  {
+    "query": "atlanta airport information",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "theater performances in michigan",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "michigan"
+  },
+  {
+    "query": "how far is new york from ny",
+    "intent": "information_intent",
+    "city": "new",
+    "state": "ny"
+  },
+  {
+    "query": "where is the courthouse in austin, texas",
+    "intent": "information_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "weather update for baltimore, md",
+    "intent": "weather_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "dallas weather forecast",
+    "intent": "weather_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "top universities in nashville, tennessee",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "query": "minneapolis, mn subway map",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "tampa public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "taxi services in portland, oregon",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "oregon"
+  },
+  {
+    "query": "california high school rankings",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "mortgage rates in georgia",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "georgia"
+  },
+  {
+    "query": "best time to visit seattle, washington",
+    "intent": "travel_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "best time to visit tampa, florida",
+    "intent": "travel_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "weather update for cleveland, oh",
+    "intent": "weather_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "plumbing services in tampa, florida",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "comedy shows in san diego, ca",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "ca"
+  },
+  {
+    "query": "comedy shows in nashville, tn",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "covid-19 testing in tampa, florida",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "weather update for seattle, wa",
+    "intent": "weather_intent",
+    "city": "seattle",
+    "state": "wa"
+  },
+  {
+    "query": "denver weather radar",
+    "intent": "weather_intent",
+    "city": "denver",
+    "state": null
+  },
+  {
+    "query": "humidity levels in detroit",
+    "intent": "information_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "theater performances in california",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "average home price in cincinnati",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": null
+  },
+  {
+    "query": "mo licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "mo"
+  },
+  {
+    "query": "mental health services in colorado",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "colorado"
+  },
+  {
+    "query": "food festivals in san diego, california",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "co licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "co"
+  },
+  {
+    "query": "private schools in san diego, california",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "oh dmv locations",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "government offices in minneapolis, minnesota",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "minneapolis, mn public schools",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "san diego weather forecast",
+    "intent": "weather_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "current weather in minneapolis",
+    "intent": "weather_intent",
+    "city": "minneapolis",
+    "state": null
+  },
+  {
+    "query": "best time to visit nashville, tennessee",
+    "intent": "travel_intent",
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "query": "wa licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "wa"
+  },
+  {
+    "query": "best roofing companies in dallas, texas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "real estate agents in san francisco, ca",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "humidity levels in denver",
+    "intent": "information_intent",
+    "city": "denver",
+    "state": null
+  },
+  {
+    "query": "urgent care near phoenix, az",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "az"
+  },
+  {
+    "query": "pool cleaning services in charlotte, north carolina",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "pool cleaning services in portland, oregon",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "oregon"
+  },
+  {
+    "query": "bike rentals in chicago, illinois",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "illinois"
+  },
+  {
+    "query": "urgent care near detroit, mi",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "tampa airport information",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "mental health services in pennsylvania",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pennsylvania"
+  },
+  {
+    "query": "detroit vaccination centers",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "bus schedule in san antonio, tx",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "food festivals in detroit, michigan",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "michigan"
+  },
+  {
+    "query": "music events in san jose, ca",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "ca"
+  },
+  {
+    "query": "tax offices in portland",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": null
+  },
+  {
+    "query": "voter registration in ny",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ny"
+  },
+  {
+    "query": "best time to visit san francisco, california",
+    "intent": "travel_intent",
+    "city": "san francisco",
+    "state": "california"
+  },
+  {
+    "query": "best roofing companies in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "massachusetts high school rankings",
+    "intent": "information_intent",
+    "city": null,
+    "state": "massachusetts"
+  },
+  {
+    "query": "homes for rent in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "music events in cincinnati, oh",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "bus schedule in san francisco, ca",
+    "intent": "navigation_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "upcoming concerts in baltimore, md",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "doctors in las vegas, nv",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "san jose public library hours",
+    "intent": "navigation_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "georgia housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "georgia"
+  },
+  {
+    "query": "vacation spots in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "storm warning for ca",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "ca"
+  },
+  {
+    "query": "chicago, il public schools",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "hospitals in pittsburgh, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "is it raining in new york, new york",
+    "intent": "weather_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "seattle weather forecast",
+    "intent": "weather_intent",
+    "city": "seattle",
+    "state": null
+  },
+  {
+    "query": "cheapest hotels in atlanta",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "las vegas, nv locksmith services",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "los angeles weather forecast",
+    "intent": "weather_intent",
+    "city": "los angeles",
+    "state": null
+  },
+  {
+    "query": "real estate agents in minneapolis, mn",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "comedy shows in minneapolis, mn",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "private schools in charlotte, north carolina",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "cheapest hotels in boston",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "taxi services in denver, colorado",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "directions to houston, tx",
+    "intent": "navigation_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "events in baltimore this weekend",
+    "intent": "information_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "train stations near charlotte",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": null
+  },
+  {
+    "query": "colleges near baltimore, md",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "theater performances in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "mortgage rates in tennessee",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "tennessee"
+  },
+  {
+    "query": "hvac repair in san jose",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "theater performances in maryland",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "maryland"
+  },
+  {
+    "query": "tx licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "tx"
+  },
+  {
+    "query": "comedy shows in san jose, ca",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "ca"
+  },
+  {
+    "query": "new york weather radar",
+    "intent": "weather_intent",
+    "city": "new york",
+    "state": null
+  },
+  {
+    "query": "flights to philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "doctors in philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "las vegas, nv travel guide",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "tn dmv locations",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "tn"
+  },
+  {
+    "query": "government offices in tampa, florida",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "boston, ma travel guide",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "weather update for cincinnati, oh",
+    "intent": "weather_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "cheapest hotels in san jose",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "tax offices in philadelphia",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "houston, tx real estate trends",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "weather update for detroit, mi",
+    "intent": "weather_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "theater performances in california",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "music events in houston, tx",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "weather update for minneapolis, mn",
+    "intent": "weather_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "weather report for minneapolis, minnesota",
+    "intent": "weather_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "urgent care near pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "events in detroit this weekend",
+    "intent": "information_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "comedy shows in pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "upcoming concerts in cleveland, oh",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "hospitals in denver, colorado",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "things to do in denver, co",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "st. louis, mo public schools",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "san antonio, tx locksmith services",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "humidity levels in new york",
+    "intent": "information_intent",
+    "city": null,
+    "state": "new york"
+  },
+  {
+    "query": "temperature in dallas, tx",
+    "intent": "weather_intent",
+    "city": "dallas",
+    "state": "tx"
+  },
+  {
+    "query": "storm warning for tx",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "tx"
+  },
+  {
+    "query": "private schools in atlanta, georgia",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "doctors in minneapolis, mn",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "directions to atlanta, ga",
+    "intent": "navigation_intent",
+    "city": "atlanta",
+    "state": "ga"
+  },
+  {
+    "query": "things to do in new york, ny",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "los angeles real estate market",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": null
+  },
+  {
+    "query": "houston weather forecast",
+    "intent": "weather_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "government offices in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "ca dmv locations",
+    "intent": "yelp_intent",
+    "city": "d",
+    "state": null
+  },
+  {
+    "query": "miami marathon registration",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": null
+  },
+  {
+    "query": "private schools in dallas, texas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "los angeles, ca subway map",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "public transportation in detroit, michigan",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "michigan"
+  },
+  {
+    "query": "mn dmv locations",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "mn"
+  },
+  {
+    "query": "best roofing companies in orlando, florida",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "query": "vacation spots in minnesota",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "minnesota"
+  },
+  {
+    "query": "where is the courthouse in san jose, california",
+    "intent": "information_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "storm warning for mi",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "mi"
+  },
+  {
+    "query": "find schools in mo",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "mo"
+  },
+  {
+    "query": "portland, or public schools",
+    "intent": "information_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "ca licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ca"
+  },
+  {
+    "query": "taxi services in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "events in san diego this weekend",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "denver real estate market",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": null
+  },
+  {
+    "query": "directions to phoenix, az",
+    "intent": "navigation_intent",
+    "city": "phoenix",
+    "state": "az"
+  },
+  {
+    "query": "mental health services in oregon",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "oregon"
+  },
+  {
+    "query": "boston, ma real estate trends",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "top universities in san jose, california",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "hospitals in minneapolis, minnesota",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "government offices in philadelphia, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "cheapest hotels in st. louis",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": null
+  },
+  {
+    "query": "denver sports events",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "temperature in minneapolis, mn",
+    "intent": "weather_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "tourist attractions in philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "plumbing services in chicago, illinois",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "illinois"
+  },
+  {
+    "query": "las vegas real estate market",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "mortgage rates in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "pool cleaning services in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "los angeles parking information",
+    "intent": "yelp_intent",
+    "city": "angeles",
+    "state": null
+  },
+  {
+    "query": "charlotte real estate market",
+    "intent": "yelp_intent",
+    "city": "charlotte real market",
+    "state": null
+  },
+  {
+    "query": "top universities in baltimore, maryland",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "maryland"
+  },
+  {
+    "query": "humidity levels in baltimore",
+    "intent": "information_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "government offices in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "mortgage rates in new york",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "new york"
+  },
+  {
+    "query": "miami sports events",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "nashville, tn real estate trends",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "car rentals in seattle, washington",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "oh licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "oh"
+  },
+  {
+    "query": "music events in charlotte, nc",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "new york high school rankings",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": null
+  },
+  {
+    "query": "covid-19 testing in san antonio, texas",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "texas"
+  },
+  {
+    "query": "private schools in las vegas, nevada",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nevada"
+  },
+  {
+    "query": "detroit marathon registration",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "boston real estate market",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "food festivals in boston, massachusetts",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "massachusetts"
+  },
+  {
+    "query": "city hall in houston",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "weather update for portland, or",
+    "intent": "weather_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "car rentals in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "real estate agents in san antonio, tx",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "electricians in denver",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": null
+  },
+  {
+    "query": "colleges near san jose, ca",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "ca"
+  },
+  {
+    "query": "california housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "car rentals in houston, texas",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "query": "events in chicago this weekend",
+    "intent": "information_intent",
+    "city": "chicago",
+    "state": null
+  },
+  {
+    "query": "theater performances in new york",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "new york"
+  },
+  {
+    "query": "nv dmv locations",
+    "intent": "yelp_intent",
+    "city": "d",
+    "state": "n"
+  },
+  {
+    "query": "san jose vaccination centers",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "property for sale in new york, ny",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "temperature in chicago, il",
+    "intent": "weather_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "bike rentals in st. louis, missouri",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "missouri"
+  },
+  {
+    "query": "public transportation in san antonio, texas",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "texas"
+  },
+  {
+    "query": "taxi services in pittsburgh, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "baltimore parking information",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "miami airport information",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": null
+  },
+  {
+    "query": "events in minneapolis this weekend",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": null
+  },
+  {
+    "query": "comedy shows in dallas, tx",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "tx"
+  },
+  {
+    "query": "urgent care near houston, tx",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "tourist attractions in miami, fl",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "taxi services in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "public transportation in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "best time to visit boston, massachusetts",
+    "intent": "travel_intent",
+    "city": "boston",
+    "state": "massachusetts"
+  },
+  {
+    "query": "find schools in ca",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ca"
+  },
+  {
+    "query": "bike rentals in san antonio, texas",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "texas"
+  },
+  {
+    "query": "property for sale in miami, fl",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "storm warning for tx",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "tx"
+  },
+  {
+    "query": "voter registration in mn",
+    "intent": "information_intent",
+    "city": null,
+    "state": "mn"
+  },
+  {
+    "query": "current weather in charlotte",
+    "intent": "weather_intent",
+    "city": "charlotte",
+    "state": null
+  },
+  {
+    "query": "comedy shows in charlotte, nc",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "flights to las vegas, nv",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "tax offices in miami",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": null
+  },
+  {
+    "query": "train stations near baltimore",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "things to do in detroit, mi",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "bus schedule in orlando, fl",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "fl"
+  },
+  {
+    "query": "electricians in san jose",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "music events in philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "covid-19 testing in baltimore, maryland",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "maryland"
+  },
+  {
+    "query": "tampa parking information",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "san diego parking information",
+    "intent": "yelp_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "vacation spots in california",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "orlando, fl public schools",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "fl"
+  },
+  {
+    "query": "plumbing services in las vegas, nevada",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nevada"
+  },
+  {
+    "query": "plumbing services in los angeles, california",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "tax offices in dallas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "food festivals in nashville, tennessee",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "query": "hospitals in los angeles, california",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "top universities in san francisco, california",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "california"
+  },
+  {
+    "query": "weather update for tampa, fl",
+    "intent": "weather_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "cleveland, oh travel guide",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "taxi services in san jose, california",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "top universities in boston, massachusetts",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "massachusetts"
+  },
+  {
+    "query": "portland, or real estate trends",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "mental health services in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "atlanta, ga travel guide",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "ga"
+  },
+  {
+    "query": "music events in chicago, il",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "bike rentals in orlando, florida",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "query": "san jose sports events",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "tax offices in houston",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "temperature in las vegas, nv",
+    "intent": "weather_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "events in orlando this weekend",
+    "intent": "information_intent",
+    "city": "orlando",
+    "state": null
+  },
+  {
+    "query": "flights to cincinnati, oh",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "mental health services in ohio",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ohio"
+  },
+  {
+    "query": "directions to chicago, il",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "detroit parking information",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "vacation spots in colorado",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "colorado"
+  },
+  {
+    "query": "vacation spots in north carolina",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "north carolina"
+  },
+  {
+    "query": "tax offices in orlando",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": null
+  },
+  {
+    "query": "is it raining in phoenix, arizona",
+    "intent": "weather_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "atlanta, ga real estate trends",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "ga"
+  },
+  {
+    "query": "colleges near houston, tx",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "new york vaccination centers",
+    "intent": "yelp_intent",
+    "city": "york",
+    "state": null
+  },
+  {
+    "query": "upcoming concerts in las vegas, nv",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "public transportation in portland, oregon",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "oregon"
+  },
+  {
+    "query": "or licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "tax offices in austin",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": null
+  },
+  {
+    "query": "washington housing prices",
+    "intent": "yelp_intent",
+    "city": "washington",
+    "state": null
+  },
+  {
+    "query": "texas housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "train stations near pittsburgh",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "portland, or locksmith services",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "portland marathon registration",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": null
+  },
+  {
+    "query": "colleges near cincinnati, oh",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "train stations near san francisco",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": null
+  },
+  {
+    "query": "current weather in boston",
+    "intent": "weather_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "pool cleaning services in los angeles, california",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "current weather in cincinnati",
+    "intent": "weather_intent",
+    "city": "cincinnati",
+    "state": null
+  },
+  {
+    "query": "mortgage rates in nevada",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "nevada"
+  },
+  {
+    "query": "upcoming concerts in boston, ma",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "things to do in cleveland, oh",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "things to do in chicago, il",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "top universities in minneapolis, minnesota",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "urgent care near minneapolis, mn",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "where is the courthouse in tampa, florida",
+    "intent": "information_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "ca licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ca"
+  },
+  {
+    "query": "comedy shows in detroit, mi",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "minneapolis sports events",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": null
+  },
+  {
+    "query": "las vegas parking information",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "storm warning for md",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "md"
+  },
+  {
+    "query": "storm warning for nc",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "nc"
+  },
+  {
+    "query": "urgent care near san antonio, tx",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "electricians in atlanta",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "how far is pittsburgh from pa",
+    "intent": "information_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "san francisco sports events",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": null
+  },
+  {
+    "query": "is it raining in denver, colorado",
+    "intent": "weather_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "plumbing services in new york, new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "food festivals in charlotte, north carolina",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "top universities in seattle, washington",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "orlando vaccination centers",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": null
+  },
+  {
+    "query": "public transportation in atlanta, georgia",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "find cleaning services near miami, fl",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "new york airport information",
+    "intent": "navigation_intent",
+    "city": "new",
+    "state": null
+  },
+  {
+    "query": "average home price in boston",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "miami real estate market",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": null
+  },
+  {
+    "query": "humidity levels in san diego",
+    "intent": "information_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "flights to detroit, mi",
+    "intent": "travel_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "atlanta, ga subway map",
+    "intent": "information_intent",
+    "city": "atlanta",
+    "state": "ga"
+  },
+  {
+    "query": "bus schedule in baltimore, md",
+    "intent": "weather_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "find cleaning services near denver, co",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "vacation spots in missouri",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "missouri"
+  },
+  {
+    "query": "doctors in boston, ma",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "voter registration in tx",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "tx"
+  },
+  {
+    "query": "property for sale in st. louis, mo",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "current weather in chicago",
+    "intent": "weather_intent",
+    "city": "chicago",
+    "state": null
+  },
+  {
+    "query": "music events in dallas, tx",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "tx"
+  },
+  {
+    "query": "cheapest hotels in chicago",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": null
+  },
+  {
+    "query": "doctors in baltimore, md",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "government offices in san jose, california",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "plumbing services in cleveland, ohio",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "ohio"
+  },
+  {
+    "query": "az dmv locations",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "az"
+  },
+  {
+    "query": "nashville, tn public schools",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "music events in new york, ny",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "best time to visit las vegas, nevada",
+    "intent": "travel_intent",
+    "city": "las vegas",
+    "state": "nevada"
+  },
+  {
+    "query": "new york marathon registration",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": null
+  },
+  {
+    "query": "vacation spots in nevada",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "nevada"
+  },
+  {
+    "query": "charlotte, nc subway map",
+    "intent": "navigation_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "average home price in san diego",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "pittsburgh marathon registration",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "pool cleaning services in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "missouri high school rankings",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "find schools in oh",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "oh"
+  },
+  {
+    "query": "where is the courthouse in st. louis, missouri",
+    "intent": "information_intent",
+    "city": "st . louis",
+    "state": "missouri"
+  },
+  {
+    "query": "philadelphia parking information",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "find schools in nv",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "nv"
+  },
+  {
+    "query": "government offices in denver, colorado",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "directions to los angeles, ca",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "find schools in mn",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "mn"
+  },
+  {
+    "query": "events in seattle this weekend",
+    "intent": "information_intent",
+    "city": "seattle",
+    "state": null
+  },
+  {
+    "query": "events in san antonio this weekend",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "las vegas weather forecast",
+    "intent": "weather_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "pool cleaning services in seattle, washington",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "vacation spots in ohio",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "ohio"
+  },
+  {
+    "query": "flights to tampa, fl",
+    "intent": "travel_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "mental health services in california",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "directions to austin, tx",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "colleges near portland, or",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "city hall in dallas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "taxi services in detroit, michigan",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "michigan"
+  },
+  {
+    "query": "pennsylvania high school rankings",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pennsylvania"
+  },
+  {
+    "query": "find cleaning services near san jose, ca",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "ca"
+  },
+  {
+    "query": "how far is dallas from tx",
+    "intent": "information_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "pa dmv locations",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pa"
+  },
+  {
+    "query": "philadelphia real estate market",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "bike rentals in charlotte, north carolina",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "events in nashville this weekend",
+    "intent": "information_intent",
+    "city": "nashville",
+    "state": null
+  },
+  {
+    "query": "things to do in tampa, fl",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "music events in los angeles, ca",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "weather report for new york, new york",
+    "intent": "weather_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "colleges near san diego, ca",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "ca"
+  },
+  {
+    "query": "mental health services in florida",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "florida"
+  },
+  {
+    "query": "is it raining in charlotte, north carolina",
+    "intent": "weather_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "flights to san diego, ca",
+    "intent": "travel_intent",
+    "city": "san diego",
+    "state": "ca"
+  },
+  {
+    "query": "baltimore real estate market",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "weather report for seattle, washington",
+    "intent": "weather_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "taxi services in new york, new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "tax offices in minneapolis",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": null
+  },
+  {
+    "query": "houston weather radar",
+    "intent": "weather_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "best roofing companies in atlanta, georgia",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "storm warning for or",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "or"
+  },
+  {
+    "query": "best roofing companies in cincinnati, ohio",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "ohio"
+  },
+  {
+    "query": "philadelphia, pa subway map",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "things to do in cincinnati, oh",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "real estate agents in new york, ny",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "how far is atlanta from ga",
+    "intent": "information_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "boston, ma locksmith services",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "theater performances in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "electricians in miami",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": null
+  },
+  {
+    "query": "humidity levels in austin",
+    "intent": "information_intent",
+    "city": "austin",
+    "state": null
+  },
+  {
+    "query": "car rentals in san diego, california",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "bike rentals in dallas, texas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "bus schedule in nashville, tn",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "best time to visit denver, colorado",
+    "intent": "travel_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "flights to pittsburgh, pa",
+    "intent": "travel_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "flights to seattle, wa",
+    "intent": "travel_intent",
+    "city": "seattle",
+    "state": "wa"
+  },
+  {
+    "query": "humidity levels in atlanta",
+    "intent": "information_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "pittsburgh weather radar",
+    "intent": "weather_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "weather update for san antonio, tx",
+    "intent": "navigation_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "train stations near boston",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "bike rentals in portland, oregon",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "oregon"
+  },
+  {
+    "query": "weather update for charlotte, nc",
+    "intent": "weather_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "electricians in los angeles",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": null
+  },
+  {
+    "query": "weather update for chicago, il",
+    "intent": "weather_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "charlotte airport information",
+    "intent": "navigation_intent",
+    "city": "charlotte",
+    "state": null
+  },
+  {
+    "query": "baltimore vaccination centers",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "average home price in seattle",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": null
+  },
+  {
+    "query": "urgent care near miami, fl",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "cincinnati marathon registration",
+    "intent": "navigation_intent",
+    "city": "cincinnati",
+    "state": null
+  },
+  {
+    "query": "music events in minneapolis, mn",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "pool cleaning services in cleveland, ohio",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "ohio"
+  },
+  {
+    "query": "food festivals in los angeles, california",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "food festivals in las vegas, nevada",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nevada"
+  },
+  {
+    "query": "tax offices in seattle",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": null
+  },
+  {
+    "query": "property for sale in charlotte, nc",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "city hall in los angeles",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": null
+  },
+  {
+    "query": "boston weather radar",
+    "intent": "weather_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "ga licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ga"
+  },
+  {
+    "query": "comedy shows in phoenix, az",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "az"
+  },
+  {
+    "query": "government offices in pittsburgh, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "pharmacies in atlanta",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "best time to visit cincinnati, ohio",
+    "intent": "travel_intent",
+    "city": "cincinnati",
+    "state": "ohio"
+  },
+  {
+    "query": "is it raining in st. louis, missouri",
+    "intent": "weather_intent",
+    "city": "st . louis",
+    "state": "missouri"
+  },
+  {
+    "query": "covid-19 testing in chicago, illinois",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "illinois"
+  },
+  {
+    "query": "hvac repair in tampa",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "mental health services in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "philadelphia vaccination centers",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "electricians in boston",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "hvac repair in austin",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": null
+  },
+  {
+    "query": "where is the courthouse in new york, new york",
+    "intent": "information_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "is it raining in los angeles, california",
+    "intent": "weather_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "san antonio sports events",
+    "intent": "yelp_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "bus schedule in tampa, fl",
+    "intent": "weather_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "voter registration in or",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "or"
+  },
+  {
+    "query": "property for sale in nashville, tn",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "find schools in oh",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "oh"
+  },
+  {
+    "query": "urgent care near baltimore, md",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "baltimore weather forecast",
+    "intent": "weather_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "nashville airport information",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": null
+  },
+  {
+    "query": "is it raining in san jose, california",
+    "intent": "weather_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "cheapest hotels in austin",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": null
+  },
+  {
+    "query": "baltimore, md travel guide",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "texas housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "things to do in portland, or",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "where is the courthouse in pittsburgh, pennsylvania",
+    "intent": "information_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "dallas airport information",
+    "intent": "navigation_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "weather update for houston, tx",
+    "intent": "navigation_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "government offices in houston, texas",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "query": "best time to visit cleveland, ohio",
+    "intent": "travel_intent",
+    "city": "cleveland",
+    "state": "ohio"
+  },
+  {
+    "query": "mental health services in massachusetts",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "massachusetts"
+  },
+  {
+    "query": "bike rentals in new york, new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "tourist attractions in los angeles, ca",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "find cleaning services near new york, ny",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "public transportation in tampa, florida",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "upcoming concerts in detroit, mi",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "where is the courthouse in phoenix, arizona",
+    "intent": "information_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "tourist attractions in denver, co",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "things to do in nashville, tn",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "events in san jose this weekend",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "pool cleaning services in chicago, illinois",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "illinois"
+  },
+  {
+    "query": "denver, co public schools",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "dallas, tx real estate trends",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "tx"
+  },
+  {
+    "query": "dallas sports events",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "is it raining in cincinnati, ohio",
+    "intent": "weather_intent",
+    "city": "cincinnati",
+    "state": "ohio"
+  },
+  {
+    "query": "san jose airport information",
+    "intent": "navigation_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "temperature in baltimore, md",
+    "intent": "weather_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "average home price in los angeles",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": null
+  },
+  {
+    "query": "music events in pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "hospitals in san francisco, california",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "california"
+  },
+  {
+    "query": "phoenix, az real estate trends",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "az"
+  },
+  {
+    "query": "nashville marathon registration",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": null
+  },
+  {
+    "query": "nashville real estate market",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": null
+  },
+  {
+    "query": "cleveland, oh public schools",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "humidity levels in miami",
+    "intent": "information_intent",
+    "city": "miami",
+    "state": null
+  },
+  {
+    "query": "food festivals in cleveland, ohio",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "ohio"
+  },
+  {
+    "query": "find cleaning services near st. louis, mo",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "public transportation in houston, texas",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "query": "seattle real estate market",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": null
+  },
+  {
+    "query": "charlotte public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "mortgage rates in washington",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "washington"
+  },
+  {
+    "query": "phoenix vaccination centers",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": null
+  },
+  {
+    "query": "houston airport information",
+    "intent": "navigation_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "bike rentals in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "detroit weather radar",
+    "intent": "weather_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "chicago, il real estate trends",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "cheapest hotels in tampa",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "pharmacies in minneapolis",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": null
+  },
+  {
+    "query": "weather report for san francisco, california",
+    "intent": "weather_intent",
+    "city": "san francisco",
+    "state": "california"
+  },
+  {
+    "query": "average home price in orlando",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": null
+  },
+  {
+    "query": "private schools in new york, new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "san diego airport information",
+    "intent": "navigation_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "san antonio airport information",
+    "intent": "navigation_intent",
+    "city": "san",
+    "state": null
+  },
+  {
+    "query": "miami, fl real estate trends",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "temperature in st. louis, mo",
+    "intent": "weather_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "pool cleaning services in dallas, texas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "san jose, ca travel guide",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "ca"
+  },
+  {
+    "query": "plumbing services in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "voter registration in ca",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "ca"
+  },
+  {
+    "query": "doctors in phoenix, az",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "az"
+  },
+  {
+    "query": "san diego, ca locksmith services",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "ca"
+  },
+  {
+    "query": "tax offices in tampa",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "city hall in detroit",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "current weather in austin",
+    "intent": "weather_intent",
+    "city": "austin",
+    "state": null
+  },
+  {
+    "query": "directions to orlando, fl",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "fl"
+  },
+  {
+    "query": "ohio housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ohio"
+  },
+  {
+    "query": "mn licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "mn"
+  },
+  {
+    "query": "ca dmv locations",
+    "intent": "yelp_intent",
+    "city": "d",
+    "state": null
+  },
+  {
+    "query": "miami public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "atlanta vaccination centers",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "hospitals in philadelphia, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "st. louis, mo locksmith services",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "best roofing companies in las vegas, nevada",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nevada"
+  },
+  {
+    "query": "atlanta weather radar",
+    "intent": "weather_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "bike rentals in seattle, washington",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "cheapest hotels in cleveland",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": null
+  },
+  {
+    "query": "directions to charlotte, nc",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "real estate agents in detroit, mi",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "covid-19 testing in nashville, tennessee",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "query": "where is the courthouse in los angeles, california",
+    "intent": "information_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "pharmacies in san diego",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "bike rentals in cleveland, ohio",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "ohio"
+  },
+  {
+    "query": "homes for rent in philadelphia, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "pittsburgh, pa locksmith services",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "bike rentals in atlanta, georgia",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "find schools in ga",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ga"
+  },
+  {
+    "query": "cheapest hotels in las vegas",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "weather report for san diego, california",
+    "intent": "weather_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "find cleaning services near houston, tx",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "bike rentals in austin, texas",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "mortgage rates in missouri",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "missouri"
+  },
+  {
+    "query": "theater performances in oregon",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "oregon"
+  },
+  {
+    "query": "houston, tx travel guide",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": "tx"
+  },
+  {
+    "query": "voter registration in md",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "md"
+  },
+  {
+    "query": "temperature in nashville, tn",
+    "intent": "weather_intent",
+    "city": "nashville",
+    "state": "tn"
+  },
+  {
+    "query": "upcoming concerts in chicago, il",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "how far is san jose from ca",
+    "intent": "information_intent",
+    "city": "san jose",
+    "state": "ca"
+  },
+  {
+    "query": "tampa, fl subway map",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "urgent care near austin, tx",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "things to do in miami, fl",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "current weather in pittsburgh",
+    "intent": "weather_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "baltimore, md locksmith services",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "car rentals in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "government offices in san diego, california",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "homes for rent in st. louis, missouri",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "missouri"
+  },
+  {
+    "query": "directions to pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "miami, fl travel guide",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "fl"
+  },
+  {
+    "query": "real estate agents in orlando, fl",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "fl"
+  },
+  {
+    "query": "current weather in portland",
+    "intent": "weather_intent",
+    "city": "portland",
+    "state": null
+  },
+  {
+    "query": "public transportation in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "temperature in portland, or",
+    "intent": "weather_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "st. louis parking information",
+    "intent": "yelp_intent",
+    "city": ". louis",
+    "state": null
+  },
+  {
+    "query": "find cleaning services near san antonio, tx",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "florida housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "florida"
+  },
+  {
+    "query": "hvac repair in chicago",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": null
+  },
+  {
+    "query": "find cleaning services near charlotte, nc",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "weather report for tampa, florida",
+    "intent": "weather_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "temperature in denver, co",
+    "intent": "weather_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "los angeles, ca public schools",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "hospitals in seattle, washington",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "washington"
+  },
+  {
+    "query": "storm warning for ca",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "ca"
+  },
+  {
+    "query": "miami weather forecast",
+    "intent": "weather_intent",
+    "city": "miami",
+    "state": null
+  },
+  {
+    "query": "current weather in tampa",
+    "intent": "weather_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "government offices in dallas, texas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "tourist attractions in cincinnati, oh",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "flights to boston, ma",
+    "intent": "travel_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "las vegas public library hours",
+    "intent": "navigation_intent",
+    "city": "las",
+    "state": null
+  },
+  {
+    "query": "how far is charlotte from nc",
+    "intent": "information_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "hvac repair in boston",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "taxi services in los angeles, california",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "dallas weather radar",
+    "intent": "weather_intent",
+    "city": "dallas",
+    "state": null
+  },
+  {
+    "query": "plumbing services in denver, colorado",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "pool cleaning services in san diego, california",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "comedy shows in st. louis, mo",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "tourist attractions in baltimore, md",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "vacation spots in massachusetts",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "massachusetts"
+  },
+  {
+    "query": "new york, ny real estate trends",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "ny"
+  },
+  {
+    "query": "things to do in minneapolis, mn",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "denver vaccination centers",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": null
+  },
+  {
+    "query": "current weather in phoenix",
+    "intent": "weather_intent",
+    "city": "phoenix",
+    "state": null
+  },
+  {
+    "query": "voter registration in tn",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "tn"
+  },
+  {
+    "query": "food festivals in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "average home price in portland",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": null
+  },
+  {
+    "query": "upcoming concerts in san francisco, ca",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "tax offices in st. louis",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": null
+  },
+  {
+    "query": "pharmacies in detroit",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "homes for rent in las vegas, nevada",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nevada"
+  },
+  {
+    "query": "cincinnati real estate market",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": null
+  },
+  {
+    "query": "weather report for cleveland, ohio",
+    "intent": "weather_intent",
+    "city": "cleveland",
+    "state": "ohio"
+  },
+  {
+    "query": "st. louis airport information",
+    "intent": "navigation_intent",
+    "city": "st . louis",
+    "state": null
+  },
+  {
+    "query": "mortgage rates in pennsylvania",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pennsylvania"
+  },
+  {
+    "query": "average home price in philadelphia",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "average home price in minneapolis",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": null
+  },
+  {
+    "query": "directions to san francisco, ca",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "theater performances in nevada",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "nevada"
+  },
+  {
+    "query": "top universities in dallas, texas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "pool cleaning services in new york, new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "covid-19 testing in charlotte, north carolina",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "food festivals in philadelphia, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "best roofing companies in boston, massachusetts",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "massachusetts"
+  },
+  {
+    "query": "pennsylvania housing prices",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pennsylvania"
+  },
+  {
+    "query": "voter registration in oh",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "oh"
+  },
+  {
+    "query": "best time to visit atlanta, georgia",
+    "intent": "travel_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "electricians in houston",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "upcoming concerts in pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "electricians in st. louis",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": null
+  },
+  {
+    "query": "events in new york this weekend",
+    "intent": "information_intent",
+    "city": "new",
+    "state": "york"
+  },
+  {
+    "query": "baltimore weather radar",
+    "intent": "weather_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "san francisco real estate market",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": null
+  },
+  {
+    "query": "nashville parking information",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "humidity levels in pittsburgh",
+    "intent": "information_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "pittsburgh real estate market",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "train stations near tampa",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "property for sale in chicago, il",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "il"
+  },
+  {
+    "query": "urgent care near cleveland, oh",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "car rentals in minneapolis, minnesota",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "real estate agents in seattle, wa",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "wa"
+  },
+  {
+    "query": "electricians in san diego",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "philadelphia airport information",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "voter registration in pa",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pa"
+  },
+  {
+    "query": "comedy shows in tampa, fl",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "san jose parking information",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "current weather in baltimore",
+    "intent": "weather_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "government offices in new york, new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": "new york"
+  },
+  {
+    "query": "urgent care near seattle, wa",
+    "intent": "yelp_intent",
+    "city": "seattle",
+    "state": "wa"
+  },
+  {
+    "query": "cleveland, oh real estate trends",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "storm warning for pa",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "pa"
+  },
+  {
+    "query": "san antonio real estate market",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "voter registration in mo",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "mo"
+  },
+  {
+    "query": "city hall in atlanta",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "is it raining in pittsburgh, pennsylvania",
+    "intent": "weather_intent",
+    "city": "pittsburgh",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "is it raining in portland, oregon",
+    "intent": "weather_intent",
+    "city": "portland",
+    "state": "oregon"
+  },
+  {
+    "query": "tx licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "tx"
+  },
+  {
+    "query": "music events in st. louis, mo",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "voter registration in co",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "co"
+  },
+  {
+    "query": "best time to visit austin, texas",
+    "intent": "travel_intent",
+    "city": "austin",
+    "state": "texas"
+  },
+  {
+    "query": "electricians in chicago",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": null
+  },
+  {
+    "query": "cheapest hotels in san antonio",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "portland, or travel guide",
+    "intent": "yelp_intent",
+    "city": "portland",
+    "state": "or"
+  },
+  {
+    "query": "pharmacies in orlando",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": null
+  },
+  {
+    "query": "best roofing companies in san antonio, texas",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "texas"
+  },
+  {
+    "query": "bus schedule in detroit, mi",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "mi"
+  },
+  {
+    "query": "storm warning for fl",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "fl"
+  },
+  {
+    "query": "food festivals in san jose, california",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "top universities in phoenix, arizona",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "hospitals in cleveland, ohio",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "ohio"
+  },
+  {
+    "query": "md dmv locations",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "md"
+  },
+  {
+    "query": "private schools in minneapolis, minnesota",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "urgent care near denver, co",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "covid-19 testing in denver, colorado",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "colorado"
+  },
+  {
+    "query": "minneapolis public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "where is the courthouse in san francisco, california",
+    "intent": "information_intent",
+    "city": "san francisco",
+    "state": "california"
+  },
+  {
+    "query": "dallas parking information",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "theater performances in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "cheapest hotels in charlotte",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": null
+  },
+  {
+    "query": "portland weather radar",
+    "intent": "weather_intent",
+    "city": "portland",
+    "state": null
+  },
+  {
+    "query": "minneapolis, mn travel guide",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "hvac repair in las vegas",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "how far is nashville from tn",
+    "intent": "information_intent",
+    "city": "nashville",
+    "state": null
+  },
+  {
+    "query": "voter registration in tx",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "tx"
+  },
+  {
+    "query": "hvac repair in san diego",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "homes for rent in cincinnati, ohio",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "ohio"
+  },
+  {
+    "query": "seattle sports events",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "tourist attractions in san diego, ca",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "ca"
+  },
+  {
+    "query": "mental health services in california",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "california"
+  },
+  {
+    "query": "best time to visit san diego, california",
+    "intent": "travel_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "government offices in atlanta, georgia",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "phoenix public library hours",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "theater performances in pennsylvania",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pennsylvania"
+  },
+  {
+    "query": "average home price in san antonio",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "top universities in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "philadelphia, pa public schools",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "property for sale in san antonio, tx",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "tx"
+  },
+  {
+    "query": "property for sale in philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "food festivals in san francisco, california",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "california"
+  },
+  {
+    "query": "private schools in los angeles, california",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "california"
+  },
+  {
+    "query": "pharmacies in tampa",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "find cleaning services near boston, ma",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "mental health services in maryland",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "maryland"
+  },
+  {
+    "query": "cincinnati, oh subway map",
+    "intent": "yelp_intent",
+    "city": "cincinnati",
+    "state": "oh"
+  },
+  {
+    "query": "denver, co travel guide",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "things to do in san francisco, ca",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "tourist attractions in st. louis, mo",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "hvac repair in atlanta",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": null
+  },
+  {
+    "query": "weather report for phoenix, arizona",
+    "intent": "weather_intent",
+    "city": "phoenix",
+    "state": "arizona"
+  },
+  {
+    "query": "find schools in il",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "il"
+  },
+  {
+    "query": "cleveland weather forecast",
+    "intent": "weather_intent",
+    "city": "cleveland",
+    "state": null
+  },
+  {
+    "query": "things to do in charlotte, nc",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "nc"
+  },
+  {
+    "query": "pool cleaning services in las vegas, nevada",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nevada"
+  },
+  {
+    "query": "upcoming concerts in denver, co",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "government offices in san antonio, texas",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "texas"
+  },
+  {
+    "query": "tax offices in san diego",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "find schools in ca",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "ca"
+  },
+  {
+    "query": "baltimore sports events",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "plumbing services in st. louis, missouri",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "missouri"
+  },
+  {
+    "query": "comedy shows in boston, ma",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "directions to baltimore, md",
+    "intent": "navigation_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "pool cleaning services in orlando, florida",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "query": "property for sale in austin, tx",
+    "intent": "yelp_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "tampa weather forecast",
+    "intent": "weather_intent",
+    "city": "tampa",
+    "state": null
+  },
+  {
+    "query": "orlando real estate market",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": null
+  },
+  {
+    "query": "atlanta marathon registration",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "hospitals in chicago, illinois",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "illinois"
+  },
+  {
+    "query": "phoenix, az travel guide",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": "az"
+  },
+  {
+    "query": "colleges near boston, ma",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "ma"
+  },
+  {
+    "query": "cheapest hotels in pittsburgh",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "property for sale in denver, co",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "bike rentals in detroit, michigan",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "michigan"
+  },
+  {
+    "query": "flights to denver, co",
+    "intent": "travel_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "pharmacies in los angeles",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": null
+  },
+  {
+    "query": "taxi services in san francisco, california",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "california"
+  },
+  {
+    "query": "hvac repair in nashville",
+    "intent": "yelp_intent",
+    "city": "nashville",
+    "state": null
+  },
+  {
+    "query": "san jose weather radar",
+    "intent": "weather_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "pool cleaning services in minneapolis, minnesota",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "minnesota"
+  },
+  {
+    "query": "real estate agents in cleveland, oh",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": "oh"
+  },
+  {
+    "query": "baltimore public library hours",
+    "intent": "navigation_intent",
+    "city": "baltimore",
+    "state": null
+  },
+  {
+    "query": "city hall in san jose",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "san francisco, ca travel guide",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "taxi services in charlotte, north carolina",
+    "intent": "yelp_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "food festivals in chicago, illinois",
+    "intent": "yelp_intent",
+    "city": "chicago",
+    "state": "illinois"
+  },
+  {
+    "query": "nv licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "n"
+  },
+  {
+    "query": "colleges near san francisco, ca",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "city hall in phoenix",
+    "intent": "yelp_intent",
+    "city": "phoenix",
+    "state": null
+  },
+  {
+    "query": "vacation spots in texas",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "texas"
+  },
+  {
+    "query": "storm warning for pa",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "pa"
+  },
+  {
+    "query": "train stations near new york",
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": null
+  },
+  {
+    "query": "urgent care near los angeles, ca",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "real estate agents in st. louis, mo",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": "mo"
+  },
+  {
+    "query": "hospitals in miami, florida",
+    "intent": "yelp_intent",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "query": "homes for rent in detroit, michigan",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": "michigan"
+  },
+  {
+    "query": "plumbing services in dallas, texas",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "query": "find schools in pa",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "pa"
+  },
+  {
+    "query": "humidity levels in boston",
+    "intent": "information_intent",
+    "city": "boston",
+    "state": null
+  },
+  {
+    "query": "city hall in pittsburgh",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": null
+  },
+  {
+    "query": "train stations near minneapolis",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": null
+  },
+  {
+    "query": "theater performances in florida",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "florida"
+  },
+  {
+    "query": "is it raining in boston, massachusetts",
+    "intent": "weather_intent",
+    "city": "boston",
+    "state": "massachusetts"
+  },
+  {
+    "query": "property for sale in las vegas, nv",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": "nv"
+  },
+  {
+    "query": "minneapolis, mn locksmith services",
+    "intent": "yelp_intent",
+    "city": "minneapolis",
+    "state": "mn"
+  },
+  {
+    "query": "san francisco, ca real estate trends",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": "ca"
+  },
+  {
+    "query": "cheapest hotels in philadelphia",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": null
+  },
+  {
+    "query": "temperature in austin, tx",
+    "intent": "weather_intent",
+    "city": "austin",
+    "state": "tx"
+  },
+  {
+    "query": "colleges near denver, co",
+    "intent": "yelp_intent",
+    "city": "denver",
+    "state": "co"
+  },
+  {
+    "query": "detroit sports events",
+    "intent": "yelp_intent",
+    "city": "detroit",
+    "state": null
+  },
+  {
+    "query": "plumbing services in philadelphia, pennsylvania",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pennsylvania"
+  },
+  {
+    "query": "philadelphia marathon registration",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "best time to visit san jose, california",
+    "intent": "travel_intent",
+    "city": "san jose",
+    "state": "california"
+  },
+  {
+    "query": "baltimore, md real estate trends",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "md"
+  },
+  {
+    "query": "texas high school rankings",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "plumbing services in orlando, florida",
+    "intent": "yelp_intent",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "query": "bus schedule in philadelphia, pa",
+    "intent": "yelp_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "new york housing prices",
+    "intent": "yelp_intent",
+    "city": "york",
+    "state": "new"
+  },
+  {
+    "query": "mi dmv locations",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "mi"
+  },
+  {
+    "query": "taxi services in atlanta, georgia",
+    "intent": "yelp_intent",
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "query": "average home price in san francisco",
+    "intent": "yelp_intent",
+    "city": "san francisco",
+    "state": null
+  },
+  {
+    "query": "homes for rent in san diego, california",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "electricians in cleveland",
+    "intent": "yelp_intent",
+    "city": "cleveland",
+    "state": null
+  },
+  {
+    "query": "san diego marathon registration",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": null
+  },
+  {
+    "query": "mental health services in new york",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "new york"
+  },
+  {
+    "query": "taxi services in boston, massachusetts",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "massachusetts"
+  },
+  {
+    "query": "best time to visit charlotte, north carolina",
+    "intent": "travel_intent",
+    "city": "charlotte",
+    "state": "north carolina"
+  },
+  {
+    "query": "los angeles, ca travel guide",
+    "intent": "yelp_intent",
+    "city": "los angeles",
+    "state": "ca"
+  },
+  {
+    "query": "train stations near san jose",
+    "intent": "yelp_intent",
+    "city": "san jose",
+    "state": null
+  },
+  {
+    "query": "music events in tampa, fl",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "private schools in boston, massachusetts",
+    "intent": "yelp_intent",
+    "city": "boston",
+    "state": "massachusetts"
+  },
+  {
+    "query": "san antonio weather forecast",
+    "intent": "weather_intent",
+    "city": "san antonio",
+    "state": null
+  },
+  {
+    "query": "dallas, tx travel guide",
+    "intent": "yelp_intent",
+    "city": "dallas",
+    "state": "tx"
+  },
+  {
+    "query": "doctors in pittsburgh, pa",
+    "intent": "yelp_intent",
+    "city": "pittsburgh",
+    "state": "pa"
+  },
+  {
+    "query": "temperature in philadelphia, pa",
+    "intent": "weather_intent",
+    "city": "philadelphia",
+    "state": "pa"
+  },
+  {
+    "query": "vacation spots in pennsylvania",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "pennsylvania"
+  },
+  {
+    "query": "current weather in new york",
+    "intent": "weather_intent",
+    "city": "new",
+    "state": "york"
+  },
+  {
+    "query": "car rentals in san antonio, texas",
+    "intent": "yelp_intent",
+    "city": "san antonio",
+    "state": "texas"
+  },
+  {
+    "query": "directions to tampa, fl",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "fl"
+  },
+  {
+    "query": "vacation spots in maryland",
+    "intent": "weather_intent",
+    "city": null,
+    "state": "maryland"
+  },
+  {
+    "query": "md licensed contractors",
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "md"
+  },
+  {
+    "query": "hvac repair in houston",
+    "intent": "yelp_intent",
+    "city": "houston",
+    "state": null
+  },
+  {
+    "query": "hvac repair in st. louis",
+    "intent": "yelp_intent",
+    "city": "st . louis",
+    "state": null
+  },
+  {
+    "query": "best roofing companies in san diego, california",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "tax offices in las vegas",
+    "intent": "yelp_intent",
+    "city": "las vegas",
+    "state": null
+  },
+  {
+    "query": "homes for rent in baltimore, maryland",
+    "intent": "yelp_intent",
+    "city": "baltimore",
+    "state": "maryland"
+  },
+  {
+    "query": "top universities in san diego, california",
+    "intent": "yelp_intent",
+    "city": "san diego",
+    "state": "california"
+  },
+  {
+    "query": "top universities in tampa, florida",
+    "intent": "yelp_intent",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "query": "how far is san diego from ca",
+    "intent": "information_intent",
+    "city": "san diego",
+    "state": "ca"
+  }
+]
