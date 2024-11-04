@@ -169,3 +169,4 @@ data/internal
 # model files
 notebooks/distilbert-base-uncased-lora-intent-classification-v2/
 models/
+tmp/
