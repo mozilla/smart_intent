@@ -1,7 +1,7 @@
 # This module handles the data preparation for intent classification task
 import os
 import pandas as pd
-from constants import INTENT_LABEL2ID, INTENT_REPO_ID, INTENT_LABELLED_DATA_PATH
+from constants import INTENT_LABEL2ID, INTENT_DATASET_REPO_ID, INTENT_LABELLED_DATA_PATH
 from sklearn.model_selection import train_test_split
 from datasets import DatasetDict, Dataset
 import logging
@@ -71,7 +71,7 @@ class DataPrepIntent:
         dataset_dict = self.prepare_train_test_datasets(data)
         
         # Upload the dataset to Hugging Face Hub
-        self.upload_to_hf(dataset_dict, INTENT_REPO_ID)
+        self.upload_to_hf(dataset_dict, INTENT_DATASET_REPO_ID)
         
         logger.info("Pipeline completed successfully.")
 

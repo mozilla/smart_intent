@@ -10,4 +10,10 @@ INTENT_ID2LABEL = {0: 'information_intent',
                    6: 'translation_intent',
                    7: 'unknown'}
 INTENT_LABEL2ID = {label:id for id,label in INTENT_ID2LABEL.items()}
-INTENT_REPO_ID = "Mozilla/smart_intent_dataset"
+NUM_LABELS = len(INTENT_ID2LABEL)
+INTENT_DATASET_REPO_ID = "Mozilla/smart_intent_dataset"
+INTENT_MODEL_CHECKPOINT = 'google/mobilebert-uncased'
+INTENT_MODEL_OUTPUT_DIR = "models/mobilebert-uncased" + "-lora-intent-classification-v3"
+MODEL_ARTIFACT_DIR = "tmp/mobilebert_lora_combined_model/"
+## Make sure you change to correct Repo id ("Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier")
+INTENT_MODEL_REPO_ID = "chidamnat2002/smart_intent_model" 
