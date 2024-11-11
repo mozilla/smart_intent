@@ -3,8 +3,27 @@ from transformers import AutoTokenizer
 import numpy as np
 import requests
 import os
+import torch.nn.functional as F
+import torch
+import shap
+import pandas as pd
 
 class LocationFinder:
+    # Define the label map for city, state, citystate, etc.
+    label_map = {
+        0: "O",        # Outside any named entity
+        1: "B-PER",    # Beginning of a person entity
+        2: "I-PER",    # Inside a person entity
+        3: "B-ORG",    # Beginning of an organization entity
+        4: "I-ORG",    # Inside an organization entity
+        5: "B-CITY",   # Beginning of a city entity
+        6: "I-CITY",   # Inside a city entity
+        7: "B-STATE",  # Beginning of a state entity
+        8: "I-STATE",  # Inside a state entity
+        9: "B-CITYSTATE",   # Beginning of a city_state entity
+        10: "I-CITYSTATE",   # Inside a city_state entity
+    }
+
     def __init__(self):
         self.tokenizer = AutoTokenizer.from_pretrained("Mozilla/distilbert-uncased-NER-LoRA")
         model_url = "https://huggingface.co/Mozilla/distilbert-uncased-NER-LoRA/resolve/main/onnx/model_quantized.onnx"
@@ -21,6 +40,76 @@ class LocationFinder:
 
         # Load the ONNX model
         self.ort_session = ort.InferenceSession(model_path)
+
+    def preprocess(self, text):
+        # Tokenize input text
+        inputs = self.tokenizer(text, return_tensors="pt", truncation=True, padding="max_length", max_length=64)
+        return inputs["input_ids"].numpy(), inputs["attention_mask"].numpy()
+        
+    def predict(self, inputs):
+        input_ids, attention_mask = inputs
+        # Run inference
+        outputs = self.ort_session.run(None, {
+            "input_ids": input_ids,
+            "attention_mask": attention_mask
+        })
+        return outputs[0]
+
+    def predict_proba(self, texts):
+        # Set max_length to the model's maximum output sequence length
+        max_length = 64
+        num_classes = self.ort_session.get_outputs()[0].shape[-1]  # Number of classes from the model
+
+    
+        # Initialize 3D array for all probabilities with zeros (padding)
+        all_probs = np.zeros((len(texts), max_length, num_classes))
+        
+        for i, text in enumerate(texts):
+            # Tokenize and prepare input
+            input_ids, attention_mask = self.preprocess(text)
+            
+            # Run model inference to get logits
+            logits = self.predict((input_ids, attention_mask))
+            
+            # Apply softmax to get probabilities for each token
+            prob = F.softmax(torch.tensor(logits), dim=-1).numpy()
+            
+            # Trim to actual token length, ignoring padding tokens
+            tokens = self.tokenizer(text, truncation=True, padding="max_length")['input_ids']
+            token_probabilities = prob[:len(tokens), :]
+            
+            # Copy token probabilities into the pre-initialized array up to token length
+            all_probs[i, :len(tokens), :] = token_probabilities  # Fill up to token length
+        
+        # Return the padded 3D numpy array
+        return all_probs
+    
+    def shap_predict_wrapper(self, texts):
+        if isinstance(texts, np.ndarray):
+            texts = texts.flatten().tolist()  # Ensure it’s a list of strings
+        probs = self.predict_proba(texts)
+        # Flatten output to ensure it's a 2D array
+        return np.array([p.flatten() for p in probs])
+    
+    def show_explanation(self, query):
+        # Convert the background text to a 2D numpy array
+        background_text = np.array([["This is a sample background text for SHAP."]])
+
+        # Initialize KernelExplainer with the 2D numpy array background
+        explainer = shap.KernelExplainer(self.shap_predict_wrapper, background_text)
+        text_to_explain = np.array([query])
+        # Generate SHAP values for the tokens
+        shap_values = explainer.shap_values(text_to_explain)
+        num_tokens = 64  # Adjust if your input length is different
+        num_classes = 11
+        reshaped_shap_values = shap_values[0].reshape(num_tokens, num_classes)
+        # aggregated_shap_values = reshaped_shap_values.sum(axis=1)
+        masks = [idx for idx, mask in enumerate(self.tokenizer(text_to_explain[0], truncation=True, padding="max_length", max_length=64)['attention_mask']) if mask]
+        text_tokens = self.tokenizer.convert_ids_to_tokens(self.tokenizer(text_to_explain[0], truncation=True, padding="max_length", max_length=64)['input_ids'])
+        trimmed_shap_values = reshaped_shap_values[:len(masks), :]
+        shap_values_by_class = pd.DataFrame(trimmed_shap_values, index=text_tokens[:len(masks)], columns=list(self.label_map.values()))
+        return shap_values_by_class
+
 
     def find_location(self, sequence, verbose=False):
         inputs = self.tokenizer(sequence,
@@ -42,22 +131,9 @@ class LocationFinder:
         predicted_probs = np.max(probabilities, axis=-1)
         
         # Define the threshold for NER probability
-        threshold = 0.6
+        threshold = 0.5
         
-        # Define the label map for city, state, citystate, etc.
-        label_map = {
-            0: "O",        # Outside any named entity
-            1: "B-PER",    # Beginning of a person entity
-            2: "I-PER",    # Inside a person entity
-            3: "B-ORG",    # Beginning of an organization entity
-            4: "I-ORG",    # Inside an organization entity
-            5: "B-CITY",   # Beginning of a city entity
-            6: "I-CITY",   # Inside a city entity
-            7: "B-STATE",  # Beginning of a state entity
-            8: "I-STATE",  # Inside a state entity
-            9: "B-CITYSTATE",   # Beginning of a city_state entity
-        10: "I-CITYSTATE",   # Inside a city_state entity
-        }
+        label_map = self.label_map
         
         tokens = self.tokenizer.convert_ids_to_tokens(inputs['input_ids'][0])
 

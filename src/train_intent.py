@@ -22,6 +22,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("IntentClassificationTrainer")
 device = 'cuda' if cuda.is_available() else 'mps'
+logger.info(f"Using device: {device}")
 
 class IntentClassificationTrainer:
     peft_config = LoraConfig(task_type="SEQ_CLS",
@@ -53,7 +54,7 @@ class IntentClassificationTrainer:
             num_labels=NUM_LABELS,
             id2label=INTENT_ID2LABEL,
             label2id=INTENT_LABEL2ID
-        )
+        ).to(device)
 
         self.tokenizer = AutoTokenizer.from_pretrained(
             INTENT_MODEL_CHECKPOINT,
@@ -63,7 +64,7 @@ class IntentClassificationTrainer:
             self.tokenizer.add_special_tokens({'pad_token': '[PAD]'})
             self.model.resize_token_embeddings(len(self.tokenizer))
 
-        self.model = get_peft_model(self.model, self.peft_config)
+        self.model = get_peft_model(self.model, self.peft_config).to(device)
         self.model.print_trainable_parameters()
 
 

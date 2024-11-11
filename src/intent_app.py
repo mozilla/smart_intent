@@ -3,6 +3,7 @@ import streamlit.components.v1 as components
 from infer_intent import IntentClassifier
 from infer_location import LocationFinder
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 st.set_page_config(layout="wide")
 st.title("Intent classifier")
@@ -45,9 +46,12 @@ with col1:
     st.pyplot(fig)
 
 with col2:
-    exp = st.expander("Explore training data")
-    with exp:
-        html_file = "reports/web_search_intents.html"
-        with open(html_file, 'r', encoding='utf-8') as f:
-            plotly_html = f.read()
-            components.html(plotly_html, height=900, width=900)
+    exp3 = st.expander("NER SHAP values by tokens and class")
+    with exp3:
+        shap_values_by_class = ner.show_explanation(query)
+        plt.figure(figsize=(10, 8))
+        sns.heatmap(shap_values_by_class, cmap='RdBu_r', center=0, annot=True, fmt=".2f", cbar_kws={'label': 'SHAP Value'})
+        plt.xlabel("Entity Class")
+        plt.ylabel("Tokens")
+        plt.title("SHAP Values by Token and Entity Class")
+        st.pyplot(plt)
