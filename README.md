@@ -18,7 +18,21 @@ Classify query to various intents as below
 
 <img width="1586" alt="image" src="https://github.com/user-attachments/assets/c5b1931c-fa9a-47ad-a229-412610b83910">
 
-
 ## steps to run the sample intent inference
 steps 1 - 4 from above
 5) python src/infer_intent.py
+
+## steps to train intent classifier model
+`data preparation`:
+   ```
+   python src/data_prep_intent.py
+   ```
+`intent model training`:
+  ```
+  python src/train_intent.py
+  ```
+(optional)
+`upload the model to hub`:
+  ```
+  python src/upload_intent.py
+  ```
