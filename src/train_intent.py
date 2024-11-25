@@ -26,10 +26,10 @@ logger.info(f"Using device: {device}")
 
 class IntentClassificationTrainer:
     peft_config = LoraConfig(task_type="SEQ_CLS",
-                             r=8, # intrinsic rank of trainable weight matrix
+                             r=16, # intrinsic rank of trainable weight matrix
                              lora_alpha=32, # similar to learning_rate
                              lora_dropout=0.01, # probability of dropout nodes
-                             target_modules=['attention.self.query']) # LoRA is applied to query layer
+                             target_modules=['attention.self.query', 'attention.self.key']) # LoRA is applied to query & key layer
     lr = 1e-4
     batch_size = 32
     num_epochs = 12

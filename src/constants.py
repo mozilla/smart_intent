@@ -1,5 +1,5 @@
 ## used by intent modules
-INTENT_LABELLED_DATA_VERSION = "v4"
+INTENT_LABELLED_DATA_VERSION = "v6"
 INTENT_LABELLED_DATA_PATH = f"https://raw.githubusercontent.com/mozilla/smart_intent/refs/heads/main/data/marco_train_{INTENT_LABELLED_DATA_VERSION}.csv"
 INTENT_ID2LABEL = {0: 'information_intent',
                    1: 'yelp_intent',

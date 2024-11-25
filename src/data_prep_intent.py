@@ -13,7 +13,7 @@ class DataPrepIntent:
     
     DFLT_PCT_VAL = 1.0
     SAMPLING_PERCENTAGES = {
-        'information_intent': 0.4,   # 40% sampling for information_intent
+        'information_intent': 1.0,   # 100% sampling for information_intent
         'yelp_intent': 1.0,          # 100% sampling for yelp_intent
         'weather_intent': 1.0,       # 100% sampling for weather_intent
         'navigation_intent': 1.0,    # 100% sampling for navigation_intent
