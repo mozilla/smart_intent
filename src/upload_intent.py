@@ -7,7 +7,7 @@ from peft import PeftModel
 from constants import (INTENT_MODEL_CHECKPOINT,
                        INTENT_ID2LABEL,
                        INTENT_LABEL2ID,
-                       NUM_LABELS,
+                       INTENT_NUM_LABELS,
                        INTENT_MODEL_OUTPUT_DIR,
                        MODEL_ARTIFACT_DIR,
                        INTENT_MODEL_REPO_ID)
@@ -16,7 +16,7 @@ class IntentModelArtifact:
     """ To run CHKPT_DIR=<checkpoint-#####> python src/upload_intent.py"""
     base_model = AutoModelForSequenceClassification.from_pretrained(
         INTENT_MODEL_CHECKPOINT,
-        num_labels=NUM_LABELS,
+        num_labels=INTENT_NUM_LABELS,
         id2label=INTENT_ID2LABEL,
         label2id=INTENT_LABEL2ID)
     

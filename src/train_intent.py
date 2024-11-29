@@ -11,7 +11,7 @@ from transformers import (AutoTokenizer,
 from peft import get_peft_model, LoraConfig
 from constants import (INTENT_LABEL2ID,
                        INTENT_ID2LABEL,
-                       NUM_LABELS,
+                       INTENT_NUM_LABELS,
                        INTENT_DATASET_REPO_ID,
                        INTENT_MODEL_CHECKPOINT,
                        INTENT_MODEL_OUTPUT_DIR)
@@ -51,7 +51,7 @@ class IntentClassificationTrainer:
     def __init__(self):
         self.model = AutoModelForSequenceClassification.from_pretrained(
             INTENT_MODEL_CHECKPOINT,
-            num_labels=NUM_LABELS,
+            num_labels=INTENT_NUM_LABELS,
             id2label=INTENT_ID2LABEL,
             label2id=INTENT_LABEL2ID
         ).to(device)
