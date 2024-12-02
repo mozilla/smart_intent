@@ -36,3 +36,18 @@ steps 1 - 4 from above
   ```
   python src/upload_intent.py
   ```
+
+## steps to train NER model
+`data preparation`:
+   ```
+   python src/data_prep_ner.py
+   ```
+`NER model training`:
+  ```
+  python src/train_ner.py
+  ```
+(optional)
+`upload the model to hub`:
+  ```
+  python src/upload_ner.py
+  ```
