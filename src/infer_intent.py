@@ -17,9 +17,9 @@ class IntentClassifier:
                          7: 'unknown'}
         self.label2id = {label: id for id, label in self.id2label.items()}
 
-        self.tokenizer = AutoTokenizer.from_pretrained("chidamnat2002/mobilebert-uncased-finetuned-LoRA-intent-classifier")
+        self.tokenizer = AutoTokenizer.from_pretrained("Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier")
 
-        model_url = "https://huggingface.co/chidamnat2002/mobilebert-uncased-finetuned-LoRA-intent-classifier/resolve/main/onnx/model_quantized.onnx"
+        model_url = "https://huggingface.co/Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier/resolve/main/onnx/model_quantized.onnx"
         model_dir_path = "models"
         model_path = f"{model_dir_path}/mobilebert-uncased-finetuned-LoRA-intent-classifier_model_quantized.onnx"
         if not os.path.exists(model_dir_path):
