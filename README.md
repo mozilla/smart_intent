@@ -51,3 +51,10 @@ steps 1 - 4 from above
   ```
   python src/upload_ner.py
   ```
+
+Steps to quantize:
+```
+venv/bin/python convert.py --model_id Mozilla/mobilebert-uncased-finetuned-LoRA-intent-classifier --quantize --modes q4 q8 fp16 --task text-classification  --output_parent_dir output_models
+
+venv/bin/python convert.py --model_id Mozilla/distilbert-uncased-NER-LoRA --quantize --modes q4 q8 fp16 --task token-classification  --output_parent_dir output_models
+```
