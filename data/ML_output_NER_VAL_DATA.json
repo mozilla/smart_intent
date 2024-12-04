@@ -7,7 +7,7 @@
   },
   {
     "query": "voter registration in wa",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "wa"
   },
@@ -31,7 +31,7 @@
   },
   {
     "query": "san antonio, tx subway map",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san antonio",
     "state": "tx"
   },
@@ -55,15 +55,15 @@
   },
   {
     "query": "orlando, fl real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "orlando",
     "state": "fl"
   },
   {
     "query": "minnesota high school rankings",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
-    "state": null
+    "state": "minnesota"
   },
   {
     "query": "upcoming concerts in tampa, fl",
@@ -80,8 +80,8 @@
   {
     "query": "tx dmv locations",
     "intent": "yelp_intent",
-    "city": "d",
-    "state": null
+    "city": null,
+    "state": "tx"
   },
   {
     "query": "colleges near detroit, mi",
@@ -91,13 +91,13 @@
   },
   {
     "query": "find schools in ma",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "ma"
   },
   {
     "query": "dallas, tx subway map",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "dallas",
     "state": "tx"
   },
@@ -116,20 +116,20 @@
   {
     "query": "pool cleaning services in st. louis, missouri",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "missouri"
   },
   {
     "query": "city hall in tampa",
-    "intent": "weather_intent",
+    "intent": "yelp_intent",
     "city": "tampa",
     "state": null
   },
   {
     "query": "ca dmv locations",
-    "intent": "yelp_intent",
-    "city": "d",
-    "state": null
+    "intent": "navigation_intent",
+    "city": null,
+    "state": "ca"
   },
   {
     "query": "upcoming concerts in houston, tx",
@@ -139,26 +139,26 @@
   },
   {
     "query": "events in charlotte this weekend",
-    "intent": "information_intent",
+    "intent": "",
     "city": "charlotte",
     "state": null
   },
   {
     "query": "private schools in cincinnati, ohio",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "cincinnati",
     "state": "ohio"
   },
   {
     "query": "detroit, mi real estate trends",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "detroit",
     "state": "mi"
   },
   {
     "query": "portland public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "portland",
     "state": null
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "query": "vacation spots in tennessee",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "tennessee"
   },
@@ -193,13 +193,13 @@
   },
   {
     "query": "detroit, mi public schools",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "detroit",
     "state": "mi"
   },
   {
     "query": "humidity levels in san antonio",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "san antonio",
     "state": null
   },
@@ -211,7 +211,7 @@
   },
   {
     "query": "austin, tx travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "austin",
     "state": "tx"
   },
@@ -235,7 +235,7 @@
   },
   {
     "query": "las vegas, nv public schools",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "las vegas",
     "state": "nv"
   },
@@ -247,7 +247,7 @@
   },
   {
     "query": "dallas marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "dallas",
     "state": null
   },
@@ -259,7 +259,7 @@
   },
   {
     "query": "chicago marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "chicago",
     "state": null
   },
@@ -295,7 +295,7 @@
   },
   {
     "query": "baltimore, md public schools",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "baltimore",
     "state": "md"
   },
@@ -313,7 +313,7 @@
   },
   {
     "query": "colleges near miami, fl",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -325,13 +325,13 @@
   },
   {
     "query": "best time to visit houston, texas",
-    "intent": "travel_intent",
+    "intent": "navigation_intent",
     "city": "houston",
     "state": "texas"
   },
   {
     "query": "private schools in denver, colorado",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "denver",
     "state": "colorado"
   },
@@ -355,7 +355,7 @@
   },
   {
     "query": "covid-19 testing in phoenix, arizona",
-    "intent": "yelp_intent",
+    "intent": "weather_intent",
     "city": "phoenix",
     "state": "arizona"
   },
@@ -373,13 +373,13 @@
   },
   {
     "query": "portland parking information",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "portland",
     "state": null
   },
   {
     "query": "directions to san antonio, tx",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "san antonio",
     "state": "tx"
   },
@@ -391,26 +391,26 @@
   },
   {
     "query": "city hall in san antonio",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "san antonio",
     "state": null
   },
   {
     "query": "california housing prices",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "california"
   },
   {
     "query": "miami, fl public schools",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "miami",
     "state": "fl"
   },
   {
     "query": "tampa marathon registration",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "tampa",
     "state": null
   },
   {
@@ -427,25 +427,25 @@
   },
   {
     "query": "events in cincinnati this weekend",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "cincinnati",
     "state": null
   },
   {
     "query": "events in tampa this weekend",
-    "intent": "yelp_intent",
+    "intent": "weather_intent",
     "city": "tampa",
     "state": null
   },
   {
     "query": "florida high school rankings",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "florida"
   },
   {
     "query": "chicago, il subway map",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "chicago",
     "state": "il"
   },
@@ -500,7 +500,7 @@
   {
     "query": "seattle public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "seattle",
     "state": null
   },
   {
@@ -511,7 +511,7 @@
   },
   {
     "query": "austin, tx real estate trends",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "austin",
     "state": "tx"
   },
@@ -523,8 +523,8 @@
   },
   {
     "query": "boston parking information",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "boston",
     "state": null
   },
   {
@@ -547,13 +547,13 @@
   },
   {
     "query": "directions to cleveland, oh",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "cleveland",
     "state": "oh"
   },
   {
     "query": "music events in seattle, wa",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "seattle",
     "state": "wa"
   },
@@ -565,9 +565,9 @@
   },
   {
     "query": "average home price in new york",
-    "intent": "purchase_intent",
-    "city": null,
-    "state": "new york"
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": null
   },
   {
     "query": "cheapest hotels in portland",
@@ -589,7 +589,7 @@
   },
   {
     "query": "new york, ny subway map",
-    "intent": "information_intent",
+    "intent": "travel_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -608,7 +608,7 @@
   {
     "query": "san diego public library hours",
     "intent": "navigation_intent",
-    "city": "san",
+    "city": "san diego",
     "state": null
   },
   {
@@ -631,13 +631,13 @@
   },
   {
     "query": "massachusetts housing prices",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "massachusetts"
   },
   {
     "query": "humidity levels in tampa",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "tampa",
     "state": null
   },
@@ -655,31 +655,31 @@
   },
   {
     "query": "humidity levels in orlando",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "orlando",
     "state": null
   },
   {
     "query": "voter registration in tx",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "tx"
   },
   {
     "query": "property for sale in tampa, fl",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "tampa",
     "state": "fl"
   },
   {
     "query": "san francisco airport information",
     "intent": "navigation_intent",
-    "city": "san",
+    "city": "san francisco",
     "state": null
   },
   {
     "query": "find schools in az",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "az"
   },
@@ -692,19 +692,19 @@
   {
     "query": "houston public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "houston",
     "state": null
   },
   {
     "query": "denver public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "denver",
     "state": null
   },
   {
     "query": "humidity levels in st. louis",
-    "intent": "information_intent",
-    "city": "st . louis",
+    "intent": "weather_intent",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -727,20 +727,20 @@
   },
   {
     "query": "weather update for st. louis, mo",
-    "intent": "navigation_intent",
-    "city": "st . louis",
+    "intent": "weather_intent",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "covid-19 testing in miami, florida",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "miami",
     "state": "florida"
   },
   {
     "query": "chicago weather radar",
     "intent": "weather_intent",
-    "city": "chicago",
+    "city": "chicago radar",
     "state": null
   },
   {
@@ -782,7 +782,7 @@
   {
     "query": "bus schedule in st. louis, mo",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -805,7 +805,7 @@
   },
   {
     "query": "theater performances in illinois",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": "illinois"
   },
@@ -829,7 +829,7 @@
   },
   {
     "query": "cleveland real estate market",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": "cleveland",
     "state": null
   },
@@ -847,7 +847,7 @@
   },
   {
     "query": "find schools in mi",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "mi"
   },
@@ -859,37 +859,37 @@
   },
   {
     "query": "tourist attractions in tampa, fl",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "tampa",
     "state": "fl"
   },
   {
     "query": "upcoming concerts in san diego, ca",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san diego",
     "state": "ca"
   },
   {
     "query": "upcoming concerts in new york, ny",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "new york",
     "state": "ny"
   },
   {
     "query": "las vegas airport information",
     "intent": "navigation_intent",
-    "city": "las",
+    "city": "las vegas",
     "state": null
   },
   {
     "query": "bus schedule in portland, or",
-    "intent": "weather_intent",
+    "intent": "yelp_intent",
     "city": "portland",
     "state": "or"
   },
   {
     "query": "cleveland marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "cleveland",
     "state": null
   },
@@ -901,7 +901,7 @@
   },
   {
     "query": "comedy shows in denver, co",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "denver",
     "state": "co"
   },
@@ -925,7 +925,7 @@
   },
   {
     "query": "directions to portland, or",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "portland",
     "state": "or"
   },
@@ -943,25 +943,25 @@
   },
   {
     "query": "minnesota housing prices",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "minnesota"
   },
   {
     "query": "tourist attractions in portland, or",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "portland",
     "state": "or"
   },
   {
     "query": "humidity levels in minneapolis",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "minneapolis",
     "state": null
   },
   {
     "query": "pennsylvania housing prices",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "pennsylvania"
   },
@@ -985,20 +985,20 @@
   },
   {
     "query": "where is the courthouse in portland, oregon",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "portland",
     "state": "oregon"
   },
   {
     "query": "city hall in st. louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
     "query": "nashville public library hours",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "nashville",
     "state": null
   },
   {
@@ -1009,7 +1009,7 @@
   },
   {
     "query": "san antonio, tx real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san antonio",
     "state": "tx"
   },
@@ -1027,8 +1027,8 @@
   },
   {
     "query": "san diego sports events",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "travel_intent",
+    "city": "san diego",
     "state": null
   },
   {
@@ -1046,18 +1046,18 @@
   {
     "query": "best roofing companies in st. louis, missouri",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "missouri"
   },
   {
     "query": "humidity levels in houston",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "houston",
     "state": null
   },
   {
     "query": "fl licensed contractors",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "fl"
   },
@@ -1069,7 +1069,7 @@
   },
   {
     "query": "seattle, wa public schools",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "seattle",
     "state": "wa"
   },
@@ -1105,7 +1105,7 @@
   },
   {
     "query": "detroit airport information",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "detroit",
     "state": null
   },
@@ -1123,7 +1123,7 @@
   },
   {
     "query": "city hall in baltimore",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "baltimore",
     "state": null
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "query": "houston sports events",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "houston",
     "state": null
   },
@@ -1171,7 +1171,7 @@
   },
   {
     "query": "mental health services in north carolina",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "north carolina"
   },
@@ -1207,13 +1207,13 @@
   },
   {
     "query": "baltimore airport information",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": "baltimore",
     "state": null
   },
   {
     "query": "voter registration in ga",
-    "intent": "weather_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "ga"
   },
@@ -1237,7 +1237,7 @@
   },
   {
     "query": "cincinnati, oh travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "cincinnati",
     "state": "oh"
   },
@@ -1261,20 +1261,20 @@
   },
   {
     "query": "atlanta, ga public schools",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "atlanta",
     "state": "ga"
   },
   {
     "query": "tampa real estate market",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": "tampa",
     "state": null
   },
   {
     "query": "san francisco public library hours",
     "intent": "navigation_intent",
-    "city": "san",
+    "city": "san francisco",
     "state": null
   },
   {
@@ -1285,37 +1285,37 @@
   },
   {
     "query": "st. louis, mo travel guide",
-    "intent": "yelp_intent",
-    "city": "st . louis",
+    "intent": "travel_intent",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "los angeles, ca real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "los angeles",
     "state": "ca"
   },
   {
     "query": "phoenix, az public schools",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "phoenix",
     "state": "az"
   },
   {
     "query": "las vegas weather radar",
     "intent": "weather_intent",
-    "city": "las vegas",
+    "city": "las vegas radar",
     "state": null
   },
   {
     "query": "events in phoenix this weekend",
-    "intent": "information_intent",
+    "intent": "",
     "city": "phoenix",
     "state": null
   },
   {
     "query": "voter registration in pa",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "pa"
   },
@@ -1334,12 +1334,12 @@
   {
     "query": "hvac repair in new york",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "tourist attractions in pittsburgh, pa",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "pittsburgh",
     "state": "pa"
   },
@@ -1357,7 +1357,7 @@
   },
   {
     "query": "cleveland airport information",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": "cleveland",
     "state": null
   },
@@ -1381,13 +1381,13 @@
   },
   {
     "query": "houston, tx subway map",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "houston",
     "state": "tx"
   },
   {
     "query": "voter registration in fl",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "fl"
   },
@@ -1411,7 +1411,7 @@
   },
   {
     "query": "tourist attractions in orlando, fl",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "orlando",
     "state": "fl"
   },
@@ -1447,7 +1447,7 @@
   },
   {
     "query": "weather update for las vegas, nv",
-    "intent": "navigation_intent",
+    "intent": "weather_intent",
     "city": "las vegas",
     "state": "nv"
   },
@@ -1501,26 +1501,26 @@
   },
   {
     "query": "theater performances in north carolina",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "north carolina"
   },
   {
     "query": "atlanta airport information",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "atlanta",
     "state": null
   },
   {
     "query": "theater performances in michigan",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "michigan"
   },
   {
     "query": "how far is new york from ny",
     "intent": "information_intent",
-    "city": "new",
+    "city": "new york",
     "state": "ny"
   },
   {
@@ -1549,14 +1549,14 @@
   },
   {
     "query": "minneapolis, mn subway map",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "minneapolis",
     "state": "mn"
   },
   {
     "query": "tampa public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "tampa",
     "state": null
   },
   {
@@ -1567,9 +1567,9 @@
   },
   {
     "query": "california high school rankings",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
-    "state": null
+    "state": "california"
   },
   {
     "query": "mortgage rates in georgia",
@@ -1603,19 +1603,19 @@
   },
   {
     "query": "comedy shows in san diego, ca",
-    "intent": "yelp_intent",
+    "intent": "weather_intent",
     "city": "san diego",
     "state": "ca"
   },
   {
     "query": "comedy shows in nashville, tn",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "nashville",
     "state": "tn"
   },
   {
     "query": "covid-19 testing in tampa, florida",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "tampa",
     "state": "florida"
   },
@@ -1628,18 +1628,18 @@
   {
     "query": "denver weather radar",
     "intent": "weather_intent",
-    "city": "denver",
+    "city": "denver radar",
     "state": null
   },
   {
     "query": "humidity levels in detroit",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "detroit",
     "state": null
   },
   {
     "query": "theater performances in california",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "california"
   },
@@ -1681,9 +1681,9 @@
   },
   {
     "query": "oh dmv locations",
-    "intent": "yelp_intent",
-    "city": null,
-    "state": null
+    "intent": "navigation_intent",
+    "city": "##m",
+    "state": "oh"
   },
   {
     "query": "government offices in minneapolis, minnesota",
@@ -1693,7 +1693,7 @@
   },
   {
     "query": "minneapolis, mn public schools",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "minneapolis",
     "state": "mn"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "query": "humidity levels in denver",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "denver",
     "state": null
   },
@@ -1771,7 +1771,7 @@
   },
   {
     "query": "tampa airport information",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "tampa",
     "state": null
   },
@@ -1801,7 +1801,7 @@
   },
   {
     "query": "music events in san jose, ca",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san jose",
     "state": "ca"
   },
@@ -1813,7 +1813,7 @@
   },
   {
     "query": "voter registration in ny",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "ny"
   },
@@ -1843,13 +1843,13 @@
   },
   {
     "query": "music events in cincinnati, oh",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "cincinnati",
     "state": "oh"
   },
   {
     "query": "bus schedule in san francisco, ca",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": "san francisco",
     "state": "ca"
   },
@@ -1868,18 +1868,18 @@
   {
     "query": "san jose public library hours",
     "intent": "navigation_intent",
-    "city": "san",
+    "city": "san jose",
     "state": null
   },
   {
     "query": "georgia housing prices",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "georgia"
   },
   {
     "query": "vacation spots in texas",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "texas"
   },
@@ -1891,9 +1891,9 @@
   },
   {
     "query": "chicago, il public schools",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "chicago",
-    "state": "il"
+    "state": "il public"
   },
   {
     "query": "hospitals in pittsburgh, pennsylvania",
@@ -1939,13 +1939,13 @@
   },
   {
     "query": "comedy shows in minneapolis, mn",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "minneapolis",
     "state": "mn"
   },
   {
     "query": "private schools in charlotte, north carolina",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "charlotte",
     "state": "north carolina"
   },
@@ -1969,7 +1969,7 @@
   },
   {
     "query": "events in baltimore this weekend",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "baltimore",
     "state": null
   },
@@ -1981,13 +1981,13 @@
   },
   {
     "query": "colleges near baltimore, md",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "baltimore",
     "state": "md"
   },
   {
     "query": "theater performances in texas",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": "texas"
   },
@@ -2005,7 +2005,7 @@
   },
   {
     "query": "theater performances in maryland",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "maryland"
   },
@@ -2017,19 +2017,19 @@
   },
   {
     "query": "comedy shows in san jose, ca",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "san jose",
     "state": "ca"
   },
   {
     "query": "new york weather radar",
     "intent": "weather_intent",
-    "city": "new york",
-    "state": null
+    "city": "new radar",
+    "state": "york"
   },
   {
     "query": "flights to philadelphia, pa",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "philadelphia",
     "state": "pa"
   },
@@ -2041,13 +2041,13 @@
   },
   {
     "query": "las vegas, nv travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "las vegas",
     "state": "nv"
   },
   {
     "query": "tn dmv locations",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "tn"
   },
@@ -2059,7 +2059,7 @@
   },
   {
     "query": "boston, ma travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "boston",
     "state": "ma"
   },
@@ -2083,7 +2083,7 @@
   },
   {
     "query": "houston, tx real estate trends",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "houston",
     "state": "tx"
   },
@@ -2095,13 +2095,13 @@
   },
   {
     "query": "theater performances in california",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "california"
   },
   {
     "query": "music events in houston, tx",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "houston",
     "state": "tx"
   },
@@ -2125,13 +2125,13 @@
   },
   {
     "query": "events in detroit this weekend",
-    "intent": "information_intent",
+    "intent": "",
     "city": "detroit",
     "state": null
   },
   {
     "query": "comedy shows in pittsburgh, pa",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "pittsburgh",
     "state": "pa"
   },
@@ -2155,9 +2155,9 @@
   },
   {
     "query": "st. louis, mo public schools",
-    "intent": "yelp_intent",
-    "city": "st . louis",
-    "state": "mo"
+    "intent": "",
+    "city": "st. louis",
+    "state": "mo public"
   },
   {
     "query": "san antonio, tx locksmith services",
@@ -2167,9 +2167,9 @@
   },
   {
     "query": "humidity levels in new york",
-    "intent": "information_intent",
-    "city": null,
-    "state": "new york"
+    "intent": "weather_intent",
+    "city": "new york",
+    "state": null
   },
   {
     "query": "temperature in dallas, tx",
@@ -2185,7 +2185,7 @@
   },
   {
     "query": "private schools in atlanta, georgia",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "atlanta",
     "state": "georgia"
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "query": "los angeles real estate market",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "los angeles",
     "state": null
   },
@@ -2227,25 +2227,25 @@
   },
   {
     "query": "ca dmv locations",
-    "intent": "yelp_intent",
-    "city": "d",
-    "state": null
+    "intent": "navigation_intent",
+    "city": null,
+    "state": "ca"
   },
   {
     "query": "miami marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "miami",
     "state": null
   },
   {
     "query": "private schools in dallas, texas",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "dallas",
     "state": "texas"
   },
   {
     "query": "los angeles, ca subway map",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "los angeles",
     "state": "ca"
   },
@@ -2257,7 +2257,7 @@
   },
   {
     "query": "mn dmv locations",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "mn"
   },
@@ -2269,7 +2269,7 @@
   },
   {
     "query": "vacation spots in minnesota",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "minnesota"
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "query": "find schools in mo",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "mo"
   },
@@ -2295,7 +2295,7 @@
     "query": "portland, or public schools",
     "intent": "information_intent",
     "city": "portland",
-    "state": "or"
+    "state": "or public"
   },
   {
     "query": "ca licensed contractors",
@@ -2311,13 +2311,13 @@
   },
   {
     "query": "events in san diego this weekend",
-    "intent": "yelp_intent",
+    "intent": "weather_intent",
     "city": "san diego",
     "state": null
   },
   {
     "query": "denver real estate market",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "denver",
     "state": null
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "query": "boston, ma real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "boston",
     "state": "ma"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "query": "hospitals in minneapolis, minnesota",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "minneapolis",
     "state": "minnesota"
   },
@@ -2360,13 +2360,13 @@
   {
     "query": "cheapest hotels in st. louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
     "query": "denver sports events",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "travel_intent",
+    "city": "denver",
     "state": null
   },
   {
@@ -2377,7 +2377,7 @@
   },
   {
     "query": "tourist attractions in philadelphia, pa",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "philadelphia",
     "state": "pa"
   },
@@ -2407,14 +2407,14 @@
   },
   {
     "query": "los angeles parking information",
-    "intent": "yelp_intent",
-    "city": "angeles",
+    "intent": "navigation_intent",
+    "city": "los angeles",
     "state": null
   },
   {
     "query": "charlotte real estate market",
-    "intent": "yelp_intent",
-    "city": "charlotte real market",
+    "intent": "",
+    "city": "charlotte",
     "state": null
   },
   {
@@ -2425,7 +2425,7 @@
   },
   {
     "query": "humidity levels in baltimore",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "baltimore",
     "state": null
   },
@@ -2438,18 +2438,18 @@
   {
     "query": "mortgage rates in new york",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "miami sports events",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "travel_intent",
+    "city": "miami",
     "state": null
   },
   {
     "query": "nashville, tn real estate trends",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "nashville",
     "state": "tn"
   },
@@ -2467,13 +2467,13 @@
   },
   {
     "query": "music events in charlotte, nc",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "charlotte",
     "state": "nc"
   },
   {
     "query": "new york high school rankings",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "new york",
     "state": null
   },
@@ -2485,19 +2485,19 @@
   },
   {
     "query": "private schools in las vegas, nevada",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "las vegas",
     "state": "nevada"
   },
   {
     "query": "detroit marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "detroit",
     "state": null
   },
   {
     "query": "boston real estate market",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "boston",
     "state": null
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "query": "city hall in houston",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "houston",
     "state": null
   },
@@ -2539,13 +2539,13 @@
   },
   {
     "query": "colleges near san jose, ca",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "san jose",
     "state": "ca"
   },
   {
     "query": "california housing prices",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "california"
   },
@@ -2563,14 +2563,14 @@
   },
   {
     "query": "theater performances in new york",
-    "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "intent": "translation_intent",
+    "city": "new",
+    "state": "york"
   },
   {
     "query": "nv dmv locations",
-    "intent": "yelp_intent",
-    "city": "d",
+    "intent": "navigation_intent",
+    "city": null,
     "state": "n"
   },
   {
@@ -2581,7 +2581,7 @@
   },
   {
     "query": "property for sale in new york, ny",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -2594,7 +2594,7 @@
   {
     "query": "bike rentals in st. louis, missouri",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "missouri"
   },
   {
@@ -2611,25 +2611,25 @@
   },
   {
     "query": "baltimore parking information",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "baltimore",
     "state": null
   },
   {
     "query": "miami airport information",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "miami",
     "state": null
   },
   {
     "query": "events in minneapolis this weekend",
-    "intent": "yelp_intent",
+    "intent": "weather_intent",
     "city": "minneapolis",
     "state": null
   },
   {
     "query": "comedy shows in dallas, tx",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "dallas",
     "state": "tx"
   },
@@ -2641,7 +2641,7 @@
   },
   {
     "query": "tourist attractions in miami, fl",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -2665,7 +2665,7 @@
   },
   {
     "query": "find schools in ca",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "ca"
   },
@@ -2677,7 +2677,7 @@
   },
   {
     "query": "property for sale in miami, fl",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -2689,7 +2689,7 @@
   },
   {
     "query": "voter registration in mn",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "mn"
   },
@@ -2701,13 +2701,13 @@
   },
   {
     "query": "comedy shows in charlotte, nc",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "charlotte",
     "state": "nc"
   },
   {
     "query": "flights to las vegas, nv",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "las vegas",
     "state": "nv"
   },
@@ -2743,37 +2743,37 @@
   },
   {
     "query": "music events in philadelphia, pa",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "philadelphia",
     "state": "pa"
   },
   {
     "query": "covid-19 testing in baltimore, maryland",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "baltimore",
     "state": "maryland"
   },
   {
     "query": "tampa parking information",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "tampa",
     "state": null
   },
   {
     "query": "san diego parking information",
-    "intent": "yelp_intent",
-    "city": "san",
+    "intent": "navigation_intent",
+    "city": "san diego",
     "state": null
   },
   {
     "query": "vacation spots in california",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "california"
   },
   {
     "query": "orlando, fl public schools",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "orlando",
     "state": "fl"
   },
@@ -2821,7 +2821,7 @@
   },
   {
     "query": "cleveland, oh travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "cleveland",
     "state": "oh"
   },
@@ -2839,7 +2839,7 @@
   },
   {
     "query": "portland, or real estate trends",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "portland",
     "state": "or"
   },
@@ -2851,13 +2851,13 @@
   },
   {
     "query": "atlanta, ga travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "atlanta",
     "state": "ga"
   },
   {
     "query": "music events in chicago, il",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "chicago",
     "state": "il"
   },
@@ -2869,7 +2869,7 @@
   },
   {
     "query": "san jose sports events",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san jose",
     "state": null
   },
@@ -2887,13 +2887,13 @@
   },
   {
     "query": "events in orlando this weekend",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "orlando",
     "state": null
   },
   {
     "query": "flights to cincinnati, oh",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "cincinnati",
     "state": "oh"
   },
@@ -2905,25 +2905,25 @@
   },
   {
     "query": "directions to chicago, il",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "chicago",
     "state": "il"
   },
   {
     "query": "detroit parking information",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "detroit",
     "state": null
   },
   {
     "query": "vacation spots in colorado",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "colorado"
   },
   {
     "query": "vacation spots in north carolina",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "north carolina"
   },
@@ -2941,25 +2941,25 @@
   },
   {
     "query": "atlanta, ga real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "atlanta",
     "state": "ga"
   },
   {
     "query": "colleges near houston, tx",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "houston",
     "state": "tx"
   },
   {
     "query": "new york vaccination centers",
     "intent": "yelp_intent",
-    "city": "york",
+    "city": "new york",
     "state": null
   },
   {
     "query": "upcoming concerts in las vegas, nv",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "las vegas",
     "state": "nv"
   },
@@ -2971,9 +2971,9 @@
   },
   {
     "query": "or licensed contractors",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
-    "state": null
+    "state": "or"
   },
   {
     "query": "tax offices in austin",
@@ -2989,7 +2989,7 @@
   },
   {
     "query": "texas housing prices",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "texas"
   },
@@ -3003,11 +3003,11 @@
     "query": "portland, or locksmith services",
     "intent": "yelp_intent",
     "city": "portland",
-    "state": "or"
+    "state": "or locksmith"
   },
   {
     "query": "portland marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "portland",
     "state": null
   },
@@ -3091,19 +3091,19 @@
   },
   {
     "query": "comedy shows in detroit, mi",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "detroit",
     "state": "mi"
   },
   {
     "query": "minneapolis sports events",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "minneapolis",
     "state": null
   },
   {
     "query": "las vegas parking information",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "las vegas",
     "state": null
   },
@@ -3134,12 +3134,12 @@
   {
     "query": "how far is pittsburgh from pa",
     "intent": "information_intent",
-    "city": "pittsburgh",
+    "city": "pittsburgh pa",
     "state": null
   },
   {
     "query": "san francisco sports events",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san francisco",
     "state": null
   },
@@ -3188,7 +3188,7 @@
   {
     "query": "new york airport information",
     "intent": "navigation_intent",
-    "city": "new",
+    "city": "new york information",
     "state": null
   },
   {
@@ -3205,7 +3205,7 @@
   },
   {
     "query": "humidity levels in san diego",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "san diego",
     "state": null
   },
@@ -3217,13 +3217,13 @@
   },
   {
     "query": "atlanta, ga subway map",
-    "intent": "information_intent",
+    "intent": "travel_intent",
     "city": "atlanta",
     "state": "ga"
   },
   {
     "query": "bus schedule in baltimore, md",
-    "intent": "weather_intent",
+    "intent": "yelp_intent",
     "city": "baltimore",
     "state": "md"
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "query": "vacation spots in missouri",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "missouri"
   },
@@ -3247,14 +3247,14 @@
   },
   {
     "query": "voter registration in tx",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "tx"
   },
   {
     "query": "property for sale in st. louis, mo",
-    "intent": "yelp_intent",
-    "city": "st . louis",
+    "intent": "navigation_intent",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -3265,7 +3265,7 @@
   },
   {
     "query": "music events in dallas, tx",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "dallas",
     "state": "tx"
   },
@@ -3295,19 +3295,19 @@
   },
   {
     "query": "az dmv locations",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "az"
   },
   {
     "query": "nashville, tn public schools",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "nashville",
     "state": "tn"
   },
   {
     "query": "music events in new york, ny",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -3319,19 +3319,19 @@
   },
   {
     "query": "new york marathon registration",
-    "intent": "yelp_intent",
-    "city": "new york",
-    "state": null
+    "intent": "navigation_intent",
+    "city": null,
+    "state": "new york"
   },
   {
     "query": "vacation spots in nevada",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "nevada"
   },
   {
     "query": "charlotte, nc subway map",
-    "intent": "navigation_intent",
+    "intent": "information_intent",
     "city": "charlotte",
     "state": "nc"
   },
@@ -3343,7 +3343,7 @@
   },
   {
     "query": "pittsburgh marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "pittsburgh",
     "state": null
   },
@@ -3355,31 +3355,31 @@
   },
   {
     "query": "missouri high school rankings",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
-    "state": null
+    "state": "missouri"
   },
   {
     "query": "find schools in oh",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "oh"
   },
   {
     "query": "where is the courthouse in st. louis, missouri",
     "intent": "information_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "missouri"
   },
   {
     "query": "philadelphia parking information",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "philadelphia",
     "state": null
   },
   {
     "query": "find schools in nv",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "nv"
   },
@@ -3391,25 +3391,25 @@
   },
   {
     "query": "directions to los angeles, ca",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "los angeles",
     "state": "ca"
   },
   {
     "query": "find schools in mn",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "mn"
   },
   {
     "query": "events in seattle this weekend",
-    "intent": "information_intent",
+    "intent": "",
     "city": "seattle",
     "state": null
   },
   {
     "query": "events in san antonio this weekend",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "san antonio",
     "state": null
   },
@@ -3427,7 +3427,7 @@
   },
   {
     "query": "vacation spots in ohio",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "ohio"
   },
@@ -3445,19 +3445,19 @@
   },
   {
     "query": "directions to austin, tx",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "austin",
     "state": "tx"
   },
   {
     "query": "colleges near portland, or",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "portland",
     "state": "or"
   },
   {
     "query": "city hall in dallas",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "dallas",
     "state": null
   },
@@ -3469,7 +3469,7 @@
   },
   {
     "query": "pennsylvania high school rankings",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "pennsylvania"
   },
@@ -3482,18 +3482,18 @@
   {
     "query": "how far is dallas from tx",
     "intent": "information_intent",
-    "city": "dallas",
+    "city": "dallas tx",
     "state": null
   },
   {
     "query": "pa dmv locations",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "pa"
   },
   {
     "query": "philadelphia real estate market",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "philadelphia",
     "state": null
   },
@@ -3517,7 +3517,7 @@
   },
   {
     "query": "music events in los angeles, ca",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "los angeles",
     "state": "ca"
   },
@@ -3529,7 +3529,7 @@
   },
   {
     "query": "colleges near san diego, ca",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "san diego",
     "state": "ca"
   },
@@ -3541,7 +3541,7 @@
   },
   {
     "query": "is it raining in charlotte, north carolina",
-    "intent": "weather_intent",
+    "intent": "",
     "city": "charlotte",
     "state": "north carolina"
   },
@@ -3553,7 +3553,7 @@
   },
   {
     "query": "baltimore real estate market",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "baltimore",
     "state": null
   },
@@ -3601,7 +3601,7 @@
   },
   {
     "query": "philadelphia, pa subway map",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "philadelphia",
     "state": "pa"
   },
@@ -3620,18 +3620,18 @@
   {
     "query": "how far is atlanta from ga",
     "intent": "information_intent",
-    "city": "atlanta",
-    "state": null
+    "city": null,
+    "state": "ga"
   },
   {
     "query": "boston, ma locksmith services",
     "intent": "yelp_intent",
     "city": "boston",
-    "state": "ma"
+    "state": "mamith"
   },
   {
     "query": "theater performances in texas",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": "texas"
   },
@@ -3643,7 +3643,7 @@
   },
   {
     "query": "humidity levels in austin",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "austin",
     "state": null
   },
@@ -3685,19 +3685,19 @@
   },
   {
     "query": "humidity levels in atlanta",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "atlanta",
     "state": null
   },
   {
     "query": "pittsburgh weather radar",
     "intent": "weather_intent",
-    "city": "pittsburgh",
+    "city": "pittsburgh radar",
     "state": null
   },
   {
     "query": "weather update for san antonio, tx",
-    "intent": "navigation_intent",
+    "intent": "weather_intent",
     "city": "san antonio",
     "state": "tx"
   },
@@ -3763,7 +3763,7 @@
   },
   {
     "query": "music events in minneapolis, mn",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "minneapolis",
     "state": "mn"
   },
@@ -3793,13 +3793,13 @@
   },
   {
     "query": "property for sale in charlotte, nc",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "charlotte",
     "state": "nc"
   },
   {
     "query": "city hall in los angeles",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "los angeles",
     "state": null
   },
@@ -3817,7 +3817,7 @@
   },
   {
     "query": "comedy shows in phoenix, az",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "phoenix",
     "state": "az"
   },
@@ -3842,12 +3842,12 @@
   {
     "query": "is it raining in st. louis, missouri",
     "intent": "weather_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "missouri"
   },
   {
     "query": "covid-19 testing in chicago, illinois",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "chicago",
     "state": "illinois"
   },
@@ -3895,31 +3895,31 @@
   },
   {
     "query": "san antonio sports events",
-    "intent": "yelp_intent",
-    "city": "san",
+    "intent": "travel_intent",
+    "city": "san antonio",
     "state": null
   },
   {
     "query": "bus schedule in tampa, fl",
-    "intent": "weather_intent",
+    "intent": "yelp_intent",
     "city": "tampa",
     "state": "fl"
   },
   {
     "query": "voter registration in or",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "or"
   },
   {
     "query": "property for sale in nashville, tn",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "nashville",
     "state": "tn"
   },
   {
     "query": "find schools in oh",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "oh"
   },
@@ -3937,7 +3937,7 @@
   },
   {
     "query": "nashville airport information",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "nashville",
     "state": null
   },
@@ -3955,13 +3955,13 @@
   },
   {
     "query": "baltimore, md travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "baltimore",
     "state": "md"
   },
   {
     "query": "texas housing prices",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "texas"
   },
@@ -3985,7 +3985,7 @@
   },
   {
     "query": "weather update for houston, tx",
-    "intent": "navigation_intent",
+    "intent": "weather_intent",
     "city": "houston",
     "state": "tx"
   },
@@ -4015,7 +4015,7 @@
   },
   {
     "query": "tourist attractions in los angeles, ca",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "los angeles",
     "state": "ca"
   },
@@ -4045,7 +4045,7 @@
   },
   {
     "query": "tourist attractions in denver, co",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "denver",
     "state": "co"
   },
@@ -4057,7 +4057,7 @@
   },
   {
     "query": "events in san jose this weekend",
-    "intent": "yelp_intent",
+    "intent": "weather_intent",
     "city": "san jose",
     "state": null
   },
@@ -4069,20 +4069,20 @@
   },
   {
     "query": "denver, co public schools",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "denver",
-    "state": "co"
+    "state": "co public"
   },
   {
     "query": "dallas, tx real estate trends",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "dallas",
     "state": "tx"
   },
   {
     "query": "dallas sports events",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "",
+    "city": "dallas",
     "state": null
   },
   {
@@ -4093,8 +4093,8 @@
   },
   {
     "query": "san jose airport information",
-    "intent": "navigation_intent",
-    "city": "san",
+    "intent": "travel_intent",
+    "city": "san jose information",
     "state": null
   },
   {
@@ -4111,7 +4111,7 @@
   },
   {
     "query": "music events in pittsburgh, pa",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "pittsburgh",
     "state": "pa"
   },
@@ -4123,31 +4123,31 @@
   },
   {
     "query": "phoenix, az real estate trends",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "phoenix",
     "state": "az"
   },
   {
     "query": "nashville marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "nashville",
     "state": null
   },
   {
     "query": "nashville real estate market",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": "nashville",
     "state": null
   },
   {
     "query": "cleveland, oh public schools",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "cleveland",
-    "state": "oh"
+    "state": "oh public"
   },
   {
     "query": "humidity levels in miami",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "miami",
     "state": null
   },
@@ -4160,7 +4160,7 @@
   {
     "query": "find cleaning services near st. louis, mo",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -4171,21 +4171,21 @@
   },
   {
     "query": "seattle real estate market",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "seattle",
     "state": null
   },
   {
     "query": "charlotte public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "charlotte",
     "state": null
   },
   {
     "query": "mortgage rates in washington",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "washington"
+    "city": "washington",
+    "state": null
   },
   {
     "query": "phoenix vaccination centers",
@@ -4213,7 +4213,7 @@
   },
   {
     "query": "chicago, il real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "chicago",
     "state": "il"
   },
@@ -4243,32 +4243,32 @@
   },
   {
     "query": "private schools in new york, new york",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "new york",
     "state": "new york"
   },
   {
     "query": "san diego airport information",
-    "intent": "navigation_intent",
-    "city": "san",
+    "intent": "translation_intent",
+    "city": "san diego",
     "state": null
   },
   {
     "query": "san antonio airport information",
     "intent": "navigation_intent",
-    "city": "san",
+    "city": "san antonio information",
     "state": null
   },
   {
     "query": "miami, fl real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "miami",
     "state": "fl"
   },
   {
     "query": "temperature in st. louis, mo",
     "intent": "weather_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -4279,7 +4279,7 @@
   },
   {
     "query": "san jose, ca travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san jose",
     "state": "ca"
   },
@@ -4291,7 +4291,7 @@
   },
   {
     "query": "voter registration in ca",
-    "intent": "weather_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "ca"
   },
@@ -4327,7 +4327,7 @@
   },
   {
     "query": "directions to orlando, fl",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "orlando",
     "state": "fl"
   },
@@ -4345,14 +4345,14 @@
   },
   {
     "query": "ca dmv locations",
-    "intent": "yelp_intent",
-    "city": "d",
-    "state": null
+    "intent": "navigation_intent",
+    "city": null,
+    "state": "ca"
   },
   {
     "query": "miami public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "miami",
     "state": null
   },
   {
@@ -4370,7 +4370,7 @@
   {
     "query": "st. louis, mo locksmith services",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -4399,7 +4399,7 @@
   },
   {
     "query": "directions to charlotte, nc",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "charlotte",
     "state": "nc"
   },
@@ -4411,7 +4411,7 @@
   },
   {
     "query": "covid-19 testing in nashville, tennessee",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "nashville",
     "state": "tennessee"
   },
@@ -4453,7 +4453,7 @@
   },
   {
     "query": "find schools in ga",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "ga"
   },
@@ -4489,19 +4489,19 @@
   },
   {
     "query": "theater performances in oregon",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": "oregon"
   },
   {
     "query": "houston, tx travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "houston",
     "state": "tx"
   },
   {
     "query": "voter registration in md",
-    "intent": "weather_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "md"
   },
@@ -4520,12 +4520,12 @@
   {
     "query": "how far is san jose from ca",
     "intent": "information_intent",
-    "city": "san jose",
-    "state": "ca"
+    "city": "san",
+    "state": null
   },
   {
     "query": "tampa, fl subway map",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "tampa",
     "state": "fl"
   },
@@ -4568,18 +4568,18 @@
   {
     "query": "homes for rent in st. louis, missouri",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "missouri"
   },
   {
     "query": "directions to pittsburgh, pa",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "pittsburgh",
     "state": "pa"
   },
   {
     "query": "miami, fl travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -4609,8 +4609,8 @@
   },
   {
     "query": "st. louis parking information",
-    "intent": "yelp_intent",
-    "city": ". louis",
+    "intent": "navigation_intent",
+    "city": "st. louis information",
     "state": null
   },
   {
@@ -4651,7 +4651,7 @@
   },
   {
     "query": "los angeles, ca public schools",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "los angeles",
     "state": "ca"
   },
@@ -4687,7 +4687,7 @@
   },
   {
     "query": "tourist attractions in cincinnati, oh",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "cincinnati",
     "state": "oh"
   },
@@ -4700,13 +4700,13 @@
   {
     "query": "las vegas public library hours",
     "intent": "navigation_intent",
-    "city": "las",
+    "city": "las vegas",
     "state": null
   },
   {
     "query": "how far is charlotte from nc",
     "intent": "information_intent",
-    "city": "charlotte",
+    "city": null,
     "state": "nc"
   },
   {
@@ -4724,7 +4724,7 @@
   {
     "query": "dallas weather radar",
     "intent": "weather_intent",
-    "city": "dallas",
+    "city": "dallas radar",
     "state": null
   },
   {
@@ -4741,25 +4741,25 @@
   },
   {
     "query": "comedy shows in st. louis, mo",
-    "intent": "yelp_intent",
-    "city": "st . louis",
+    "intent": "navigation_intent",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "tourist attractions in baltimore, md",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "baltimore",
     "state": "md"
   },
   {
     "query": "vacation spots in massachusetts",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "massachusetts"
   },
   {
     "query": "new york, ny real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -4783,7 +4783,7 @@
   },
   {
     "query": "voter registration in tn",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "tn"
   },
@@ -4808,7 +4808,7 @@
   {
     "query": "tax offices in st. louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -4825,7 +4825,7 @@
   },
   {
     "query": "cincinnati real estate market",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "cincinnati",
     "state": null
   },
@@ -4838,7 +4838,7 @@
   {
     "query": "st. louis airport information",
     "intent": "navigation_intent",
-    "city": "st . louis",
+    "city": "st. louis information",
     "state": null
   },
   {
@@ -4861,13 +4861,13 @@
   },
   {
     "query": "directions to san francisco, ca",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "san francisco",
     "state": "ca"
   },
   {
     "query": "theater performances in nevada",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "nevada"
   },
@@ -4885,7 +4885,7 @@
   },
   {
     "query": "covid-19 testing in charlotte, north carolina",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "charlotte",
     "state": "north carolina"
   },
@@ -4903,13 +4903,13 @@
   },
   {
     "query": "pennsylvania housing prices",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "pennsylvania"
   },
   {
     "query": "voter registration in oh",
-    "intent": "weather_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "oh"
   },
@@ -4921,7 +4921,7 @@
   },
   {
     "query": "electricians in houston",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": "houston",
     "state": null
   },
@@ -4934,14 +4934,14 @@
   {
     "query": "electricians in st. louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
     "query": "events in new york this weekend",
-    "intent": "information_intent",
-    "city": "new",
-    "state": "york"
+    "intent": "",
+    "city": "new york",
+    "state": null
   },
   {
     "query": "baltimore weather radar",
@@ -4957,13 +4957,13 @@
   },
   {
     "query": "nashville parking information",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "nashville",
     "state": null
   },
   {
     "query": "humidity levels in pittsburgh",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "pittsburgh",
     "state": null
   },
@@ -4981,7 +4981,7 @@
   },
   {
     "query": "property for sale in chicago, il",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "chicago",
     "state": "il"
   },
@@ -5011,26 +5011,26 @@
   },
   {
     "query": "philadelphia airport information",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "philadelphia",
     "state": null
   },
   {
     "query": "voter registration in pa",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "pa"
   },
   {
     "query": "comedy shows in tampa, fl",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "tampa",
     "state": "fl"
   },
   {
     "query": "san jose parking information",
-    "intent": "yelp_intent",
-    "city": "san jose",
+    "intent": "navigation_intent",
+    "city": "san jose information",
     "state": null
   },
   {
@@ -5053,7 +5053,7 @@
   },
   {
     "query": "cleveland, oh real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "cleveland",
     "state": "oh"
   },
@@ -5071,13 +5071,13 @@
   },
   {
     "query": "voter registration in mo",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "mo"
   },
   {
     "query": "city hall in atlanta",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "atlanta",
     "state": null
   },
@@ -5101,19 +5101,19 @@
   },
   {
     "query": "music events in st. louis, mo",
-    "intent": "yelp_intent",
-    "city": "st . louis",
+    "intent": "travel_intent",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "voter registration in co",
-    "intent": "weather_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "co"
   },
   {
     "query": "best time to visit austin, texas",
-    "intent": "travel_intent",
+    "intent": "navigation_intent",
     "city": "austin",
     "state": "texas"
   },
@@ -5131,7 +5131,7 @@
   },
   {
     "query": "portland, or travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "portland",
     "state": "or"
   },
@@ -5179,13 +5179,13 @@
   },
   {
     "query": "md dmv locations",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "md"
   },
   {
     "query": "private schools in minneapolis, minnesota",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "minneapolis",
     "state": "minnesota"
   },
@@ -5197,14 +5197,14 @@
   },
   {
     "query": "covid-19 testing in denver, colorado",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "denver",
     "state": "colorado"
   },
   {
     "query": "minneapolis public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "minneapolis",
     "state": null
   },
   {
@@ -5215,13 +5215,13 @@
   },
   {
     "query": "dallas parking information",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "dallas",
     "state": null
   },
   {
     "query": "theater performances in texas",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": "texas"
   },
@@ -5234,12 +5234,12 @@
   {
     "query": "portland weather radar",
     "intent": "weather_intent",
-    "city": "portland",
+    "city": "portland radar",
     "state": null
   },
   {
     "query": "minneapolis, mn travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "minneapolis",
     "state": "mn"
   },
@@ -5252,12 +5252,12 @@
   {
     "query": "how far is nashville from tn",
     "intent": "information_intent",
-    "city": "nashville",
+    "city": "nashville tn",
     "state": null
   },
   {
     "query": "voter registration in tx",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "tx"
   },
@@ -5275,13 +5275,13 @@
   },
   {
     "query": "seattle sports events",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "",
+    "city": "seattle",
     "state": null
   },
   {
     "query": "tourist attractions in san diego, ca",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san diego",
     "state": "ca"
   },
@@ -5306,12 +5306,12 @@
   {
     "query": "phoenix public library hours",
     "intent": "navigation_intent",
-    "city": null,
+    "city": "phoenix",
     "state": null
   },
   {
     "query": "theater performances in pennsylvania",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "pennsylvania"
   },
@@ -5329,13 +5329,13 @@
   },
   {
     "query": "philadelphia, pa public schools",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "philadelphia",
     "state": "pa"
   },
   {
     "query": "property for sale in san antonio, tx",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "san antonio",
     "state": "tx"
   },
@@ -5377,13 +5377,13 @@
   },
   {
     "query": "cincinnati, oh subway map",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "cincinnati",
     "state": "oh"
   },
   {
     "query": "denver, co travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "denver",
     "state": "co"
   },
@@ -5395,8 +5395,8 @@
   },
   {
     "query": "tourist attractions in st. louis, mo",
-    "intent": "yelp_intent",
-    "city": "st . louis",
+    "intent": "travel_intent",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -5413,7 +5413,7 @@
   },
   {
     "query": "find schools in il",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "il"
   },
@@ -5455,25 +5455,25 @@
   },
   {
     "query": "find schools in ca",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "ca"
   },
   {
     "query": "baltimore sports events",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "baltimore",
     "state": null
   },
   {
     "query": "plumbing services in st. louis, missouri",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "missouri"
   },
   {
     "query": "comedy shows in boston, ma",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "boston",
     "state": "ma"
   },
@@ -5491,7 +5491,7 @@
   },
   {
     "query": "property for sale in austin, tx",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "austin",
     "state": "tx"
   },
@@ -5503,14 +5503,14 @@
   },
   {
     "query": "orlando real estate market",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "orlando",
     "state": null
   },
   {
     "query": "atlanta marathon registration",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "atlanta",
     "state": null
   },
   {
@@ -5521,7 +5521,7 @@
   },
   {
     "query": "phoenix, az travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "phoenix",
     "state": "az"
   },
@@ -5539,7 +5539,7 @@
   },
   {
     "query": "property for sale in denver, co",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "denver",
     "state": "co"
   },
@@ -5599,13 +5599,13 @@
   },
   {
     "query": "city hall in san jose",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "san jose",
     "state": null
   },
   {
     "query": "san francisco, ca travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san francisco",
     "state": "ca"
   },
@@ -5635,13 +5635,13 @@
   },
   {
     "query": "city hall in phoenix",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "phoenix",
     "state": null
   },
   {
     "query": "vacation spots in texas",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "texas"
   },
@@ -5666,7 +5666,7 @@
   {
     "query": "real estate agents in st. louis, mo",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -5689,13 +5689,13 @@
   },
   {
     "query": "find schools in pa",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "pa"
   },
   {
     "query": "humidity levels in boston",
-    "intent": "information_intent",
+    "intent": "weather_intent",
     "city": "boston",
     "state": null
   },
@@ -5713,7 +5713,7 @@
   },
   {
     "query": "theater performances in florida",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": "florida"
   },
@@ -5737,7 +5737,7 @@
   },
   {
     "query": "san francisco, ca real estate trends",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "san francisco",
     "state": "ca"
   },
@@ -5761,7 +5761,7 @@
   },
   {
     "query": "detroit sports events",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "detroit",
     "state": null
   },
@@ -5773,26 +5773,26 @@
   },
   {
     "query": "philadelphia marathon registration",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "philadelphia",
     "state": null
   },
   {
     "query": "best time to visit san jose, california",
-    "intent": "travel_intent",
+    "intent": "translation_intent",
     "city": "san jose",
     "state": "california"
   },
   {
     "query": "baltimore, md real estate trends",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "baltimore",
     "state": "md"
   },
   {
     "query": "texas high school rankings",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "information_intent",
+    "city": "texas",
     "state": null
   },
   {
@@ -5809,13 +5809,13 @@
   },
   {
     "query": "new york housing prices",
-    "intent": "yelp_intent",
-    "city": "york",
-    "state": "new"
+    "intent": "",
+    "city": "new york",
+    "state": null
   },
   {
     "query": "mi dmv locations",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": "mi"
   },
@@ -5845,15 +5845,15 @@
   },
   {
     "query": "san diego marathon registration",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "san diego",
     "state": null
   },
   {
     "query": "mental health services in new york",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new",
+    "state": "york"
   },
   {
     "query": "taxi services in boston, massachusetts",
@@ -5869,7 +5869,7 @@
   },
   {
     "query": "los angeles, ca travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "los angeles",
     "state": "ca"
   },
@@ -5881,13 +5881,13 @@
   },
   {
     "query": "music events in tampa, fl",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "tampa",
     "state": "fl"
   },
   {
     "query": "private schools in boston, massachusetts",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "boston",
     "state": "massachusetts"
   },
@@ -5899,7 +5899,7 @@
   },
   {
     "query": "dallas, tx travel guide",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "dallas",
     "state": "tx"
   },
@@ -5917,15 +5917,15 @@
   },
   {
     "query": "vacation spots in pennsylvania",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "pennsylvania"
   },
   {
     "query": "current weather in new york",
     "intent": "weather_intent",
-    "city": "new",
-    "state": "york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "car rentals in san antonio, texas",
@@ -5935,13 +5935,13 @@
   },
   {
     "query": "directions to tampa, fl",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "tampa",
     "state": "fl"
   },
   {
     "query": "vacation spots in maryland",
-    "intent": "weather_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": "maryland"
   },
@@ -5960,7 +5960,7 @@
   {
     "query": "hvac repair in st. louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {

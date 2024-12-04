@@ -8,7 +8,7 @@
   {
     "query": "average price of photographers near me delivery",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "delivery",
     "state": null
   },
   {
@@ -122,7 +122,7 @@
   {
     "query": "cost of florists near me near Cincinnati",
     "intent": "yelp_intent",
-    "city": "me cincinnati",
+    "city": "cincinnati",
     "state": null
   },
   {
@@ -134,8 +134,8 @@
   {
     "query": "average price for jewelry stores near New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "looking for the best electricians near me in Cincinnati, OH",
@@ -158,7 +158,7 @@
   {
     "query": "average cost of a 5 star restaurants near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -187,7 +187,7 @@
   },
   {
     "query": "find a antique shops in Tampa, FL",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "tampa",
     "state": "fl"
   },
@@ -217,7 +217,7 @@
   },
   {
     "query": "list of local bowling alleys in Miami, FL",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -241,7 +241,7 @@
   },
   {
     "query": "find me the best brunch spots near Baltimore",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "baltimore",
     "state": null
   },
@@ -446,7 +446,7 @@
   {
     "query": "average price for personal trainer in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -475,7 +475,7 @@
   },
   {
     "query": "find me the best malls near me in Phoenix, AZ",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "phoenix",
     "state": "az"
   },
@@ -493,7 +493,7 @@
   },
   {
     "query": "looking for the best boxing gyms near New York",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "new york",
     "state": null
   },
@@ -524,7 +524,7 @@
   {
     "query": "cost of a bakery near me in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -559,7 +559,7 @@
   },
   {
     "query": "list of local spinning classes near Minneapolis",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": "minneapolis",
     "state": null
   },
@@ -626,7 +626,7 @@
   {
     "query": "cost to car wash in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -661,13 +661,13 @@
   },
   {
     "query": "average price of gift shops in Houston, TX",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "houston",
     "state": "tx"
   },
   {
     "query": "average price of Italian restaurants in Boston",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": "boston",
     "state": null
   },
@@ -711,7 +711,7 @@
     "query": "cost to auto repair near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "looking for the best appliance movers near Los Angeles",
@@ -752,7 +752,7 @@
   {
     "query": "cost of a gutter cleaning services in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -782,7 +782,7 @@
   {
     "query": "average price for electricians near me near Charlotte",
     "intent": "yelp_intent",
-    "city": "me charlotte",
+    "city": "charlotte",
     "state": null
   },
   {
@@ -794,19 +794,19 @@
   {
     "query": "looking for the best bowling alleys in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "average price of car wash in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "cost to nail salon in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -1045,7 +1045,7 @@
   },
   {
     "query": "find yoga classes in Atlanta",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "atlanta",
     "state": null
   },
@@ -1057,7 +1057,7 @@
   },
   {
     "query": "average price of a tire shop near Miami",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": "miami",
     "state": null
   },
@@ -1106,7 +1106,7 @@
   {
     "query": "average price of acupuncture near me near Cleveland",
     "intent": "yelp_intent",
-    "city": "me cleveland",
+    "city": "cleveland",
     "state": null
   },
   {
@@ -1123,7 +1123,7 @@
   },
   {
     "query": "average price of clothing stores in Houston, TX",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "houston",
     "state": "tx"
   },
@@ -1148,7 +1148,7 @@
   {
     "query": "cost to gyms near me near Cleveland",
     "intent": "yelp_intent",
-    "city": "me cleveland",
+    "city": "cleveland",
     "state": null
   },
   {
@@ -1160,7 +1160,7 @@
   {
     "query": "find me the best wedding planners in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -1177,7 +1177,7 @@
   },
   {
     "query": "average price of furniture stores in Houston, TX",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "houston",
     "state": "tx"
   },
@@ -1202,7 +1202,7 @@
   {
     "query": "cost of a bakery near me near Los Angeles",
     "intent": "yelp_intent",
-    "city": "me los angeles",
+    "city": "los angeles",
     "state": null
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "query": "average price for tailor near me near Las Vegas",
     "intent": "yelp_intent",
-    "city": "me las vegas",
+    "city": "las vegas",
     "state": null
   },
   {
@@ -1328,7 +1328,7 @@
   {
     "query": "cost of vegan restaurants near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "query": "average price of a nutritionists in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "query": "cost to bowling alleys in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -1490,7 +1490,7 @@
   {
     "query": "average price for HVAC repair near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -1501,7 +1501,7 @@
   },
   {
     "query": "average price to movie theaters ",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -1525,7 +1525,7 @@
   },
   {
     "query": "list of local pizza delivery in Detroit, MI",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "detroit",
     "state": "mi"
   },
@@ -1664,8 +1664,8 @@
   {
     "query": "average price of photographers near me in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new",
+    "state": "york"
   },
   {
     "query": "average price to septic tank cleaning in Atlanta, GA",
@@ -1688,7 +1688,7 @@
   {
     "query": " pet grooming in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -1705,7 +1705,7 @@
   },
   {
     "query": "average price of a grocery stores nearby",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -1717,7 +1717,7 @@
   },
   {
     "query": "average cost of a yoga classes in Boston",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "boston",
     "state": null
   },
@@ -1873,7 +1873,7 @@
   },
   {
     "query": "list of local barber shop in Portland, OR",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "portland",
     "state": "or"
   },
@@ -2042,7 +2042,7 @@
   {
     "query": "find a pool cleaning service in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -2072,7 +2072,7 @@
   {
     "query": "average price of a spa near me delivery",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "delivery",
     "state": null
   },
   {
@@ -2095,7 +2095,7 @@
   },
   {
     "query": "average price for Mexican restaurants in Baltimore, MD",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "baltimore",
     "state": "md"
   },
@@ -2120,7 +2120,7 @@
   {
     "query": "cost to 24 hour cleaning services near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -2132,7 +2132,7 @@
   {
     "query": " malls near me near San Diego",
     "intent": "yelp_intent",
-    "city": "me san diego",
+    "city": "san diego",
     "state": null
   },
   {
@@ -2259,7 +2259,7 @@
     "query": "list of local home cleaning services near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "list of local septic tank cleaning near Las Vegas",
@@ -2281,7 +2281,7 @@
   },
   {
     "query": "cost of yoga classes in Tampa",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "tampa",
     "state": null
   },
@@ -2317,7 +2317,7 @@
   },
   {
     "query": "list of local bakery near me in Miami, FL",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -2366,13 +2366,13 @@
   {
     "query": "average price for bakery near me in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
     "query": "average price of a florists near me in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -2396,7 +2396,7 @@
   {
     "query": "average price of a Thai food near me near Dallas",
     "intent": "yelp_intent",
-    "city": "me dallas",
+    "city": "dallas",
     "state": null
   },
   {
@@ -2438,13 +2438,13 @@
   {
     "query": " pest control in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "average price for tire shop in my area",
     "intent": "yelp_intent",
-    "city": "my area",
+    "city": "area",
     "state": null
   },
   {
@@ -2461,7 +2461,7 @@
   },
   {
     "query": "find a cake decorators in Seattle, WA",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "seattle",
     "state": "wa"
   },
@@ -2618,8 +2618,8 @@
   {
     "query": "looking for the best tire shop in New York",
     "intent": "yelp_intent",
-    "city": "york",
-    "state": "new"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "average price for pilates classes in Cincinnati, OH",
@@ -2654,7 +2654,7 @@
   {
     "query": "average price to roofing company in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -2678,7 +2678,7 @@
   {
     "query": "average price of wedding planners in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -2701,7 +2701,7 @@
   },
   {
     "query": "find a pizza delivery in Cincinnati, OH",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "cincinnati",
     "state": "oh"
   },
@@ -2864,7 +2864,7 @@
   {
     "query": "cost to apartment cleaning services in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -2893,7 +2893,7 @@
   },
   {
     "query": "looking for the best movers in Tampa, FL",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "tampa",
     "state": "fl"
   },
@@ -2918,7 +2918,7 @@
   {
     "query": "cost to spa near me near Charlotte",
     "intent": "yelp_intent",
-    "city": "me charlotte",
+    "city": "charlotte",
     "state": null
   },
   {
@@ -2941,7 +2941,7 @@
   },
   {
     "query": "list of local appliance movers in Tampa, FL",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "tampa",
     "state": "fl"
   },
@@ -3001,7 +3001,7 @@
   },
   {
     "query": "list of local pest control in Atlanta",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "atlanta",
     "state": null
   },
@@ -3037,7 +3037,7 @@
   },
   {
     "query": "looking for the best catering services in Philadelphia, PA",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "philadelphia",
     "state": "pa"
   },
@@ -3050,8 +3050,8 @@
   {
     "query": "cost of a spa near me in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "average price of Italian restaurants in Chicago, IL",
@@ -3098,7 +3098,7 @@
   {
     "query": "average cost of a crossfit gyms near Orlando",
     "intent": "yelp_intent",
-    "city": "orlando",
+    "city": "##fi orlando",
     "state": null
   },
   {
@@ -3134,8 +3134,8 @@
   {
     "query": "find a pilates classes in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new",
+    "state": "york"
   },
   {
     "query": "find me the best personal trainer in San Antonio",
@@ -3205,7 +3205,7 @@
   },
   {
     "query": "average price for junk removal in New York, NY",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -3223,7 +3223,7 @@
   },
   {
     "query": " event venues in Miami",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "miami",
     "state": null
   },
@@ -3242,7 +3242,7 @@
   {
     "query": "find a tailor near me near Dallas",
     "intent": "yelp_intent",
-    "city": "me dallas",
+    "city": "dallas",
     "state": null
   },
   {
@@ -3301,7 +3301,7 @@
   },
   {
     "query": "list of local locksmith services in Seattle, WA",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "seattle",
     "state": "wa"
   },
@@ -3621,7 +3621,7 @@
     "query": "average price to cake decorators near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "cost of a apartment cleaning services near Chicago",
@@ -3632,7 +3632,7 @@
   {
     "query": "cost of a malls near me in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -3699,7 +3699,7 @@
     "query": "find appliance movers near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "cost of a bakery near me in Denver",
@@ -3734,7 +3734,7 @@
   {
     "query": "cost to bakery near me near Dallas",
     "intent": "yelp_intent",
-    "city": "me dallas",
+    "city": "dallas",
     "state": null
   },
   {
@@ -3769,7 +3769,7 @@
   },
   {
     "query": "list of local toy stores in San Diego",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "san diego",
     "state": null
   },
@@ -3841,7 +3841,7 @@
   },
   {
     "query": "average price of junk removal in Cincinnati, OH",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "cincinnati",
     "state": "oh"
   },
@@ -3853,9 +3853,9 @@
   },
   {
     "query": "list of local locksmith services in New York",
-    "intent": "information_intent",
-    "city": "york",
-    "state": "new"
+    "intent": "navigation_intent",
+    "city": "new york",
+    "state": null
   },
   {
     "query": "average price for pest control in Pittsburgh",
@@ -3949,7 +3949,7 @@
   },
   {
     "query": "average price of a brunch spots near Austin",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": "austin",
     "state": null
   },
@@ -3974,13 +3974,13 @@
   {
     "query": "average price for tailor near me near Nashville",
     "intent": "yelp_intent",
-    "city": "me nashville",
+    "city": "nashville",
     "state": null
   },
   {
     "query": "find a movers near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -4022,8 +4022,8 @@
   {
     "query": "find movers near New York",
     "intent": "yelp_intent",
-    "city": "york",
-    "state": "new"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "average cost of a best sushi near me in Charlotte",
@@ -4046,7 +4046,7 @@
   {
     "query": "cost to swimming lessons in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -4081,7 +4081,7 @@
   },
   {
     "query": "average price of pet stores in New York, NY",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -4100,8 +4100,8 @@
   {
     "query": "cost to fine dining restaurants near New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "cost of a coffee shops in Portland, OR",
@@ -4160,7 +4160,7 @@
   {
     "query": "average price of a best sushi near me near Charlotte",
     "intent": "yelp_intent",
-    "city": "me charlotte",
+    "city": "charlotte",
     "state": null
   },
   {
@@ -4178,7 +4178,7 @@
   {
     "query": "find wedding planners near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -4249,7 +4249,7 @@
   },
   {
     "query": " martial arts studios in Phoenix, AZ",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "phoenix",
     "state": "az"
   },
@@ -4435,7 +4435,7 @@
   },
   {
     "query": "looking for the best grocery stores in Cleveland, OH",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "cleveland",
     "state": "oh"
   },
@@ -4448,12 +4448,12 @@
   {
     "query": "cost of a spa near me delivery",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "delivery",
     "state": null
   },
   {
     "query": "list of local roofing company near Minneapolis",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "minneapolis",
     "state": null
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "query": "list of local car wash near Cincinnati",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "cincinnati",
     "state": null
   },
@@ -4567,7 +4567,7 @@
   },
   {
     "query": "average price of pet stores delivery",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4580,7 +4580,7 @@
   {
     "query": "average cost of photographers near me near Austin",
     "intent": "yelp_intent",
-    "city": "me austin",
+    "city": "austin",
     "state": null
   },
   {
@@ -4646,7 +4646,7 @@
   {
     "query": "cost to steakhouses near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -4676,12 +4676,12 @@
   {
     "query": "average cost of florists near me in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
     "query": "list of local comedy clubs near Houston",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "houston",
     "state": null
   },
@@ -4711,7 +4711,7 @@
   },
   {
     "query": "find a spinning classes in Austin, TX",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "austin",
     "state": "tx"
   },
@@ -4729,7 +4729,7 @@
   },
   {
     "query": "list of local bookstores in New York, NY",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -4765,7 +4765,7 @@
   },
   {
     "query": "looking for the best electricians near me near San Antonio",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "san antonio",
     "state": null
   },
@@ -4850,7 +4850,7 @@
   {
     "query": "cost of a malls near me near Phoenix",
     "intent": "yelp_intent",
-    "city": "me phoenix",
+    "city": "phoenix",
     "state": null
   },
   {
@@ -4862,7 +4862,7 @@
   {
     "query": "find photographers near me near San Jose",
     "intent": "yelp_intent",
-    "city": "me san jose",
+    "city": "san jose",
     "state": null
   },
   {
@@ -4915,7 +4915,7 @@
   },
   {
     "query": "find a spinning classes in Houston, TX",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "houston",
     "state": "tx"
   },
@@ -4951,7 +4951,7 @@
   },
   {
     "query": "list of local hardware stores near Los Angeles",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "los angeles",
     "state": null
   },
@@ -5173,7 +5173,7 @@
   },
   {
     "query": "average price for landscaping companies near New York",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": "new york",
     "state": null
   },
@@ -5259,7 +5259,7 @@
     "query": "average price of a shoe stores near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "average price of bowling alleys near Cleveland",
@@ -5270,12 +5270,12 @@
   {
     "query": "average price of dine-in restaurants near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
     "query": "list of local furniture stores in Chicago",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "chicago",
     "state": null
   },
@@ -5300,7 +5300,7 @@
   {
     "query": "find crossfit gyms near Cincinnati",
     "intent": "yelp_intent",
-    "city": "cincinnati",
+    "city": "##fi cincinnati",
     "state": null
   },
   {
@@ -5359,7 +5359,7 @@
   },
   {
     "query": "average price of a locksmith services in Orlando",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "orlando",
     "state": null
   },
@@ -5377,7 +5377,7 @@
   },
   {
     "query": " movie theaters near Los Angeles",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "los angeles",
     "state": null
   },
@@ -5474,7 +5474,7 @@
   {
     "query": "average cost of window cleaning in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -5528,7 +5528,7 @@
   {
     "query": "average price to seafood restaurants in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -5569,7 +5569,7 @@
   },
   {
     "query": "list of local tailor near me in Philadelphia, PA",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "philadelphia",
     "state": "pa"
   },
@@ -5595,7 +5595,7 @@
     "query": " nail salon near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "average cost of a balloon delivery services near Minneapolis",
@@ -5828,7 +5828,7 @@
   {
     "query": "average cost of a photographers near me near Orlando",
     "intent": "yelp_intent",
-    "city": "me orlando",
+    "city": "orlando",
     "state": null
   },
   {
@@ -5911,8 +5911,8 @@
   },
   {
     "query": "list of local photographers near me near New York",
-    "intent": "information_intent",
-    "city": "new",
+    "intent": "yelp_intent",
+    "city": "new york",
     "state": null
   },
   {
@@ -5929,7 +5929,7 @@
   },
   {
     "query": "find me the best martial arts studios near Baltimore",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "baltimore",
     "state": null
   },
@@ -5948,8 +5948,8 @@
   {
     "query": "average cost of a best sushi near me near New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "list of local escape rooms in San Francisco",
@@ -5995,7 +5995,7 @@
   },
   {
     "query": "list of local wellness centers in Austin",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "austin",
     "state": null
   },
@@ -6032,7 +6032,7 @@
   {
     "query": "cost of a florists near me near Nashville",
     "intent": "yelp_intent",
-    "city": "me nashville",
+    "city": "nashville",
     "state": null
   },
   {
@@ -6049,7 +6049,7 @@
   },
   {
     "query": "looking for the best bowling alleys in Phoenix, AZ",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "phoenix",
     "state": "az"
   },
@@ -6067,7 +6067,7 @@
   },
   {
     "query": "list of local DJ services in Philadelphia",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "philadelphia",
     "state": null
   },
@@ -6079,9 +6079,9 @@
   },
   {
     "query": "average price of mini golf courses near New York",
-    "intent": "purchase_intent",
-    "city": null,
-    "state": "new york"
+    "intent": "yelp_intent",
+    "city": "new york",
+    "state": null
   },
   {
     "query": "find a catering services in San Diego, CA",
@@ -6164,7 +6164,7 @@
   {
     "query": " spa near me near Miami",
     "intent": "yelp_intent",
-    "city": "me miami",
+    "city": "miami",
     "state": null
   },
   {
@@ -6205,8 +6205,8 @@
   },
   {
     "query": "find spinning classes in my area",
-    "intent": "information_intent",
-    "city": "my",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -6296,7 +6296,7 @@
   {
     "query": "average price to electricians near me near Chicago",
     "intent": "yelp_intent",
-    "city": "me chicago",
+    "city": "chicago",
     "state": null
   },
   {
@@ -6433,7 +6433,7 @@
   },
   {
     "query": "list of local tailor near me in Orlando, FL",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "orlando",
     "state": "fl"
   },
@@ -6469,7 +6469,7 @@
   },
   {
     "query": "list of local jewelry stores in Minneapolis, MN",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "minneapolis",
     "state": "mn"
   },
@@ -6524,12 +6524,12 @@
   {
     "query": "find a crossfit gyms near Charlotte",
     "intent": "yelp_intent",
-    "city": "charlotte",
+    "city": "##fi charlotte",
     "state": null
   },
   {
     "query": " cake decorators in Miami, FL",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -6547,7 +6547,7 @@
   },
   {
     "query": "looking for the best gyms near me in New York, NY",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -6560,7 +6560,7 @@
   {
     "query": "list of local window cleaning in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -6590,8 +6590,8 @@
   {
     "query": "average cost of a outlet malls in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new",
+    "state": "york"
   },
   {
     "query": "average price to toy stores in Austin",
@@ -6607,7 +6607,7 @@
   },
   {
     "query": "find yoga classes in Minneapolis, MN",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "minneapolis",
     "state": "mn"
   },
@@ -6632,13 +6632,13 @@
   {
     "query": "average price of a karaoke bars in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
     "query": "average price of electricians near me near Boston",
     "intent": "yelp_intent",
-    "city": "me boston",
+    "city": "boston",
     "state": null
   },
   {
@@ -6650,7 +6650,7 @@
   {
     "query": "average cost of hair salon in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -6727,7 +6727,7 @@
   },
   {
     "query": "average price of grocery stores in Philadelphia",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "philadelphia",
     "state": null
   },
@@ -6800,7 +6800,7 @@
   {
     "query": "average cost of a gyms near me near Charlotte",
     "intent": "yelp_intent",
-    "city": "me charlotte",
+    "city": "charlotte",
     "state": null
   },
   {
@@ -6830,7 +6830,7 @@
   {
     "query": "find a crossfit gyms near Boston",
     "intent": "yelp_intent",
-    "city": "boston",
+    "city": "##fi boston",
     "state": null
   },
   {
@@ -6867,7 +6867,7 @@
     "query": "average cost of a lawn care service near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "looking for the best appliance movers near Nashville",
@@ -6901,7 +6901,7 @@
   },
   {
     "query": "list of local wellness centers in Cincinnati",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "cincinnati",
     "state": null
   },
@@ -6979,7 +6979,7 @@
   },
   {
     "query": "find personal trainer nearby",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -7034,7 +7034,7 @@
   {
     "query": "average cost of outlet malls in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -7070,13 +7070,13 @@
   {
     "query": "average cost of a comedy clubs in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "average price of a house painting service in St. Louis",
-    "intent": "information_intent",
-    "city": "st . louis",
+    "intent": "yelp_intent",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -7129,7 +7129,7 @@
   },
   {
     "query": "cost of yoga classes in Miami",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "miami",
     "state": null
   },
@@ -7178,8 +7178,8 @@
   {
     "query": "cost to outlet malls in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "york",
+    "state": "new"
   },
   {
     "query": "list of local hair salon in Atlanta",
@@ -7249,7 +7249,7 @@
   },
   {
     "query": "average price of antique shops in Miami, FL",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -7285,14 +7285,14 @@
   },
   {
     "query": "list of local nutritionists in Detroit, MI",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": "detroit",
     "state": "mi"
   },
   {
     "query": "find boxing gyms in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -7401,7 +7401,7 @@
     "query": "cost of movers near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "looking for the best wellness centers in Atlanta",
@@ -7478,7 +7478,7 @@
   {
     "query": "cost to tailor near me near Phoenix",
     "intent": "yelp_intent",
-    "city": "me phoenix",
+    "city": "phoenix",
     "state": null
   },
   {
@@ -7549,8 +7549,8 @@
   },
   {
     "query": "list of local barber shop in St. Louis, MO",
-    "intent": "yelp_intent",
-    "city": "st . louis",
+    "intent": "navigation_intent",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -7567,7 +7567,7 @@
   },
   {
     "query": "list of local spinning classes in Orlando",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "orlando",
     "state": null
   },
@@ -7609,8 +7609,8 @@
   },
   {
     "query": "list of local electricians near me in my area",
-    "intent": "information_intent",
-    "city": "my",
+    "intent": "yelp_intent",
+    "city": "my area",
     "state": null
   },
   {
@@ -7621,7 +7621,7 @@
   },
   {
     "query": "average price of Mexican restaurants in Atlanta, GA",
-    "intent": "yelp_intent",
+    "intent": "weather_intent",
     "city": "atlanta",
     "state": "ga"
   },
@@ -7743,7 +7743,7 @@
     "query": "find plumbing services near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "find me the best pet stores in Pittsburgh, PA",
@@ -7862,8 +7862,8 @@
   {
     "query": "looking for the best house painting service in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "average price of gift shops near me",
@@ -7892,7 +7892,7 @@
   {
     "query": "find massage therapy in my area",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "area",
     "state": null
   },
   {
@@ -7934,7 +7934,7 @@
   {
     "query": "find apartment cleaning services in my area",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "my area",
     "state": null
   },
   {
@@ -7964,13 +7964,13 @@
   {
     "query": "average price of a photographers near me near Dallas",
     "intent": "yelp_intent",
-    "city": "me dallas",
+    "city": "dallas",
     "state": null
   },
   {
     "query": "find acupuncture near me near Dallas",
     "intent": "yelp_intent",
-    "city": "me dallas",
+    "city": "dallas",
     "state": null
   },
   {
@@ -8000,7 +8000,7 @@
   {
     "query": "find wedding planners in my area",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "area",
     "state": null
   },
   {
@@ -8012,8 +8012,8 @@
   {
     "query": "average price for locksmith services in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "average price of a Thai food near me in Las Vegas",
@@ -8047,7 +8047,7 @@
   },
   {
     "query": "list of local boxing gyms in Austin, TX",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "austin",
     "state": "tx"
   },
@@ -8090,7 +8090,7 @@
   {
     "query": " personal trainer in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -8186,7 +8186,7 @@
   {
     "query": "find a grocery stores near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -8198,7 +8198,7 @@
   {
     "query": "average price for handyman services in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -8257,8 +8257,8 @@
   },
   {
     "query": "find me the best martial arts studios in my area",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "area",
     "state": null
   },
   {
@@ -8371,7 +8371,7 @@
   },
   {
     "query": "average price of junk removal in Philadelphia",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": "philadelphia",
     "state": null
   },
@@ -8438,13 +8438,13 @@
   {
     "query": "average price to fitness boot camps in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "average price of a DJ services in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
@@ -8533,7 +8533,7 @@
   },
   {
     "query": "list of local Thai food near me in Phoenix",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "phoenix",
     "state": null
   },
@@ -8576,7 +8576,7 @@
   {
     "query": "average price of pool cleaning service in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -8647,7 +8647,7 @@
   },
   {
     "query": "list of local bowling alleys in Orlando, FL",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "orlando",
     "state": "fl"
   },
@@ -8655,11 +8655,11 @@
     "query": "average cost of a bakery near me ",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "find a martial arts studios in San Antonio, TX",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "san antonio",
     "state": "tx"
   },
@@ -8708,8 +8708,8 @@
   {
     "query": "find a locksmith services near New York",
     "intent": "yelp_intent",
-    "city": "york",
-    "state": "new"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "cost of a HVAC repair in Minneapolis",
@@ -8750,13 +8750,13 @@
   {
     "query": "find florists near me in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "cost of a photographers near me delivery",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "delivery",
     "state": null
   },
   {
@@ -8809,7 +8809,7 @@
   },
   {
     "query": "list of local florists near me in Atlanta",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "atlanta",
     "state": null
   },
@@ -8882,7 +8882,7 @@
   {
     "query": "find a DJ services in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -8912,7 +8912,7 @@
   {
     "query": "average price to lawn care service in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -8935,14 +8935,14 @@
   },
   {
     "query": "list of local event venues in Houston",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "houston",
     "state": null
   },
   {
     "query": "cost of dine-in restaurants near Cleveland",
     "intent": "yelp_intent",
-    "city": "- cleveland",
+    "city": "cleveland",
     "state": null
   },
   {
@@ -8997,7 +8997,7 @@
     "query": " party rental services near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "average cost of a window cleaning in Detroit, MI",
@@ -9014,8 +9014,8 @@
   {
     "query": "average price for swimming lessons in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "find grocery stores in Cleveland, OH",
@@ -9122,7 +9122,7 @@
   {
     "query": "average cost of a acupuncture near me near Orlando",
     "intent": "yelp_intent",
-    "city": "me orlando",
+    "city": "orlando",
     "state": null
   },
   {
@@ -9151,7 +9151,7 @@
   },
   {
     "query": "list of local thrift stores in Cleveland, OH",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "cleveland",
     "state": "oh"
   },
@@ -9194,13 +9194,13 @@
   {
     "query": "find acupuncture near me near Orlando",
     "intent": "yelp_intent",
-    "city": "me orlando",
+    "city": "orlando",
     "state": null
   },
   {
     "query": "cost of a chiropractor services in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -9223,7 +9223,7 @@
   },
   {
     "query": "looking for the best gift shops in Charlotte, NC",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "charlotte",
     "state": "nc"
   },
@@ -9331,7 +9331,7 @@
   },
   {
     "query": "average price to catering services in Orlando, FL",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "orlando",
     "state": "fl"
   },
@@ -9422,7 +9422,7 @@
   {
     "query": "average cost of a balloon delivery services in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -9475,7 +9475,7 @@
   },
   {
     "query": " movie theaters in Cleveland, OH",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "cleveland",
     "state": "oh"
   },
@@ -9530,7 +9530,7 @@
   {
     "query": "average price to crossfit gyms near Baltimore",
     "intent": "yelp_intent",
-    "city": "baltimore",
+    "city": "##fi baltimore",
     "state": null
   },
   {
@@ -9542,12 +9542,12 @@
   {
     "query": "average cost of malls near me near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
     "query": "list of local yoga classes in Cincinnati, OH",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "cincinnati",
     "state": "oh"
   },
@@ -9572,7 +9572,7 @@
   {
     "query": "find spa near me near Tampa",
     "intent": "yelp_intent",
-    "city": "me tampa",
+    "city": "tampa",
     "state": null
   },
   {
@@ -9584,7 +9584,7 @@
   {
     "query": "cost of crossfit gyms near Portland",
     "intent": "yelp_intent",
-    "city": "portland",
+    "city": "##fi portland",
     "state": null
   },
   {
@@ -9625,7 +9625,7 @@
   },
   {
     "query": "find me the best movers in Houston, TX",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "houston",
     "state": "tx"
   },
@@ -9746,13 +9746,13 @@
   {
     "query": "average price of a 5 star restaurants in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
     "query": "average price for gyms near me near Charlotte",
     "intent": "yelp_intent",
-    "city": "me charlotte",
+    "city": "charlotte",
     "state": null
   },
   {
@@ -9776,13 +9776,13 @@
   {
     "query": "looking for the best best sushi near me in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new"
+    "city": "new york",
+    "state": null
   },
   {
     "query": " auto repair near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -9800,8 +9800,8 @@
   {
     "query": "looking for the best pest control in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "find me the best appliance movers in Philadelphia, PA",
@@ -9847,7 +9847,7 @@
   },
   {
     "query": "list of local catering services in San Francisco",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "san francisco",
     "state": null
   },
@@ -9883,7 +9883,7 @@
   },
   {
     "query": "list of local barber shop in San Diego, CA",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "san diego",
     "state": "ca"
   },
@@ -9933,7 +9933,7 @@
     "query": "looking for the best dog walking services near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": "find me the best movers in Detroit, MI",
@@ -9943,19 +9943,19 @@
   },
   {
     "query": "find a cake decorators in Baltimore, MD",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "baltimore",
     "state": "md"
   },
   {
     "query": "list of local event venues near Cleveland",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "cleveland",
     "state": null
   },
   {
     "query": "list of local food trucks in New York, NY",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "new york",
     "state": "ny"
   },
@@ -10003,7 +10003,7 @@
   },
   {
     "query": "find me the best karaoke bars in Seattle, WA",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "seattle",
     "state": "wa"
   },
@@ -10015,7 +10015,7 @@
   },
   {
     "query": "list of local tailor near me in Philadelphia",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "philadelphia",
     "state": null
   },
@@ -10063,7 +10063,7 @@
   },
   {
     "query": "list of local movie theaters near Detroit",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": "detroit",
     "state": null
   },
@@ -10081,15 +10081,15 @@
   },
   {
     "query": "looking for the best grocery stores in St. Louis, MO",
-    "intent": "yelp_intent",
-    "city": "st . louis",
+    "intent": "navigation_intent",
+    "city": "st. louis",
     "state": "mo"
   },
   {
     "query": "average price of physical therapy clinics near New York",
     "intent": "yelp_intent",
-    "city": "york",
-    "state": "new"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "find a spinning classes in Charlotte, NC",
@@ -10189,7 +10189,7 @@
   },
   {
     "query": "find me the best locksmith services in San Antonio, TX",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "san antonio",
     "state": "tx"
   },
@@ -10370,7 +10370,7 @@
   {
     "query": "cost of a martial arts studios in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -10381,7 +10381,7 @@
   },
   {
     "query": "list of local furniture stores near Baltimore",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "baltimore",
     "state": null
   },
@@ -10405,7 +10405,7 @@
   },
   {
     "query": "find movie theaters in Cincinnati, OH",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "cincinnati",
     "state": "oh"
   },
@@ -10430,7 +10430,7 @@
   {
     "query": "cost of body shop near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -10490,13 +10490,13 @@
   {
     "query": "find a escape rooms in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "find pilates classes in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -10520,7 +10520,7 @@
   {
     "query": "looking for the best Mexican restaurants in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -10544,7 +10544,7 @@
   {
     "query": "cost to fine dining restaurants near St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -10555,7 +10555,7 @@
   },
   {
     "query": "find me the best movers in Baltimore, MD",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "baltimore",
     "state": "md"
   },
@@ -10669,7 +10669,7 @@
   },
   {
     "query": "list of local bookstores in Detroit, MI",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "detroit",
     "state": "mi"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "query": "average price of jewelry stores in Pittsburgh, PA",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "pittsburgh",
     "state": "pa"
   },
@@ -10892,7 +10892,7 @@
   {
     "query": "average cost of gyms near me near Charlotte",
     "intent": "yelp_intent",
-    "city": "me charlotte",
+    "city": "charlotte",
     "state": null
   },
   {
@@ -10946,13 +10946,13 @@
   {
     "query": " fine dining restaurants near New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "find boxing gyms near New York",
     "intent": "yelp_intent",
-    "city": "york",
+    "city": "new york",
     "state": null
   },
   {
@@ -11030,7 +11030,7 @@
   {
     "query": "average price to wellness centers in St. Louis, MO",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": "mo"
   },
   {
@@ -11114,7 +11114,7 @@
   {
     "query": " grocery stores in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -11174,12 +11174,12 @@
   {
     "query": "average price for malls near me near New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "list of local pilates classes ",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11228,8 +11228,8 @@
   {
     "query": "average price for wedding planners in New York",
     "intent": "yelp_intent",
-    "city": "york",
-    "state": "new"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "cost to dry cleaners near Denver",
@@ -11264,7 +11264,7 @@
   {
     "query": "cost of a florists near me near Charlotte",
     "intent": "yelp_intent",
-    "city": "me charlotte",
+    "city": "charlotte",
     "state": null
   },
   {
@@ -11276,7 +11276,7 @@
   {
     "query": "average cost of seafood restaurants in St. Louis",
     "intent": "yelp_intent",
-    "city": "st . louis",
+    "city": "st. louis",
     "state": null
   },
   {
@@ -11330,7 +11330,7 @@
   {
     "query": "cost of a florists near me in my area",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "my area",
     "state": null
   },
   {
@@ -11390,7 +11390,7 @@
   {
     "query": "average cost of gyms near me near Miami",
     "intent": "yelp_intent",
-    "city": "me miami",
+    "city": "miami",
     "state": null
   },
   {
@@ -11420,7 +11420,7 @@
   {
     "query": "average cost of a personal trainer in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
@@ -11437,7 +11437,7 @@
   },
   {
     "query": "find me the best event venues in Philadelphia",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "philadelphia",
     "state": null
   },
@@ -11605,7 +11605,7 @@
   },
   {
     "query": "looking for the best tailor near me near Baltimore",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": "baltimore",
     "state": null
   },
@@ -11714,8 +11714,8 @@
   {
     "query": "average price of a gift shops in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "list of local shoe stores in Orlando",
@@ -11737,7 +11737,7 @@
   },
   {
     "query": "looking for the best barber shop in Miami, FL",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": "miami",
     "state": "fl"
   },
@@ -11767,7 +11767,7 @@
   },
   {
     "query": "list of local barber shop in Pittsburgh, PA",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "pittsburgh",
     "state": "pa"
   },
@@ -11779,7 +11779,7 @@
   },
   {
     "query": "list of local boxing gyms in Boston",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": "boston",
     "state": null
   },
@@ -11793,7 +11793,7 @@
     "query": " carpet cleaning near me",
     "intent": "yelp_intent",
     "city": null,
-    "state": "me"
+    "state": null
   },
   {
     "query": " bookstores near Los Angeles",
@@ -11839,7 +11839,7 @@
   },
   {
     "query": "average price of a tire shop near Cincinnati",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": "cincinnati",
     "state": null
   },
@@ -11876,12 +11876,12 @@
   {
     "query": "average price for movers in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new york",
+    "state": null
   },
   {
     "query": "cost of a landscaping companies ",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11906,8 +11906,8 @@
   {
     "query": "average price to junk removal in New York",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "new york"
+    "city": "new",
+    "state": "york"
   },
   {
     "query": " physical therapy clinics in Tampa, FL",

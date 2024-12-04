@@ -25,8 +25,8 @@
   },
   {
     "query": "24 hour walmart",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "##mart",
     "state": null
   },
   {
@@ -55,8 +55,8 @@
   },
   {
     "query": "aaliyah beauty and brows",
-    "intent": "information_intent",
-    "city": "aaliyah",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -68,13 +68,13 @@
   {
     "query": "acai bowl",
     "intent": "yelp_intent",
-    "city": "ac",
+    "city": "acai",
     "state": null
   },
   {
     "query": "acai bowls",
     "intent": "yelp_intent",
-    "city": "ac",
+    "city": "acai",
     "state": null
   },
   {
@@ -97,13 +97,13 @@
   },
   {
     "query": "ahgassi gopchang",
-    "intent": "information_intent",
-    "city": "ah go",
+    "intent": "yelp_intent",
+    "city": "ahhang",
     "state": null
   },
   {
     "query": "aldi",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "al",
     "state": null
   },
@@ -115,20 +115,20 @@
   },
   {
     "query": "all you can eat sushi",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "aloha mamacita",
     "intent": "information_intent",
-    "city": "aloh mamacita",
+    "city": "alohcita",
     "state": null
   },
   {
     "query": "aloha stacks",
     "intent": "yelp_intent",
-    "city": "aloha stacks",
+    "city": "aloha",
     "state": null
   },
   {
@@ -151,25 +151,25 @@
   },
   {
     "query": "angie's list cleaners",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "angie's list cleaning companies",
-    "intent": "navigation_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "s",
     "state": null
   },
   {
     "query": "angie's list movers",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "angie's list moving companies",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -181,14 +181,14 @@
   },
   {
     "query": "angies list cleaners",
-    "intent": "navigation_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "angie",
     "state": null
   },
   {
     "query": "angies list movers",
-    "intent": "navigation_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "angie",
     "state": null
   },
   {
@@ -236,7 +236,7 @@
   {
     "query": "apartment moving",
     "intent": "yelp_intent",
-    "city": "moving",
+    "city": null,
     "state": null
   },
   {
@@ -266,7 +266,7 @@
   {
     "query": "appliance moving service",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "moving",
     "state": null
   },
   {
@@ -283,20 +283,20 @@
   },
   {
     "query": "approximate moving cost calculator",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "apt cleaning",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "apt",
     "state": null
   },
   {
     "query": "apt cleaning services",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "apt",
     "state": null
   },
   {
@@ -313,8 +313,8 @@
   },
   {
     "query": "ariari",
-    "intent": "information_intent",
-    "city": "aria",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "query": "asian market",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -362,7 +362,7 @@
   {
     "query": "asphalt shingle roof cost",
     "intent": "yelp_intent",
-    "city": "cost",
+    "city": null,
     "state": null
   },
   {
@@ -374,13 +374,13 @@
   {
     "query": "atlanta breakfast club",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "atlanta",
     "state": null
   },
   {
     "query": "au cheval",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "auval",
     "state": null
   },
   {
@@ -403,7 +403,7 @@
   },
   {
     "query": "average carpet install price",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -649,31 +649,31 @@
   },
   {
     "query": "average house cleaning rates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average house painter rate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average labor cost to paint a room",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average moving cost per hour",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average price for a roof",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -685,7 +685,7 @@
   },
   {
     "query": "average price for exterior painting",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -709,43 +709,43 @@
   },
   {
     "query": "average price of a new roof",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average price of a roof",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average price of carpet",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average price of moving company",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average price to install carpet",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average price to paint a house",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "average price to paint a room",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -835,8 +835,8 @@
   },
   {
     "query": "bamonte's",
-    "intent": "information_intent",
-    "city": "bamonte s",
+    "intent": "translation_intent",
+    "city": null,
     "state": null
   },
   {
@@ -853,8 +853,8 @@
   },
   {
     "query": "barber",
-    "intent": "information_intent",
-    "city": "barber",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -907,13 +907,13 @@
   },
   {
     "query": "batting cages",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "bbq",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -937,14 +937,14 @@
   },
   {
     "query": "beignets",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
   {
     "query": "berber carpet cost",
     "intent": "yelp_intent",
-    "city": "berber",
+    "city": null,
     "state": null
   },
   {
@@ -956,13 +956,13 @@
   {
     "query": "bestia",
     "intent": "yelp_intent",
-    "city": "##ia",
+    "city": null,
     "state": null
   },
   {
     "query": "better business bureau roofers",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "business bureau",
     "state": null
   },
   {
@@ -973,43 +973,43 @@
   },
   {
     "query": "bhc chicken",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "b",
     "state": null
   },
   {
     "query": "big dawgs memphis",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "big dawg memphis",
     "state": null
   },
   {
     "query": "billiard table movers",
     "intent": "yelp_intent",
-    "city": "move",
+    "city": null,
     "state": null
   },
   {
     "query": "billy after dark",
-    "intent": "weather_intent",
-    "city": "after",
+    "intent": "information_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "billy's egg farm",
-    "intent": "information_intent",
-    "city": "' s egg farm",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "birria tacos",
     "intent": "yelp_intent",
-    "city": "birri",
+    "city": null,
     "state": null
   },
   {
     "query": "bistro 1968",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -1022,7 +1022,7 @@
   {
     "query": "black dermatologist",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "black",
     "state": null
   },
   {
@@ -1040,19 +1040,19 @@
   {
     "query": "blue willow",
     "intent": "yelp_intent",
-    "city": "blue willow",
+    "city": null,
     "state": null
   },
   {
     "query": "boba",
-    "intent": "information_intent",
-    "city": "bob",
+    "intent": "unknown",
+    "city": null,
     "state": null
   },
   {
     "query": "bodega",
-    "intent": "yelp_intent",
-    "city": "bodega",
+    "intent": "",
+    "city": "##dega",
     "state": null
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "query": "bon shabu",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "bon",
     "state": null
   },
   {
@@ -1088,19 +1088,19 @@
   {
     "query": "boston lobster",
     "intent": "yelp_intent",
-    "city": "boston lobster",
+    "city": "boston",
     "state": null
   },
   {
     "query": "boston market",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "boston",
     "state": null
   },
   {
     "query": "botox",
-    "intent": "information_intent",
-    "city": "##ox",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
@@ -1136,24 +1136,24 @@
   {
     "query": "breakfast burrito",
     "intent": "yelp_intent",
-    "city": "burrito",
+    "city": "burr",
     "state": null
   },
   {
     "query": "breakfast little",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "little",
     "state": null
   },
   {
     "query": "breakfast republic",
-    "intent": "information_intent",
+    "intent": "",
     "city": "republic",
     "state": null
   },
   {
     "query": "breeze airways",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
@@ -1165,13 +1165,13 @@
   },
   {
     "query": "brick fest live reviews",
-    "intent": "navigation_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "brick",
     "state": null
   },
   {
     "query": "brow lamination",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -1183,13 +1183,13 @@
   },
   {
     "query": "bubble tea",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": null,
     "state": null
   },
   {
     "query": "buffet",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -1202,7 +1202,7 @@
   {
     "query": "building movers in my area",
     "intent": "yelp_intent",
-    "city": "my area",
+    "city": "area",
     "state": null
   },
   {
@@ -1231,14 +1231,14 @@
   },
   {
     "query": "burgers never say die",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "c as in charlie",
     "intent": "information_intent",
-    "city": "charlie",
+    "city": null,
     "state": null
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "query": "cabinet painter in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -1275,7 +1275,7 @@
     "query": "cabinet painting companies",
     "intent": "yelp_intent",
     "city": null,
-    "state": "companies"
+    "state": null
   },
   {
     "query": "cabinet painting contractors",
@@ -1291,7 +1291,7 @@
   },
   {
     "query": "cabinet painting price",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "price",
     "state": null
   },
@@ -1316,7 +1316,7 @@
   {
     "query": "cafe dang",
     "intent": "yelp_intent",
-    "city": "dan",
+    "city": "dang",
     "state": null
   },
   {
@@ -1417,8 +1417,8 @@
   },
   {
     "query": "carpet installation price",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "price",
     "state": null
   },
   {
@@ -1442,7 +1442,7 @@
   {
     "query": "carpet installers in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
@@ -1531,7 +1531,7 @@
   },
   {
     "query": "certainteed certified installers",
-    "intent": "navigation_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -1543,7 +1543,7 @@
   },
   {
     "query": "cesarina",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "cesarina",
     "state": null
   },
@@ -1556,30 +1556,30 @@
   {
     "query": "cheesecake factory",
     "intent": "yelp_intent",
-    "city": "factory",
+    "city": null,
     "state": null
   },
   {
     "query": "chicharrones",
     "intent": "yelp_intent",
-    "city": "##rrones",
+    "city": null,
     "state": null
   },
   {
     "query": "chicken house",
     "intent": "yelp_intent",
-    "city": "house",
+    "city": null,
     "state": null
   },
   {
     "query": "chicken wings",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "chinese",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -1604,7 +1604,7 @@
   {
     "query": "chipotle göteborg",
     "intent": "yelp_intent",
-    "city": "chipot goteborg",
+    "city": "goteborg",
     "state": null
   },
   {
@@ -1615,7 +1615,7 @@
   },
   {
     "query": "chocolate covered strawberries",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -1645,8 +1645,8 @@
   },
   {
     "query": "ci siamo",
-    "intent": "information_intent",
-    "city": "##o",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -1681,7 +1681,7 @@
   },
   {
     "query": "cleaner",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -1730,7 +1730,7 @@
   {
     "query": "cleaners in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -1813,13 +1813,13 @@
   },
   {
     "query": "cleaning company estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "cleaning company ratings bbb",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "bb",
     "state": null
   },
@@ -1873,7 +1873,7 @@
   },
   {
     "query": "cleaning estimates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -1934,7 +1934,7 @@
   {
     "query": "cleaning lady services",
     "intent": "yelp_intent",
-    "city": "lady",
+    "city": null,
     "state": null
   },
   {
@@ -1976,7 +1976,7 @@
   {
     "query": "cleaning new homes",
     "intent": "yelp_intent",
-    "city": "new",
+    "city": "new homes",
     "state": null
   },
   {
@@ -2023,19 +2023,19 @@
   },
   {
     "query": "cleaning quote",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "cleaning quote service",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "cleaning rates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -2048,7 +2048,7 @@
   {
     "query": "cleaning service business",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "business",
     "state": null
   },
   {
@@ -2065,20 +2065,20 @@
   },
   {
     "query": "cleaning service estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "cleaning service estimates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "cleaning service garage",
     "intent": "yelp_intent",
-    "city": "garage",
+    "city": null,
     "state": null
   },
   {
@@ -2089,7 +2089,7 @@
   },
   {
     "query": "cleaning service list",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -2101,13 +2101,13 @@
   },
   {
     "query": "cleaning service names",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "cleaning service price list",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -2126,12 +2126,12 @@
   {
     "query": "cleaning service quote",
     "intent": "yelp_intent",
-    "city": "quote",
+    "city": null,
     "state": null
   },
   {
     "query": "cleaning service quotes",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -2149,7 +2149,7 @@
   },
   {
     "query": "cleaning service reviews",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -2174,7 +2174,7 @@
   {
     "query": "cleaning services business",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "business",
     "state": null
   },
   {
@@ -2222,19 +2222,19 @@
   {
     "query": "cleaning services house",
     "intent": "yelp_intent",
-    "city": "house",
+    "city": null,
     "state": null
   },
   {
     "query": "cleaning services in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
     "query": "cleaning services near me prices",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "prices",
     "state": null
   },
   {
@@ -2245,14 +2245,14 @@
   },
   {
     "query": "cleaning services price",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "price",
     "state": null
   },
   {
     "query": "cleaning services price list",
-    "intent": "purchase_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "price",
     "state": null
   },
   {
@@ -2263,7 +2263,7 @@
   },
   {
     "query": "cleaning services prices list",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -2281,7 +2281,7 @@
   },
   {
     "query": "cleaning services rates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "query": "coffee flights",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
@@ -2353,8 +2353,8 @@
   },
   {
     "query": "companias de limpieza",
-    "intent": "yelp_intent",
-    "city": "limpieza",
+    "intent": "travel_intent",
+    "city": "de limpieza",
     "state": null
   },
   {
@@ -2786,7 +2786,7 @@
   {
     "query": "cost of the square foot to paint",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "foot",
     "state": null
   },
   {
@@ -2893,7 +2893,7 @@
   },
   {
     "query": "cost to paint a house",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -2941,13 +2941,13 @@
   },
   {
     "query": "cost to paint interior of home",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "cost to paint interior of house",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -3074,7 +3074,7 @@
   {
     "query": "cowboys and poodles",
     "intent": "yelp_intent",
-    "city": "##odle",
+    "city": null,
     "state": null
   },
   {
@@ -3091,7 +3091,7 @@
   },
   {
     "query": "crepes",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -3110,7 +3110,7 @@
   {
     "query": "cross state movers",
     "intent": "yelp_intent",
-    "city": "cross state",
+    "city": "state",
     "state": null
   },
   {
@@ -3127,7 +3127,7 @@
   },
   {
     "query": "cupcakes",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": null,
     "state": null
   },
@@ -3158,13 +3158,13 @@
   {
     "query": "dada shabu shabu",
     "intent": "information_intent",
-    "city": "dad sha",
+    "city": "dad",
     "state": null
   },
   {
     "query": "daeho",
-    "intent": "information_intent",
-    "city": "##o",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -3181,15 +3181,15 @@
   },
   {
     "query": "daikokuya",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
-    "state": "##ya"
+    "state": null
   },
   {
     "query": "dan sung sa",
-    "intent": "information_intent",
-    "city": "dan sa",
-    "state": null
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "sa"
   },
   {
     "query": "dance classes",
@@ -3200,7 +3200,7 @@
   {
     "query": "dave's hot chicken",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "'s",
     "state": null
   },
   {
@@ -3223,7 +3223,7 @@
   },
   {
     "query": "dd's discounts",
-    "intent": "navigation_intent",
+    "intent": "purchase_intent",
     "city": null,
     "state": null
   },
@@ -3248,7 +3248,7 @@
   {
     "query": "deck painting companies",
     "intent": "yelp_intent",
-    "city": "companies",
+    "city": null,
     "state": null
   },
   {
@@ -3331,13 +3331,13 @@
   },
   {
     "query": "deli",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "delilah",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -3349,7 +3349,7 @@
   },
   {
     "query": "dermatologist",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -3361,14 +3361,14 @@
   },
   {
     "query": "dim sum",
-    "intent": "information_intent",
-    "city": "sum",
+    "intent": "unknown",
+    "city": null,
     "state": null
   },
   {
     "query": "din tai fung",
-    "intent": "information_intent",
-    "city": "##g",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -3391,7 +3391,7 @@
   },
   {
     "query": "directory painter",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -3403,8 +3403,8 @@
   },
   {
     "query": "disinfect house",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "house",
     "state": null
   },
   {
@@ -3493,7 +3493,7 @@
   },
   {
     "query": "donuts",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -3512,12 +3512,12 @@
   {
     "query": "dormer installation",
     "intent": "yelp_intent",
-    "city": "dorm",
+    "city": null,
     "state": null
   },
   {
     "query": "dough zone",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -3535,8 +3535,8 @@
   },
   {
     "query": "driving school",
-    "intent": "yelp_intent",
-    "city": "school",
+    "intent": "information_intent",
+    "city": null,
     "state": null
   },
   {
@@ -3554,13 +3554,13 @@
   {
     "query": "dunsmoor",
     "intent": "yelp_intent",
-    "city": "dunsmoor",
+    "city": null,
     "state": null
   },
   {
     "query": "dust cleanup basement",
     "intent": "yelp_intent",
-    "city": "basement",
+    "city": null,
     "state": null
   },
   {
@@ -3595,7 +3595,7 @@
   },
   {
     "query": "easter brunch",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -3667,7 +3667,7 @@
   },
   {
     "query": "electrician",
-    "intent": "information_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -3679,7 +3679,7 @@
   },
   {
     "query": "elephant sushi",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -3692,7 +3692,7 @@
   {
     "query": "emerald garden restaurant",
     "intent": "yelp_intent",
-    "city": "emerald garden",
+    "city": null,
     "state": null
   },
   {
@@ -3734,13 +3734,13 @@
   {
     "query": "emilio's ballato",
     "intent": "information_intent",
-    "city": "##ato",
+    "city": "emilio",
     "state": null
   },
   {
     "query": "encanto",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "",
+    "city": "ento",
     "state": null
   },
   {
@@ -3776,7 +3776,7 @@
   {
     "query": "enginerd hardwood floor installers",
     "intent": "yelp_intent",
-    "city": "hardwood",
+    "city": "engine",
     "state": null
   },
   {
@@ -3794,7 +3794,7 @@
   {
     "query": "epoxy coating contractors",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "ep",
     "state": null
   },
   {
@@ -3806,7 +3806,7 @@
   {
     "query": "epoxy floor coating contractors",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "ep",
     "state": null
   },
   {
@@ -3818,7 +3818,7 @@
   {
     "query": "epoxy floor contractors",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "ep",
     "state": null
   },
   {
@@ -3854,7 +3854,7 @@
   {
     "query": "epoxy garage floor contractors",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "ep",
     "state": null
   },
   {
@@ -3866,13 +3866,13 @@
   {
     "query": "epoxy garage floor installers",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "ep",
     "state": null
   },
   {
     "query": "epoxy garage floors",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "ep",
     "state": null
   },
   {
@@ -3883,7 +3883,7 @@
   },
   {
     "query": "escape room",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -3895,7 +3895,7 @@
   },
   {
     "query": "estimate for roof replacement",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -3949,8 +3949,8 @@
   },
   {
     "query": "etta culver city",
-    "intent": "yelp_intent",
-    "city": "et",
+    "intent": "",
+    "city": "culver city",
     "state": null
   },
   {
@@ -3973,7 +3973,7 @@
   },
   {
     "query": "exterior building stain",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4015,7 +4015,7 @@
   },
   {
     "query": "exterior home stain",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4046,7 +4046,7 @@
   {
     "query": "exterior house painting cost",
     "intent": "yelp_intent",
-    "city": "cost",
+    "city": null,
     "state": null
   },
   {
@@ -4069,7 +4069,7 @@
   },
   {
     "query": "exterior paint for homes",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4094,7 +4094,7 @@
   {
     "query": "exterior painter company",
     "intent": "yelp_intent",
-    "city": "company",
+    "city": null,
     "state": null
   },
   {
@@ -4111,7 +4111,7 @@
   },
   {
     "query": "exterior painter price",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "price",
     "state": null
   },
@@ -4130,7 +4130,7 @@
   {
     "query": "exterior painters in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "query": "exterior painting companies",
     "intent": "yelp_intent",
-    "city": "companies",
+    "city": null,
     "state": null
   },
   {
@@ -4165,7 +4165,7 @@
   },
   {
     "query": "exterior painting cost per square foot",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4183,7 +4183,7 @@
   },
   {
     "query": "exterior stain",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4214,12 +4214,12 @@
   {
     "query": "facial",
     "intent": "information_intent",
-    "city": null,
+    "city": "facial",
     "state": null
   },
   {
     "query": "facials",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -4232,7 +4232,7 @@
   {
     "query": "farmers market",
     "intent": "yelp_intent",
-    "city": "market",
+    "city": null,
     "state": null
   },
   {
@@ -4267,7 +4267,7 @@
   },
   {
     "query": "fence stain",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4315,7 +4315,7 @@
   },
   {
     "query": "find a painter",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
@@ -4333,7 +4333,7 @@
   },
   {
     "query": "find a professional painter",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": null
   },
@@ -4357,7 +4357,7 @@
   },
   {
     "query": "find cleaning estimates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4483,7 +4483,7 @@
   },
   {
     "query": "find painting estimates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4520,7 +4520,7 @@
   {
     "query": "findlay roofers",
     "intent": "yelp_intent",
-    "city": "findlay",
+    "city": null,
     "state": null
   },
   {
@@ -4544,7 +4544,7 @@
   {
     "query": "firestone grill bakersfield",
     "intent": "yelp_intent",
-    "city": "##tone bakersfield",
+    "city": "bakersfield",
     "state": null
   },
   {
@@ -4556,7 +4556,7 @@
   {
     "query": "fish and chips",
     "intent": "yelp_intent",
-    "city": "and",
+    "city": null,
     "state": null
   },
   {
@@ -4622,13 +4622,13 @@
   {
     "query": "flaming llama",
     "intent": "yelp_intent",
-    "city": "##ama",
+    "city": "flaming",
     "state": null
   },
   {
     "query": "flat roof extension",
     "intent": "yelp_intent",
-    "city": "extension",
+    "city": null,
     "state": null
   },
   {
@@ -4753,7 +4753,7 @@
   },
   {
     "query": "floor quote",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -4766,7 +4766,7 @@
   {
     "query": "floor refinish price",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "price",
     "state": null
   },
   {
@@ -4909,7 +4909,7 @@
   },
   {
     "query": "flooring quotes",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -4933,26 +4933,26 @@
   },
   {
     "query": "florist",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
   {
     "query": "flowers",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "fogo de chao",
-    "intent": "information_intent",
-    "city": "fog de chao",
+    "intent": "weather_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "fonda don chon",
     "intent": "yelp_intent",
-    "city": "fondn",
+    "city": "don chon",
     "state": null
   },
   {
@@ -4987,32 +4987,32 @@
   },
   {
     "query": "foster gwin",
-    "intent": "information_intent",
-    "city": "##win",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
     "query": "foster gwin gallery",
     "intent": "yelp_intent",
-    "city": "##win",
+    "city": "foster",
     "state": null
   },
   {
     "query": "frankensons",
     "intent": "yelp_intent",
-    "city": "frankensons",
+    "city": "frank",
     "state": null
   },
   {
     "query": "frankensons pizza",
     "intent": "yelp_intent",
-    "city": "frankens",
+    "city": "frankensons",
     "state": null
   },
   {
     "query": "frankensons pizzeria",
     "intent": "yelp_intent",
-    "city": "frankens",
+    "city": "frankons",
     "state": null
   },
   {
@@ -5047,7 +5047,7 @@
   },
   {
     "query": "fuego maui",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "maui",
     "state": null
   },
@@ -5055,7 +5055,7 @@
     "query": "fufu",
     "intent": "information_intent",
     "city": null,
-    "state": "##fu"
+    "state": null
   },
   {
     "query": "full house cleaning service",
@@ -5095,7 +5095,7 @@
   },
   {
     "query": "fun things to do",
-    "intent": "information_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -5108,7 +5108,7 @@
   {
     "query": "furniture move",
     "intent": "yelp_intent",
-    "city": "move",
+    "city": null,
     "state": null
   },
   {
@@ -5156,8 +5156,8 @@
   {
     "query": "furniture moving van",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "van"
+    "city": "van",
+    "state": null
   },
   {
     "query": "furniture store",
@@ -5180,24 +5180,24 @@
   {
     "query": "gaf certified roofers",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "ga",
     "state": null
   },
   {
     "query": "gaf master elite",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "gaf master elite contractor",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "ga",
     "state": null
   },
   {
     "query": "gammeeok",
-    "intent": "yelp_intent",
+    "intent": "unknown",
     "city": "##eo",
     "state": null
   },
@@ -5407,13 +5407,13 @@
   },
   {
     "query": "gary's mattress",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "gen korean bbq",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -5438,7 +5438,7 @@
   {
     "query": "get help moving",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "moving",
     "state": null
   },
   {
@@ -5468,19 +5468,19 @@
   {
     "query": "giorgio baldi",
     "intent": "yelp_intent",
-    "city": "##i",
+    "city": null,
     "state": null
   },
   {
     "query": "girl and the goat",
     "intent": "information_intent",
-    "city": "the goat",
+    "city": null,
     "state": null
   },
   {
     "query": "giselle soto brows",
     "intent": "yelp_intent",
-    "city": "soto",
+    "city": null,
     "state": null
   },
   {
@@ -5491,32 +5491,32 @@
   },
   {
     "query": "go karts",
-    "intent": "information_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
   {
     "query": "gogi korean bbq",
     "intent": "yelp_intent",
-    "city": "go",
+    "city": null,
     "state": null
   },
   {
     "query": "going rate for house cleaning",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "going rate for painting per sq ft",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "golden corral",
     "intent": "yelp_intent",
-    "city": "golden corral",
+    "city": "##rral",
     "state": null
   },
   {
@@ -5527,14 +5527,14 @@
   },
   {
     "query": "gong gan",
-    "intent": "information_intent",
-    "city": "gan",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "grandma's kitchen",
     "intent": "yelp_intent",
-    "city": "' s",
+    "city": null,
     "state": null
   },
   {
@@ -5546,13 +5546,13 @@
   {
     "query": "great jones spa",
     "intent": "yelp_intent",
-    "city": "great jones spa",
+    "city": "great jones",
     "state": null
   },
   {
     "query": "greek city grill",
     "intent": "yelp_intent",
-    "city": "city",
+    "city": null,
     "state": null
   },
   {
@@ -5606,7 +5606,7 @@
   {
     "query": "green house cleaning",
     "intent": "yelp_intent",
-    "city": "green house",
+    "city": "green",
     "state": null
   },
   {
@@ -5618,7 +5618,7 @@
   {
     "query": "green maid services",
     "intent": "yelp_intent",
-    "city": "green maid",
+    "city": null,
     "state": null
   },
   {
@@ -5629,7 +5629,7 @@
   },
   {
     "query": "grocery store",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -5649,7 +5649,7 @@
     "query": "gun safe moving company",
     "intent": "yelp_intent",
     "city": null,
-    "state": "company"
+    "state": null
   },
   {
     "query": "gym",
@@ -5666,13 +5666,13 @@
   {
     "query": "gyro saj",
     "intent": "yelp_intent",
-    "city": "##yr",
-    "state": "##j"
+    "city": "##j",
+    "state": null
   },
   {
     "query": "h mart food court",
     "intent": "yelp_intent",
-    "city": "h",
+    "city": null,
     "state": null
   },
   {
@@ -5683,8 +5683,8 @@
   },
   {
     "query": "haidilao",
-    "intent": "information_intent",
-    "city": "hailao",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -5707,7 +5707,7 @@
   },
   {
     "query": "haircut",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -5720,18 +5720,18 @@
   {
     "query": "halal food",
     "intent": "yelp_intent",
-    "city": "hal",
+    "city": null,
     "state": null
   },
   {
     "query": "halal korean bbq",
-    "intent": "information_intent",
-    "city": "hal",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "han il kwan",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "han il",
     "state": null
   },
@@ -5743,7 +5743,7 @@
   },
   {
     "query": "handyman",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -5756,13 +5756,13 @@
   {
     "query": "happy lamb",
     "intent": "information_intent",
-    "city": "lamb",
+    "city": null,
     "state": null
   },
   {
     "query": "happy lamb hot pot",
-    "intent": "yelp_intent",
-    "city": "happy lamb",
+    "intent": "information_intent",
+    "city": null,
     "state": null
   },
   {
@@ -5845,7 +5845,7 @@
   },
   {
     "query": "hardwood estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -5899,7 +5899,7 @@
   },
   {
     "query": "hardwood floor estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -5978,12 +5978,12 @@
   {
     "query": "hardwood floor installers in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
     "query": "hardwood floor price estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -6398,7 +6398,7 @@
   {
     "query": "hardwoord flooring",
     "intent": "yelp_intent",
-    "city": "hardwoord",
+    "city": null,
     "state": null
   },
   {
@@ -6416,13 +6416,13 @@
   {
     "query": "harwood floor installers",
     "intent": "yelp_intent",
-    "city": "harwood",
+    "city": "harwood floor",
     "state": null
   },
   {
     "query": "hatchet hall",
     "intent": "yelp_intent",
-    "city": "##et hall",
+    "city": null,
     "state": null
   },
   {
@@ -6511,19 +6511,19 @@
   },
   {
     "query": "heritage bbq oceanside",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": "oceanside",
     "state": null
   },
   {
     "query": "herringbone floor installation",
     "intent": "yelp_intent",
-    "city": "herringbone",
+    "city": null,
     "state": null
   },
   {
     "query": "hibachi",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -6625,7 +6625,7 @@
   },
   {
     "query": "hiring movers",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": null
   },
@@ -6721,8 +6721,8 @@
   },
   {
     "query": "home cleaning services price list",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "price",
     "state": null
   },
   {
@@ -6818,7 +6818,7 @@
   {
     "query": "home outside painting",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "painting",
     "state": null
   },
   {
@@ -6829,7 +6829,7 @@
   },
   {
     "query": "home paint work estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -6861,7 +6861,7 @@
     "query": "home painting company",
     "intent": "yelp_intent",
     "city": null,
-    "state": "company"
+    "state": null
   },
   {
     "query": "home painting contractor",
@@ -6883,7 +6883,7 @@
   },
   {
     "query": "home painting cost estimator",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -6902,7 +6902,7 @@
   {
     "query": "home roofers",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "##ers",
     "state": null
   },
   {
@@ -6937,20 +6937,20 @@
   },
   {
     "query": "homeaglow",
-    "intent": "weather_intent",
-    "city": "##aglow",
+    "intent": "unknown",
+    "city": null,
     "state": null
   },
   {
     "query": "hong kong tijuana",
-    "intent": "yelp_intent",
-    "city": "##juana",
+    "intent": "travel_intent",
+    "city": "hongana",
     "state": null
   },
   {
     "query": "hookah lounge",
     "intent": "yelp_intent",
-    "city": "hookah lounge",
+    "city": "##ah",
     "state": null
   },
   {
@@ -6962,7 +6962,7 @@
   {
     "query": "horses restaurant",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "horses",
     "state": null
   },
   {
@@ -7003,7 +7003,7 @@
   },
   {
     "query": "hourly rate for movers",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7033,13 +7033,13 @@
   },
   {
     "query": "house cleaner rates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "house cleaner ratings",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7058,7 +7058,7 @@
   {
     "query": "house cleaners by zip code",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "zip",
     "state": null
   },
   {
@@ -7076,7 +7076,7 @@
   {
     "query": "house cleaners in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
@@ -7142,7 +7142,7 @@
   {
     "query": "house cleaning contractor in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
@@ -7165,7 +7165,7 @@
   },
   {
     "query": "house cleaning estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7184,13 +7184,13 @@
   {
     "query": "house cleaning in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
     "query": "house cleaning local",
     "intent": "yelp_intent",
-    "city": "local",
+    "city": null,
     "state": null
   },
   {
@@ -7237,7 +7237,7 @@
   },
   {
     "query": "house cleaning rates per hour",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7286,7 +7286,7 @@
   {
     "query": "house cleaning services near me prices",
     "intent": "yelp_intent",
-    "city": "me",
+    "city": "prices",
     "state": null
   },
   {
@@ -7303,7 +7303,7 @@
   },
   {
     "query": "house cleaning services prices list",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7322,7 +7322,7 @@
   {
     "query": "house cleaning white glove",
     "intent": "yelp_intent",
-    "city": "white",
+    "city": "white glove",
     "state": null
   },
   {
@@ -7352,7 +7352,7 @@
   {
     "query": "house exterior painting companies",
     "intent": "yelp_intent",
-    "city": "companies",
+    "city": null,
     "state": null
   },
   {
@@ -7472,7 +7472,7 @@
   {
     "query": "house painter recommendation",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "recommendation",
     "state": null
   },
   {
@@ -7502,7 +7502,7 @@
   {
     "query": "house painters local",
     "intent": "yelp_intent",
-    "city": "local",
+    "city": null,
     "state": null
   },
   {
@@ -7555,13 +7555,13 @@
   },
   {
     "query": "house painting estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "house painting estimator",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7591,7 +7591,7 @@
   },
   {
     "query": "house painting quotes",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7628,7 +7628,7 @@
   {
     "query": "housecleaning",
     "intent": "yelp_intent",
-    "city": "##cleng",
+    "city": null,
     "state": null
   },
   {
@@ -7669,7 +7669,7 @@
   },
   {
     "query": "household moving quotes",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7688,7 +7688,7 @@
   {
     "query": "housekeepers in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -7849,13 +7849,13 @@
   },
   {
     "query": "how much for house cleaning services",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "how much is a cleaning service",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7867,13 +7867,13 @@
   },
   {
     "query": "how much is a new roof",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "how much is house cleaning service",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7903,7 +7903,7 @@
   },
   {
     "query": "how much to install wood floor",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -7928,13 +7928,13 @@
   {
     "query": "howlin ray's pasadena arroyo",
     "intent": "yelp_intent",
-    "city": "s arroyo",
+    "city": "pasadena arroyo",
     "state": null
   },
   {
     "query": "howlin rays",
-    "intent": "yelp_intent",
-    "city": "##in",
+    "intent": "information_intent",
+    "city": null,
     "state": null
   },
   {
@@ -7946,19 +7946,19 @@
   {
     "query": "hulu skewer house",
     "intent": "yelp_intent",
-    "city": "hu skew",
+    "city": null,
     "state": null
   },
   {
     "query": "hvac",
-    "intent": "yelp_intent",
+    "intent": "unknown",
     "city": null,
     "state": null
   },
   {
     "query": "hydroviv",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "",
+    "city": "hydro",
     "state": null
   },
   {
@@ -8019,7 +8019,7 @@
     "query": "in home furniture movers",
     "intent": "yelp_intent",
     "city": null,
-    "state": null
+    "state": "in"
   },
   {
     "query": "in house cleaning services",
@@ -8054,7 +8054,7 @@
   {
     "query": "independent cleaning services",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "independent",
     "state": null
   },
   {
@@ -8083,7 +8083,7 @@
   },
   {
     "query": "indian buffet",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -8101,7 +8101,7 @@
   },
   {
     "query": "indoor basketball courts",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -8168,7 +8168,7 @@
   {
     "query": "ini ristorante",
     "intent": "yelp_intent",
-    "city": "##ante",
+    "city": null,
     "state": null
   },
   {
@@ -8222,7 +8222,7 @@
   {
     "query": "install herringbone wood floor",
     "intent": "yelp_intent",
-    "city": "wood",
+    "city": null,
     "state": null
   },
   {
@@ -8366,7 +8366,7 @@
   {
     "query": "installing pine flooring",
     "intent": "yelp_intent",
-    "city": "pine",
+    "city": null,
     "state": null
   },
   {
@@ -8443,7 +8443,7 @@
   },
   {
     "query": "interior home painting estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -8473,7 +8473,7 @@
   },
   {
     "query": "interior house painting estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -8504,7 +8504,7 @@
   {
     "query": "interior painter cost",
     "intent": "yelp_intent",
-    "city": "cost",
+    "city": null,
     "state": null
   },
   {
@@ -8534,13 +8534,13 @@
   {
     "query": "interior painting companies",
     "intent": "yelp_intent",
-    "city": "companies",
+    "city": null,
     "state": null
   },
   {
     "query": "interior painting company",
     "intent": "yelp_intent",
-    "city": "company",
+    "city": null,
     "state": null
   },
   {
@@ -8557,7 +8557,7 @@
   },
   {
     "query": "interior painting cost estimator",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -8570,7 +8570,7 @@
   {
     "query": "interior painting price per square foot",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "foot",
     "state": null
   },
   {
@@ -8612,25 +8612,25 @@
   {
     "query": "international moving services",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "international",
     "state": null
   },
   {
     "query": "international relocation",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
   {
     "query": "international relocation companies",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "international relocation services",
     "intent": "yelp_intent",
-    "city": "relocation",
+    "city": null,
     "state": null
   },
   {
@@ -8641,7 +8641,7 @@
   },
   {
     "query": "interstate moving",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -8653,14 +8653,14 @@
   },
   {
     "query": "intex",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "intex auto parts",
     "intent": "information_intent",
-    "city": null,
+    "city": "int",
     "state": null
   },
   {
@@ -8672,7 +8672,7 @@
   {
     "query": "ipoh kopitiam",
     "intent": "yelp_intent",
-    "city": "##iam",
+    "city": "ipohiam",
     "state": null
   },
   {
@@ -8707,38 +8707,38 @@
   },
   {
     "query": "its sushi",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "izakaya osen",
-    "intent": "information_intent",
-    "city": "osen",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "izakaya osen irvine",
-    "intent": "information_intent",
-    "city": "os irvine",
+    "intent": "yelp_intent",
+    "city": "irvine",
     "state": null
   },
   {
     "query": "izakaya torae torae",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "jackson rancheria buffet",
     "intent": "yelp_intent",
-    "city": "rancheria",
+    "city": "jackson ranch",
     "state": null
   },
   {
     "query": "jake gravbrot",
-    "intent": "yelp_intent",
-    "city": "##avbrot",
+    "intent": "",
+    "city": "##bro",
     "state": null
   },
   {
@@ -8749,8 +8749,8 @@
   },
   {
     "query": "jang su jang",
-    "intent": "yelp_intent",
-    "city": "jang",
+    "intent": "translation_intent",
+    "city": null,
     "state": null
   },
   {
@@ -8774,31 +8774,31 @@
   {
     "query": "joey newport beach",
     "intent": "yelp_intent",
-    "city": "beach",
+    "city": "newport beach",
     "state": null
   },
   {
     "query": "jose tejas",
-    "intent": "yelp_intent",
-    "city": "tejas",
+    "intent": "information_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "joshua tree saloon",
     "intent": "yelp_intent",
-    "city": "joshua tree",
+    "city": null,
     "state": null
   },
   {
     "query": "joyful palace",
-    "intent": "yelp_intent",
-    "city": "palace",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
     "query": "juliet culver city",
     "intent": "yelp_intent",
-    "city": "juliet culver city",
+    "city": "julietlver city",
     "state": null
   },
   {
@@ -8809,50 +8809,50 @@
   },
   {
     "query": "kajiken",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "kalaveras",
-    "intent": "information_intent",
+    "intent": "travel_intent",
     "city": "kalaveras",
     "state": null
   },
   {
     "query": "kansas air seeder service",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "kansas"
+    "city": "kansas seeder",
+    "state": null
   },
   {
     "query": "kantoflex",
-    "intent": "information_intent",
-    "city": "##le",
+    "intent": "",
+    "city": "kant",
     "state": null
   },
   {
     "query": "kapiolani seafood restaurant",
     "intent": "yelp_intent",
-    "city": "kapiolani",
+    "city": "ka",
     "state": null
   },
   {
     "query": "karaoke",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "kats sushi",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "kat",
     "state": null
   },
   {
     "query": "keens steakhouse",
-    "intent": "yelp_intent",
-    "city": "##s",
+    "intent": "translation_intent",
+    "city": null,
     "state": null
   },
   {
@@ -8864,13 +8864,13 @@
   {
     "query": "khoa pug hot pot",
     "intent": "yelp_intent",
-    "city": "kho pug",
+    "city": "k",
     "state": null
   },
   {
     "query": "king spa",
     "intent": "yelp_intent",
-    "city": "king spa",
+    "city": "king",
     "state": null
   },
   {
@@ -8888,7 +8888,7 @@
   {
     "query": "kitchen cabinet painting company",
     "intent": "yelp_intent",
-    "city": "company",
+    "city": null,
     "state": null
   },
   {
@@ -8905,7 +8905,7 @@
   },
   {
     "query": "kitchen cabinet painting cost estimator",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -8960,7 +8960,7 @@
   {
     "query": "kitchen painter in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -8971,13 +8971,13 @@
   },
   {
     "query": "kong sihk tong",
-    "intent": "information_intent",
-    "city": "kong",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "korean bbq",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -8989,7 +8989,7 @@
   },
   {
     "query": "korean corn dogs",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -9007,7 +9007,7 @@
   },
   {
     "query": "kpot",
-    "intent": "yelp_intent",
+    "intent": "unknown",
     "city": null,
     "state": null
   },
@@ -9019,14 +9019,14 @@
   },
   {
     "query": "kura sushi",
-    "intent": "information_intent",
-    "city": "ku",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "kyoto gyukatsu",
     "intent": "yelp_intent",
-    "city": "##yu",
+    "city": "kyoto",
     "state": null
   },
   {
@@ -9049,21 +9049,21 @@
   },
   {
     "query": "la grande boucherie",
-    "intent": "information_intent",
-    "city": "la grande boucherie",
+    "intent": "yelp_intent",
+    "city": "la grande",
     "state": null
   },
   {
     "query": "la pecora bianca",
     "intent": "yelp_intent",
-    "city": "la pea bianca",
-    "state": null
+    "city": null,
+    "state": "la"
   },
   {
     "query": "la taqueria",
-    "intent": "information_intent",
-    "city": "laqueria",
-    "state": null
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "la"
   },
   {
     "query": "labor cost for exterior painting",
@@ -9115,7 +9115,7 @@
   },
   {
     "query": "labor rate for painting",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -9146,7 +9146,7 @@
   {
     "query": "laundromat",
     "intent": "yelp_intent",
-    "city": "##romat",
+    "city": null,
     "state": null
   },
   {
@@ -9157,20 +9157,20 @@
   },
   {
     "query": "layla bagels",
-    "intent": "information_intent",
-    "city": "bagels",
+    "intent": "yelp_intent",
+    "city": "layla",
     "state": null
   },
   {
     "query": "le bernardin",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "le",
     "state": null
   },
   {
     "query": "le petit chef",
     "intent": "yelp_intent",
-    "city": "le",
+    "city": "le petit",
     "state": null
   },
   {
@@ -9182,7 +9182,7 @@
   {
     "query": "lee's noodle house",
     "intent": "yelp_intent",
-    "city": "house",
+    "city": null,
     "state": null
   },
   {
@@ -9200,7 +9200,7 @@
   {
     "query": "leggari epoxy garage floor",
     "intent": "yelp_intent",
-    "city": "leggar ep",
+    "city": "leg",
     "state": null
   },
   {
@@ -9217,8 +9217,8 @@
   },
   {
     "query": "limos",
-    "intent": "yelp_intent",
-    "city": "##s",
+    "intent": "travel_intent",
+    "city": null,
     "state": null
   },
   {
@@ -9253,13 +9253,13 @@
   },
   {
     "query": "live music",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
   {
     "query": "loading and unloading movers",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -9283,7 +9283,7 @@
   },
   {
     "query": "long distance moving and storage",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -9307,13 +9307,13 @@
   },
   {
     "query": "long distance moving options",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "long distance moving quotes",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -9361,7 +9361,7 @@
   },
   {
     "query": "looking for housekeeper",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -9386,7 +9386,7 @@
   {
     "query": "lord empanada",
     "intent": "information_intent",
-    "city": "emada",
+    "city": null,
     "state": null
   },
   {
@@ -9397,13 +9397,13 @@
   },
   {
     "query": "luck dim sum",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "lunch",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -9421,14 +9421,14 @@
   },
   {
     "query": "maccheroni republic",
-    "intent": "yelp_intent",
-    "city": "maconi",
+    "intent": "travel_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "madres brunch",
     "intent": "yelp_intent",
-    "city": "mad",
+    "city": null,
     "state": null
   },
   {
@@ -9553,7 +9553,7 @@
   },
   {
     "query": "maid service rates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -9607,7 +9607,7 @@
   },
   {
     "query": "maji curry",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "maj",
     "state": null
   },
@@ -9619,14 +9619,14 @@
   },
   {
     "query": "majordomo",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "mall",
     "intent": "yelp_intent",
-    "city": "mall",
+    "city": null,
     "state": null
   },
   {
@@ -9644,30 +9644,30 @@
   {
     "query": "mama's fish house",
     "intent": "yelp_intent",
-    "city": "' s fish house",
+    "city": null,
     "state": null
   },
   {
     "query": "marrakesh",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "marrakesh",
     "state": null
   },
   {
     "query": "marufuku ramen",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "navigation_intent",
+    "city": "maru",
     "state": null
   },
   {
     "query": "marugame monzo",
     "intent": "yelp_intent",
-    "city": "monzo",
+    "city": "mon",
     "state": null
   },
   {
     "query": "marvel cake",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -9691,8 +9691,8 @@
   },
   {
     "query": "matsuri izakaya tempe",
-    "intent": "weather_intent",
-    "city": "tempe",
+    "intent": "yelp_intent",
+    "city": "temp",
     "state": null
   },
   {
@@ -9715,20 +9715,20 @@
   },
   {
     "query": "meet fresh",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": null
   },
   {
     "query": "meizhou dongpo",
-    "intent": "yelp_intent",
-    "city": "##zhou dongpo",
+    "intent": "translation_intent",
+    "city": "meizhou dongpo",
     "state": null
   },
   {
     "query": "meokja meokja",
-    "intent": "information_intent",
-    "city": "me meja",
+    "intent": "unknown",
+    "city": null,
     "state": null
   },
   {
@@ -9758,7 +9758,7 @@
   {
     "query": "metal roof contractors in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
@@ -9805,8 +9805,8 @@
   },
   {
     "query": "metal roof quote",
-    "intent": "information_intent",
-    "city": "quote",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -9866,7 +9866,7 @@
   {
     "query": "metal roofing contractors in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
@@ -9931,19 +9931,19 @@
   },
   {
     "query": "microblading",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "mikiya wagyu shabu house",
     "intent": "yelp_intent",
-    "city": "##gy",
+    "city": null,
     "state": null
   },
   {
     "query": "millet crepe",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": "mill",
     "state": null
   },
@@ -9955,25 +9955,25 @@
   },
   {
     "query": "mirate",
-    "intent": "yelp_intent",
-    "city": "##te",
+    "intent": "unknown",
+    "city": "mira",
     "state": null
   },
   {
     "query": "misoolkwan",
-    "intent": "information_intent",
-    "city": "miskwan",
+    "intent": "",
+    "city": "##wan",
     "state": null
   },
   {
     "query": "mitsuken",
     "intent": "yelp_intent",
-    "city": "mitsuke",
-    "state": "##n"
+    "city": null,
+    "state": null
   },
   {
     "query": "mitsuwa",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10010,7 +10010,7 @@
   {
     "query": "mokkoji",
     "intent": "yelp_intent",
-    "city": "moji",
+    "city": "mo",
     "state": null
   },
   {
@@ -10021,14 +10021,14 @@
   },
   {
     "query": "money changer",
-    "intent": "information_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
   {
     "query": "mons venus",
-    "intent": "yelp_intent",
-    "city": "venus",
+    "intent": "",
+    "city": "mons",
     "state": null
   },
   {
@@ -10045,26 +10045,26 @@
   },
   {
     "query": "morning glory",
-    "intent": "information_intent",
-    "city": "glory",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
     "query": "moru fort lee",
-    "intent": "yelp_intent",
-    "city": "mor fort lee",
+    "intent": "travel_intent",
+    "city": "fort lee",
     "state": null
   },
   {
     "query": "mother wolf",
     "intent": "information_intent",
-    "city": "wolf",
+    "city": null,
     "state": null
   },
   {
     "query": "mother's tavern",
     "intent": "yelp_intent",
-    "city": "' s tavern",
+    "city": null,
     "state": null
   },
   {
@@ -10130,7 +10130,7 @@
   {
     "query": "move in move out cleaning service",
     "intent": "yelp_intent",
-    "city": "move",
+    "city": null,
     "state": null
   },
   {
@@ -10153,7 +10153,7 @@
   },
   {
     "query": "move out cleaning checklist",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10267,7 +10267,7 @@
   },
   {
     "query": "movers estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10291,26 +10291,26 @@
   },
   {
     "query": "movers from state to state",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "movers in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
     "query": "movers load and unload",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "movers near me cheap",
     "intent": "yelp_intent",
-    "city": "me cheap",
+    "city": null,
     "state": null
   },
   {
@@ -10339,7 +10339,7 @@
   },
   {
     "query": "movers quote",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10351,7 +10351,7 @@
   },
   {
     "query": "movers that pack for you",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10436,8 +10436,8 @@
   {
     "query": "moving co",
     "intent": "yelp_intent",
-    "city": "moving",
-    "state": null
+    "city": null,
+    "state": "co"
   },
   {
     "query": "moving companies",
@@ -10460,20 +10460,20 @@
   {
     "query": "moving companies in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
     "query": "moving companies reviews",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "moving",
     "state": null
   },
   {
     "query": "moving companies state to state",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
-    "state": null
+    "state": "state state"
   },
   {
     "query": "moving companies that move out of state",
@@ -10495,7 +10495,7 @@
   },
   {
     "query": "moving company",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10513,7 +10513,7 @@
   },
   {
     "query": "moving company estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10525,13 +10525,13 @@
   },
   {
     "query": "moving company quote",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "moving company rates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10544,7 +10544,7 @@
   {
     "query": "moving company reviews",
     "intent": "yelp_intent",
-    "city": "company",
+    "city": "moving company",
     "state": null
   },
   {
@@ -10562,18 +10562,18 @@
   {
     "query": "moving concierge services",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "moving",
     "state": null
   },
   {
     "query": "moving containers long distance",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "moving estimate",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": null
   },
@@ -10615,7 +10615,7 @@
   },
   {
     "query": "moving help by the hour",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10676,7 +10676,7 @@
   {
     "query": "moving labor services",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "moving",
     "state": null
   },
   {
@@ -10687,13 +10687,13 @@
   },
   {
     "query": "moving long distance on a budget",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "moving made easy",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10717,13 +10717,13 @@
   },
   {
     "query": "moving options",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "moving options for small loads",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10742,7 +10742,7 @@
   {
     "query": "moving out of state movers",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "move",
     "state": null
   },
   {
@@ -10765,7 +10765,7 @@
   },
   {
     "query": "moving price",
-    "intent": "information_intent",
+    "intent": "purchase_intent",
     "city": null,
     "state": null
   },
@@ -10789,7 +10789,7 @@
   },
   {
     "query": "moving service quote",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10819,7 +10819,7 @@
   },
   {
     "query": "moving single piece of furniture",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -10863,12 +10863,12 @@
     "query": "mr bbq",
     "intent": "yelp_intent",
     "city": null,
-    "state": null
+    "state": "mr"
   },
   {
     "query": "mumu hot pot",
     "intent": "yelp_intent",
-    "city": "mum",
+    "city": null,
     "state": null
   },
   {
@@ -10897,20 +10897,20 @@
   },
   {
     "query": "names for house cleaning services",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "nan xiang xiao long bao",
     "intent": "information_intent",
-    "city": "bao",
+    "city": null,
     "state": null
   },
   {
     "query": "nana's green tea bellevue",
     "intent": "yelp_intent",
-    "city": "nana",
+    "city": "bellevue",
     "state": null
   },
   {
@@ -10928,7 +10928,7 @@
   {
     "query": "national police and troopers association",
     "intent": "information_intent",
-    "city": null,
+    "city": "national association",
     "state": null
   },
   {
@@ -10957,14 +10957,14 @@
   },
   {
     "query": "ncsa reviews",
-    "intent": "yelp_intent",
-    "city": null,
+    "intent": "",
+    "city": "nc",
     "state": null
   },
   {
     "query": "near me painter",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "painter",
     "state": null
   },
   {
@@ -11012,7 +11012,7 @@
   {
     "query": "new fence stain",
     "intent": "yelp_intent",
-    "city": "new",
+    "city": null,
     "state": null
   },
   {
@@ -11042,7 +11042,7 @@
   {
     "query": "new home cleaning service",
     "intent": "yelp_intent",
-    "city": "new",
+    "city": "new home",
     "state": null
   },
   {
@@ -11102,7 +11102,7 @@
   {
     "query": "new roof pay monthly",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "new",
     "state": null
   },
   {
@@ -11113,7 +11113,7 @@
   },
   {
     "query": "new roof quote",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11125,14 +11125,14 @@
   },
   {
     "query": "new texture paint",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
   {
     "query": "new trim stain",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "new",
     "state": null
   },
   {
@@ -11150,12 +11150,12 @@
   {
     "query": "niku x",
     "intent": "information_intent",
-    "city": "nik",
-    "state": "x"
+    "city": null,
+    "state": null
   },
   {
     "query": "no comment pasadena",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": "pasadena",
     "state": null
   },
@@ -11186,55 +11186,55 @@
   {
     "query": "northwoods inn",
     "intent": "yelp_intent",
-    "city": "northwoods inn",
+    "city": "##woods inn",
     "state": null
   },
   {
     "query": "notary",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "nursery",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "nyonya",
-    "intent": "information_intent",
-    "city": "nyonya",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
     "query": "oak floor installation",
     "intent": "yelp_intent",
-    "city": "oak",
+    "city": null,
     "state": null
   },
   {
     "query": "oak flooring installation",
     "intent": "yelp_intent",
-    "city": "oak",
+    "city": null,
     "state": null
   },
   {
     "query": "oak flooring repair",
     "intent": "yelp_intent",
-    "city": "oak",
+    "city": null,
     "state": null
   },
   {
     "query": "oak hardwood floor repair",
     "intent": "yelp_intent",
-    "city": "oak hardwood",
+    "city": null,
     "state": null
   },
   {
     "query": "oc and lau",
     "intent": "yelp_intent",
-    "city": "##c lau",
+    "city": "lau",
     "state": null
   },
   {
@@ -11257,8 +11257,8 @@
   },
   {
     "query": "olleh sushi",
-    "intent": "information_intent",
-    "city": "olle",
+    "intent": "yelp_intent",
+    "city": "ol",
     "state": null
   },
   {
@@ -11269,7 +11269,7 @@
   },
   {
     "query": "one item movers",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11311,7 +11311,7 @@
   },
   {
     "query": "one time maid service",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11323,7 +11323,7 @@
   },
   {
     "query": "one way moving",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11335,13 +11335,13 @@
   },
   {
     "query": "onigiri",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "online roof estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11371,14 +11371,14 @@
   },
   {
     "query": "orobae",
-    "intent": "information_intent",
-    "city": "oro",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "orobae menu",
     "intent": "yelp_intent",
-    "city": "oroba",
+    "city": null,
     "state": null
   },
   {
@@ -11390,7 +11390,7 @@
   {
     "query": "osteria mozza",
     "intent": "yelp_intent",
-    "city": "##zza",
+    "city": null,
     "state": null
   },
   {
@@ -11468,7 +11468,7 @@
   {
     "query": "pack & load services",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "&",
     "state": null
   },
   {
@@ -11541,7 +11541,7 @@
     "query": "packing help",
     "intent": "yelp_intent",
     "city": null,
-    "state": "help"
+    "state": null
   },
   {
     "query": "packing help for moving",
@@ -11577,18 +11577,18 @@
     "query": "paczki",
     "intent": "yelp_intent",
     "city": null,
-    "state": "##ki"
+    "state": null
   },
   {
     "query": "padam padam bbq",
-    "intent": "information_intent",
-    "city": "pad padam",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
     "query": "paint aluminium siding",
     "intent": "yelp_intent",
-    "city": "aluminium",
+    "city": null,
     "state": null
   },
   {
@@ -11599,7 +11599,7 @@
   },
   {
     "query": "paint bedroom estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11612,7 +11612,7 @@
   {
     "query": "paint chimney",
     "intent": "yelp_intent",
-    "city": "chimney",
+    "city": null,
     "state": null
   },
   {
@@ -11623,13 +11623,13 @@
   },
   {
     "query": "paint contracter",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "paint contractor today",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11647,7 +11647,7 @@
   },
   {
     "query": "paint estimates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11665,7 +11665,7 @@
   },
   {
     "query": "paint home estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11689,13 +11689,13 @@
   },
   {
     "query": "paint house quote",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "paint interior and exterior",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11708,7 +11708,7 @@
   {
     "query": "paint my house",
     "intent": "yelp_intent",
-    "city": "house",
+    "city": null,
     "state": null
   },
   {
@@ -11719,13 +11719,13 @@
   },
   {
     "query": "paint quote",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "paint referral",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11773,13 +11773,13 @@
   },
   {
     "query": "paint square footage estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "painted house estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11797,7 +11797,7 @@
   },
   {
     "query": "painter cost per hour",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11815,9 +11815,9 @@
   },
   {
     "query": "painter interior/exterior",
-    "intent": "information_intent",
-    "city": null,
-    "state": "/"
+    "intent": "yelp_intent",
+    "city": "/",
+    "state": null
   },
   {
     "query": "painter near by me",
@@ -11828,18 +11828,18 @@
   {
     "query": "painter near me cheap",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "cheap",
     "state": null
   },
   {
     "query": "painter pro",
     "intent": "yelp_intent",
     "city": null,
-    "state": "pro"
+    "state": null
   },
   {
     "query": "painter quote",
-    "intent": "information_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -11851,14 +11851,14 @@
   },
   {
     "query": "painter rate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "painter ratings",
     "intent": "yelp_intent",
-    "city": "painter",
+    "city": null,
     "state": null
   },
   {
@@ -11894,7 +11894,7 @@
   {
     "query": "painters in my area",
     "intent": "yelp_intent",
-    "city": "my area",
+    "city": "area",
     "state": null
   },
   {
@@ -11906,13 +11906,13 @@
   {
     "query": "painters near me cheap",
     "intent": "yelp_intent",
-    "city": "me cheap",
+    "city": "cheap",
     "state": null
   },
   {
     "query": "painters near me exterior",
     "intent": "yelp_intent",
-    "city": "me",
+    "city": null,
     "state": null
   },
   {
@@ -11965,7 +11965,7 @@
   },
   {
     "query": "painting and sandblasting",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -11984,7 +11984,7 @@
   {
     "query": "painting brick house",
     "intent": "yelp_intent",
-    "city": "brick house",
+    "city": null,
     "state": null
   },
   {
@@ -12039,12 +12039,12 @@
     "query": "painting companies",
     "intent": "yelp_intent",
     "city": null,
-    "state": "companies"
+    "state": null
   },
   {
     "query": "painting companies in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "my area",
     "state": null
   },
   {
@@ -12073,8 +12073,8 @@
   },
   {
     "query": "painting contractor directory",
-    "intent": "information_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "directory",
     "state": null
   },
   {
@@ -12115,25 +12115,25 @@
   },
   {
     "query": "painting cost per square foot",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "painting estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "painting estimates",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "painting estimators",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12146,7 +12146,7 @@
   {
     "query": "painting exterior brick",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "brick",
     "state": null
   },
   {
@@ -12164,7 +12164,7 @@
   {
     "query": "painting house",
     "intent": "yelp_intent",
-    "city": "house",
+    "city": null,
     "state": null
   },
   {
@@ -12200,8 +12200,8 @@
   {
     "query": "painting kitchen cabinets white",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "white"
+    "city": "white",
+    "state": null
   },
   {
     "query": "painting labor cost per square foot",
@@ -12211,7 +12211,7 @@
   },
   {
     "query": "painting labor rate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12224,7 +12224,7 @@
   {
     "query": "painting new stucco wall",
     "intent": "yelp_intent",
-    "city": "new stucco",
+    "city": null,
     "state": null
   },
   {
@@ -12236,12 +12236,12 @@
   {
     "query": "painting price foot",
     "intent": "yelp_intent",
-    "city": "foot",
+    "city": "price foot",
     "state": null
   },
   {
     "query": "painting price per square foot",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12265,19 +12265,19 @@
   },
   {
     "query": "painting quote",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "painting quotes",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "painting rate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12289,7 +12289,7 @@
   },
   {
     "query": "painting room hourly rate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12314,7 +12314,7 @@
   {
     "query": "painting siding",
     "intent": "yelp_intent",
-    "city": "siding",
+    "city": null,
     "state": null
   },
   {
@@ -12337,7 +12337,7 @@
   },
   {
     "query": "painting wall",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12350,24 +12350,24 @@
   {
     "query": "painting your house",
     "intent": "yelp_intent",
-    "city": "house",
+    "city": null,
     "state": null
   },
   {
     "query": "palmettos slidell",
-    "intent": "yelp_intent",
-    "city": "palmettos slidell",
+    "intent": "purchase_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "paradis books",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
   {
     "query": "paradis books and bread",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -12380,18 +12380,18 @@
   {
     "query": "paradise dynasty",
     "intent": "information_intent",
-    "city": "paradise dynasty",
+    "city": null,
     "state": null
   },
   {
     "query": "paranormal cirque",
-    "intent": "information_intent",
+    "intent": "",
     "city": "ci",
     "state": null
   },
   {
     "query": "parks",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -12403,7 +12403,7 @@
   },
   {
     "query": "passport photos",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
@@ -12440,7 +12440,7 @@
   {
     "query": "pelicana",
     "intent": "yelp_intent",
-    "city": "pelicana",
+    "city": null,
     "state": null
   },
   {
@@ -12463,7 +12463,7 @@
   },
   {
     "query": "pest control",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -12481,7 +12481,7 @@
   },
   {
     "query": "peter luger",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -12494,7 +12494,7 @@
   {
     "query": "petting zoo",
     "intent": "yelp_intent",
-    "city": "##ting zoo",
+    "city": "##ting",
     "state": null
   },
   {
@@ -12505,20 +12505,20 @@
   },
   {
     "query": "pho",
-    "intent": "information_intent",
-    "city": "ph",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "pho kim long",
-    "intent": "information_intent",
-    "city": "long",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "phoholic",
-    "intent": "yelp_intent",
-    "city": "##oh",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
@@ -12529,13 +12529,13 @@
   },
   {
     "query": "piercing",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
   {
     "query": "piercing places",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -12547,14 +12547,14 @@
   },
   {
     "query": "piglet and co",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": "co"
   },
   {
     "query": "pijja palace",
     "intent": "yelp_intent",
-    "city": "pijja palace",
+    "city": "pija",
     "state": null
   },
   {
@@ -12566,7 +12566,7 @@
   {
     "query": "pine and crane",
     "intent": "yelp_intent",
-    "city": "pine and crane",
+    "city": null,
     "state": null
   },
   {
@@ -12578,19 +12578,19 @@
   {
     "query": "pizzeria bianco",
     "intent": "yelp_intent",
-    "city": "bico",
+    "city": "##an",
     "state": null
   },
   {
     "query": "pizzeria bianco phoenix",
     "intent": "yelp_intent",
-    "city": "bico phoenix",
+    "city": "##an phoenix",
     "state": null
   },
   {
     "query": "pizzeria sei",
     "intent": "yelp_intent",
-    "city": "se",
+    "city": null,
     "state": null
   },
   {
@@ -12633,31 +12633,31 @@
     "query": "pocha k",
     "intent": "yelp_intent",
     "city": null,
-    "state": "k"
+    "state": null
   },
   {
     "query": "podiatrist",
-    "intent": "weather_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "poke",
-    "intent": "information_intent",
+    "intent": "unknown",
     "city": null,
     "state": null
   },
   {
     "query": "poke one n half",
-    "intent": "information_intent",
+    "intent": "unknown",
     "city": null,
-    "state": "n"
+    "state": null
   },
   {
     "query": "poki one n half",
-    "intent": "information_intent",
-    "city": "po",
-    "state": "n"
+    "intent": "yelp_intent",
+    "city": null,
+    "state": null
   },
   {
     "query": "pool cleaners",
@@ -12679,7 +12679,7 @@
   },
   {
     "query": "pool table movers",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12691,7 +12691,7 @@
   },
   {
     "query": "pool table moving service",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12703,7 +12703,7 @@
   },
   {
     "query": "pop on veneers",
-    "intent": "yelp_intent",
+    "intent": "purchase_intent",
     "city": null,
     "state": null
   },
@@ -12715,7 +12715,7 @@
   },
   {
     "query": "pottery classes",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -12734,7 +12734,7 @@
   {
     "query": "powerhouse moving",
     "intent": "yelp_intent",
-    "city": "moving",
+    "city": null,
     "state": null
   },
   {
@@ -12763,20 +12763,20 @@
   },
   {
     "query": "price for house painting",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "price hardwood floor",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "price house cleaning services",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "price",
     "state": null
   },
   {
@@ -12787,19 +12787,19 @@
   },
   {
     "query": "price of metal roofing",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "price of refinishing wood floors",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "price of tin roofing",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "query": "price to paint a room",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -12907,7 +12907,7 @@
   },
   {
     "query": "pro movers",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -12921,7 +12921,7 @@
     "query": "pro painting company",
     "intent": "yelp_intent",
     "city": null,
-    "state": "company"
+    "state": null
   },
   {
     "query": "pro painting contractors",
@@ -12967,7 +12967,7 @@
   },
   {
     "query": "professional cabinet painters",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -13045,7 +13045,7 @@
   },
   {
     "query": "professional door painter",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -13213,7 +13213,7 @@
   },
   {
     "query": "professional moving company",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
@@ -13237,7 +13237,7 @@
   },
   {
     "query": "professional painters",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -13250,7 +13250,7 @@
   {
     "query": "professional painting company",
     "intent": "yelp_intent",
-    "city": "company",
+    "city": null,
     "state": null
   },
   {
@@ -13327,8 +13327,8 @@
   },
   {
     "query": "publix",
-    "intent": "yelp_intent",
-    "city": "pub",
+    "intent": "purchase_intent",
+    "city": null,
     "state": null
   },
   {
@@ -13375,20 +13375,20 @@
   },
   {
     "query": "quote for refinishing hardwood floor",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "quote for residential cleaning",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "rage room",
     "intent": "yelp_intent",
-    "city": "rage",
+    "city": null,
     "state": null
   },
   {
@@ -13405,25 +13405,25 @@
   },
   {
     "query": "ramen nagi",
-    "intent": "information_intent",
-    "city": "na",
-    "state": null
-  },
-  {
-    "query": "rancho swap meet",
-    "intent": "navigation_intent",
-    "city": "rancho",
-    "state": null
-  },
-  {
-    "query": "rated cross country moving companies",
     "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
+    "query": "rancho swap meet",
+    "intent": "navigation_intent",
+    "city": null,
+    "state": null
+  },
+  {
+    "query": "rated cross country moving companies",
+    "intent": "yelp_intent",
+    "city": "country",
+    "state": null
+  },
+  {
     "query": "rated moving companies",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -13436,13 +13436,13 @@
   {
     "query": "ray's bbq",
     "intent": "yelp_intent",
-    "city": "'",
+    "city": null,
     "state": null
   },
   {
     "query": "real wood floor installation",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "real",
     "state": null
   },
   {
@@ -13496,7 +13496,7 @@
   {
     "query": "redo hardwood floor",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "##o",
     "state": null
   },
   {
@@ -13508,7 +13508,7 @@
   {
     "query": "redoing hardwood floors",
     "intent": "yelp_intent",
-    "city": "##oin",
+    "city": null,
     "state": null
   },
   {
@@ -13604,7 +13604,7 @@
   {
     "query": "refinish pine floor",
     "intent": "yelp_intent",
-    "city": "pine",
+    "city": null,
     "state": null
   },
   {
@@ -13742,13 +13742,13 @@
   {
     "query": "refinishing oak floor",
     "intent": "yelp_intent",
-    "city": "oak",
+    "city": null,
     "state": null
   },
   {
     "query": "refinishing oak hardwood floors",
     "intent": "yelp_intent",
-    "city": "oak hardwood",
+    "city": null,
     "state": null
   },
   {
@@ -13760,7 +13760,7 @@
   {
     "query": "refinishing old wood floors",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "old wood",
     "state": null
   },
   {
@@ -13772,19 +13772,19 @@
   {
     "query": "refinishing pine floors",
     "intent": "yelp_intent",
-    "city": "pine",
+    "city": null,
     "state": null
   },
   {
     "query": "refinishing pine wood floors",
     "intent": "yelp_intent",
-    "city": "pine wood",
+    "city": null,
     "state": null
   },
   {
     "query": "refinishing slate floor",
     "intent": "yelp_intent",
-    "city": "slate",
+    "city": null,
     "state": null
   },
   {
@@ -13855,7 +13855,7 @@
   },
   {
     "query": "relocation cost",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -13879,7 +13879,7 @@
   },
   {
     "query": "relocators",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": null
   },
@@ -13928,13 +13928,13 @@
   {
     "query": "repair parquet flooring",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "par",
     "state": null
   },
   {
     "query": "repair scratch in wood floor",
     "intent": "yelp_intent",
-    "city": "wood",
+    "city": null,
     "state": null
   },
   {
@@ -14168,7 +14168,7 @@
   {
     "query": "residential cleaning business",
     "intent": "yelp_intent",
-    "city": "business",
+    "city": null,
     "state": null
   },
   {
@@ -14294,7 +14294,7 @@
   {
     "query": "residential mover",
     "intent": "yelp_intent",
-    "city": "move",
+    "city": null,
     "state": null
   },
   {
@@ -14366,7 +14366,7 @@
   {
     "query": "residential roofers",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "##ers",
     "state": null
   },
   {
@@ -14402,7 +14402,7 @@
   {
     "query": "restaurant depot",
     "intent": "yelp_intent",
-    "city": "depot",
+    "city": null,
     "state": null
   },
   {
@@ -14515,20 +14515,20 @@
   },
   {
     "query": "rezdora",
-    "intent": "yelp_intent",
+    "intent": "unknown",
     "city": "##ora",
     "state": null
   },
   {
     "query": "rhode runner",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": "rhode"
   },
   {
     "query": "rice and nori",
     "intent": "yelp_intent",
-    "city": "rice",
+    "city": null,
     "state": null
   },
   {
@@ -14546,7 +14546,7 @@
   {
     "query": "roma antica",
     "intent": "yelp_intent",
-    "city": "antica",
+    "city": "##ca",
     "state": null
   },
   {
@@ -14617,7 +14617,7 @@
   },
   {
     "query": "roof estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -14683,7 +14683,7 @@
   },
   {
     "query": "roof leaks in heavy rain",
-    "intent": "weather_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -14713,7 +14713,7 @@
   },
   {
     "query": "roof price",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -14786,7 +14786,7 @@
   {
     "query": "roof replacement quotes",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "quotes",
     "state": null
   },
   {
@@ -14840,7 +14840,7 @@
   {
     "query": "roofers in my area",
     "intent": "yelp_intent",
-    "city": "my",
+    "city": "area",
     "state": null
   },
   {
@@ -14887,7 +14887,7 @@
   },
   {
     "query": "roofing company reviews",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -14947,7 +14947,7 @@
   },
   {
     "query": "roofing estimates per square",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -14959,14 +14959,14 @@
   },
   {
     "query": "roofing price per square",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "roofing price per square installed",
-    "intent": "purchase_intent",
-    "city": null,
+    "intent": "yelp_intent",
+    "city": "price per square",
     "state": null
   },
   {
@@ -15001,7 +15001,7 @@
   },
   {
     "query": "roofing reviews",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -15109,8 +15109,8 @@
   },
   {
     "query": "sally poppert",
-    "intent": "yelp_intent",
-    "city": "##t",
+    "intent": "translation_intent",
+    "city": null,
     "state": null
   },
   {
@@ -15121,7 +15121,7 @@
   },
   {
     "query": "saltbreaker alameda",
-    "intent": "yelp_intent",
+    "intent": "weather_intent",
     "city": "alameda",
     "state": null
   },
@@ -15157,7 +15157,7 @@
   },
   {
     "query": "same day maid service",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -15170,13 +15170,13 @@
   {
     "query": "same day moving",
     "intent": "information_intent",
-    "city": "moving",
+    "city": null,
     "state": null
   },
   {
     "query": "san ho won",
     "intent": "yelp_intent",
-    "city": "ho",
+    "city": "san ho",
     "state": null
   },
   {
@@ -15194,7 +15194,7 @@
   {
     "query": "sandblasting and painting",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "##bla",
     "state": null
   },
   {
@@ -15218,7 +15218,7 @@
   {
     "query": "sandless wood floor refinishing",
     "intent": "yelp_intent",
-    "city": "wood",
+    "city": null,
     "state": null
   },
   {
@@ -15277,74 +15277,74 @@
   },
   {
     "query": "sante la brea",
-    "intent": "yelp_intent",
-    "city": "sant",
+    "intent": "translation_intent",
+    "city": "sant la brea",
     "state": null
   },
   {
     "query": "saru handroll bar",
     "intent": "yelp_intent",
-    "city": "sar",
+    "city": null,
     "state": null
   },
   {
     "query": "satellite roof estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "sauna",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "savoy kitchen",
     "intent": "yelp_intent",
-    "city": "savoy kitchen",
+    "city": "savoy",
     "state": null
   },
   {
     "query": "schedule a cleaner",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "schwartz and sandy",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": "schwartz sandy",
     "state": null
   },
   {
     "query": "schwartz and sandy's",
-    "intent": "information_intent",
-    "city": "schwartz sandy ' s",
+    "intent": "translation_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "schwartz and sandy's menu",
     "intent": "yelp_intent",
-    "city": "sandy '",
+    "city": null,
     "state": null
   },
   {
     "query": "schwartz and sandys",
-    "intent": "yelp_intent",
-    "city": "sandys",
+    "intent": "translation_intent",
+    "city": "schwartz sandy",
     "state": null
   },
   {
     "query": "sea bowl",
-    "intent": "information_intent",
-    "city": "sea",
+    "intent": "travel_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "sea bowl pacifica",
-    "intent": "yelp_intent",
-    "city": "pacific",
+    "intent": "travel_intent",
+    "city": "pacifica",
     "state": null
   },
   {
@@ -15361,14 +15361,14 @@
   },
   {
     "query": "seapot",
-    "intent": "yelp_intent",
-    "city": "sea",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
     "query": "seapot daly city",
-    "intent": "yelp_intent",
-    "city": "sea",
+    "intent": "travel_intent",
+    "city": "daly city",
     "state": null
   },
   {
@@ -15380,7 +15380,7 @@
   {
     "query": "second chance apartments",
     "intent": "yelp_intent",
-    "city": "chance",
+    "city": "second chance",
     "state": null
   },
   {
@@ -15397,7 +15397,7 @@
   },
   {
     "query": "seneca",
-    "intent": "information_intent",
+    "intent": "navigation_intent",
     "city": "seneca",
     "state": null
   },
@@ -15427,20 +15427,20 @@
   },
   {
     "query": "shabu shabu",
-    "intent": "information_intent",
-    "city": "sha",
+    "intent": "navigation_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "shabuya",
     "intent": "yelp_intent",
-    "city": "##ya",
+    "city": null,
     "state": null
   },
   {
     "query": "shabuya la mirada",
     "intent": "yelp_intent",
-    "city": "##ya la mirada",
+    "city": "la mirada",
     "state": null
   },
   {
@@ -15511,19 +15511,19 @@
   },
   {
     "query": "shoto dc",
-    "intent": "yelp_intent",
+    "intent": "",
     "city": null,
     "state": "dc"
   },
   {
     "query": "shoto dc menu",
-    "intent": "yelp_intent",
-    "city": "shoto",
+    "intent": "",
+    "city": "dc",
     "state": null
   },
   {
     "query": "shukette",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "##tte",
     "state": null
   },
@@ -15536,7 +15536,7 @@
   {
     "query": "siding painter",
     "intent": "yelp_intent",
-    "city": "painter",
+    "city": null,
     "state": null
   },
   {
@@ -15590,7 +15590,7 @@
   {
     "query": "sling bungee fitness",
     "intent": "yelp_intent",
-    "city": "bungee",
+    "city": "##gee",
     "state": null
   },
   {
@@ -15661,7 +15661,7 @@
   },
   {
     "query": "smog check",
-    "intent": "yelp_intent",
+    "intent": "navigation_intent",
     "city": null,
     "state": null
   },
@@ -15673,7 +15673,7 @@
   },
   {
     "query": "smoothies",
-    "intent": "yelp_intent",
+    "intent": "information_intent",
     "city": null,
     "state": null
   },
@@ -15716,13 +15716,13 @@
   {
     "query": "son and garden",
     "intent": "yelp_intent",
-    "city": "and",
+    "city": null,
     "state": null
   },
   {
     "query": "sono bello",
     "intent": "yelp_intent",
-    "city": "sono",
+    "city": "##o",
     "state": null
   },
   {
@@ -15763,7 +15763,7 @@
   },
   {
     "query": "spas",
-    "intent": "yelp_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
@@ -15806,7 +15806,7 @@
   {
     "query": "spring cleaning services",
     "intent": "yelp_intent",
-    "city": "spring",
+    "city": null,
     "state": null
   },
   {
@@ -15823,14 +15823,14 @@
   },
   {
     "query": "squlpt",
-    "intent": "information_intent",
+    "intent": "unknown",
     "city": null,
     "state": null
   },
   {
     "query": "stacks pancake house",
     "intent": "yelp_intent",
-    "city": "stacks house",
+    "city": null,
     "state": null
   },
   {
@@ -15848,7 +15848,7 @@
   {
     "query": "stairs wood flooring installation",
     "intent": "yelp_intent",
-    "city": "wood",
+    "city": null,
     "state": null
   },
   {
@@ -15878,12 +15878,12 @@
   {
     "query": "star dance studio",
     "intent": "yelp_intent",
-    "city": "studio",
+    "city": null,
     "state": null
   },
   {
     "query": "state bird provisions",
-    "intent": "information_intent",
+    "intent": "travel_intent",
     "city": null,
     "state": null
   },
@@ -15895,7 +15895,7 @@
   },
   {
     "query": "state to state moving companies",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -15956,7 +15956,7 @@
   {
     "query": "sun nong dan",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "non",
     "state": null
   },
   {
@@ -15968,7 +15968,7 @@
   {
     "query": "sup noodle bar",
     "intent": "yelp_intent",
-    "city": "su",
+    "city": null,
     "state": null
   },
   {
@@ -15980,7 +15980,7 @@
   {
     "query": "sur restaurant",
     "intent": "yelp_intent",
-    "city": "sur",
+    "city": null,
     "state": null
   },
   {
@@ -15992,18 +15992,18 @@
   {
     "query": "sushi 35 west",
     "intent": "yelp_intent",
-    "city": "35 west",
+    "city": "west",
     "state": null
   },
   {
     "query": "sushi cho",
     "intent": "yelp_intent",
-    "city": null,
-    "state": "cho"
+    "city": "cho",
+    "state": null
   },
   {
     "query": "sushi nakazawa",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "nakawa",
     "state": null
   },
@@ -16022,31 +16022,31 @@
   {
     "query": "sushi yuen",
     "intent": "yelp_intent",
-    "city": "yuen",
+    "city": "yue",
     "state": null
   },
   {
     "query": "swan oyster depot",
     "intent": "yelp_intent",
-    "city": "swan oyster depot",
+    "city": null,
     "state": null
   },
   {
     "query": "swartz and sandys",
-    "intent": "yelp_intent",
-    "city": "##artz and sandys",
+    "intent": "purchase_intent",
+    "city": "sandys",
     "state": null
   },
   {
     "query": "sweet maple",
-    "intent": "information_intent",
-    "city": "maple",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "sweet maple cupertino",
-    "intent": "information_intent",
-    "city": "maple cupertino",
+    "intent": "yelp_intent",
+    "city": "##ertino",
     "state": null
   },
   {
@@ -16058,13 +16058,13 @@
   {
     "query": "szechuan house",
     "intent": "yelp_intent",
-    "city": "szen house",
+    "city": "##chuan",
     "state": null
   },
   {
     "query": "szechuan mountain house",
-    "intent": "yelp_intent",
-    "city": "##zen mountain",
+    "intent": "travel_intent",
+    "city": null,
     "state": null
   },
   {
@@ -16075,7 +16075,7 @@
   },
   {
     "query": "taco tuesday",
-    "intent": "navigation_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -16106,7 +16106,7 @@
   {
     "query": "taqueria el amigo waltham",
     "intent": "yelp_intent",
-    "city": "elgo waltham",
+    "city": "el amigo waltham",
     "state": null
   },
   {
@@ -16141,15 +16141,15 @@
   },
   {
     "query": "telp",
-    "intent": "yelp_intent",
-    "city": "tel",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
     "query": "texas roadhouse",
     "intent": "yelp_intent",
     "city": null,
-    "state": null
+    "state": "texas"
   },
   {
     "query": "texture painter",
@@ -16165,7 +16165,7 @@
   },
   {
     "query": "thads",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "tha",
     "state": null
   },
@@ -16202,7 +16202,7 @@
   {
     "query": "thirsty cow",
     "intent": "yelp_intent",
-    "city": "cow",
+    "city": null,
     "state": null
   },
   {
@@ -16225,14 +16225,14 @@
   },
   {
     "query": "thumbling",
-    "intent": "information_intent",
+    "intent": "unknown",
     "city": null,
     "state": null
   },
   {
     "query": "tierra mia",
-    "intent": "yelp_intent",
-    "city": "tierra",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
@@ -16279,7 +16279,7 @@
   },
   {
     "query": "toca madera",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": "madera",
     "state": null
   },
@@ -16292,13 +16292,13 @@
   {
     "query": "tom tom restaurant",
     "intent": "yelp_intent",
-    "city": "tom",
+    "city": null,
     "state": null
   },
   {
     "query": "tomi jazz",
-    "intent": "yelp_intent",
-    "city": "tom",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
@@ -16309,37 +16309,37 @@
   },
   {
     "query": "tonchin",
-    "intent": "information_intent",
-    "city": "tonchin",
+    "intent": "yelp_intent",
+    "city": "ton",
     "state": null
   },
   {
     "query": "tonchin la",
-    "intent": "information_intent",
-    "city": "ton la",
-    "state": null
+    "intent": "yelp_intent",
+    "city": null,
+    "state": "la"
   },
   {
     "query": "tonkatsu tamafuji",
-    "intent": "information_intent",
-    "city": "ton tamuj",
+    "intent": "yelp_intent",
+    "city": "ton",
     "state": null
   },
   {
     "query": "top 10 moving companies",
-    "intent": "information_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
   {
     "query": "top 10 roofers",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "top 5 moving companies",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -16387,7 +16387,7 @@
   },
   {
     "query": "top rated house cleaners",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -16399,13 +16399,13 @@
   },
   {
     "query": "top rated moving companies",
-    "intent": "information_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
   {
     "query": "top rated painters",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -16417,7 +16417,7 @@
   },
   {
     "query": "top rated roofing companies",
-    "intent": "purchase_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -16429,8 +16429,8 @@
   },
   {
     "query": "torrisi",
-    "intent": "information_intent",
-    "city": "tori",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -16460,7 +16460,7 @@
   {
     "query": "trampoline park",
     "intent": "yelp_intent",
-    "city": "##ine park",
+    "city": "park",
     "state": null
   },
   {
@@ -16471,7 +16471,7 @@
   },
   {
     "query": "twinkle donuts",
-    "intent": "yelp_intent",
+    "intent": "unknown",
     "city": null,
     "state": null
   },
@@ -16490,24 +16490,24 @@
   {
     "query": "tyelp",
     "intent": "yelp_intent",
-    "city": "tyelp",
-    "state": null
-  },
-  {
-    "query": "typical moving costs",
-    "intent": "information_intent",
     "city": null,
     "state": null
   },
   {
-    "query": "uelp",
+    "query": "typical moving costs",
     "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
+    "query": "uelp",
+    "intent": "unknown",
+    "city": null,
+    "state": null
+  },
+  {
     "query": "ultra sushi",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -16555,7 +16555,7 @@
   },
   {
     "query": "urgent care",
-    "intent": "yelp_intent",
+    "intent": "translation_intent",
     "city": null,
     "state": null
   },
@@ -16568,7 +16568,7 @@
   {
     "query": "vape shop",
     "intent": "yelp_intent",
-    "city": "va",
+    "city": null,
     "state": null
   },
   {
@@ -16639,8 +16639,8 @@
   },
   {
     "query": "wah fung",
-    "intent": "information_intent",
-    "city": "fung",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -16663,14 +16663,14 @@
   },
   {
     "query": "wang cho",
-    "intent": "yelp_intent",
-    "city": "wang cho",
+    "intent": "translation_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "wang cho korean bbq",
     "intent": "yelp_intent",
-    "city": "wang",
+    "city": null,
     "state": null
   },
   {
@@ -16681,19 +16681,19 @@
   },
   {
     "query": "watch repair",
-    "intent": "purchase_intent",
-    "city": null,
-    "state": null
-  },
-  {
-    "query": "waxing",
     "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
+    "query": "waxing",
+    "intent": "unknown",
+    "city": null,
+    "state": null
+  },
+  {
     "query": "way to move locally",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -16747,7 +16747,7 @@
   },
   {
     "query": "where to find a painter",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -16777,14 +16777,14 @@
   },
   {
     "query": "wi spa",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": "wi"
   },
   {
     "query": "wicked spoon",
-    "intent": "yelp_intent",
-    "city": "spoon",
+    "intent": "",
+    "city": null,
     "state": null
   },
   {
@@ -16814,7 +16814,7 @@
   {
     "query": "wine bar",
     "intent": "yelp_intent",
-    "city": null,
+    "city": "bar",
     "state": null
   },
   {
@@ -16873,8 +16873,8 @@
   },
   {
     "query": "wood floor estimator",
-    "intent": "information_intent",
-    "city": "wood",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
@@ -16934,7 +16934,7 @@
   {
     "query": "wood floor refinisher",
     "intent": "yelp_intent",
-    "city": "wood",
+    "city": null,
     "state": null
   },
   {
@@ -17011,14 +17011,14 @@
   },
   {
     "query": "wood flooring estimate",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "wood flooring estimator",
     "intent": "yelp_intent",
-    "city": "wood",
+    "city": null,
     "state": null
   },
   {
@@ -17161,37 +17161,37 @@
   },
   {
     "query": "yakiniq",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "yamashiro",
     "intent": "yelp_intent",
-    "city": "ya",
+    "city": null,
     "state": null
   },
   {
     "query": "yangban society",
-    "intent": "information_intent",
-    "city": "yangban",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "yangmani",
-    "intent": "information_intent",
-    "city": "yangmani",
+    "intent": "yelp_intent",
+    "city": null,
     "state": null
   },
   {
     "query": "ye's apothecary",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "yoga",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
@@ -17203,20 +17203,20 @@
   },
   {
     "query": "you move me",
-    "intent": "information_intent",
+    "intent": "yelp_intent",
     "city": null,
     "state": null
   },
   {
     "query": "yume wo katare",
-    "intent": "information_intent",
-    "city": "kata",
+    "intent": "yelp_intent",
+    "city": "yu katare",
     "state": null
   },
   {
     "query": "zara charlotte nc",
-    "intent": "yelp_intent",
-    "city": "za charlotte nc",
+    "intent": "",
+    "city": "charlotte nc",
     "state": null
   }
 ]
